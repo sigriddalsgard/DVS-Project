@@ -1,750 +1,750 @@
-City number;City;Country;% population exposed > 55 dB Lden;Exposure data source;Noise map quality;% annoyed adults;Avoidable deaths
-1;Wien;Austria;86,5;Strategic noise map;Moderate;12,5;86
-2;Graz;Austria;52,4;Strategic noise map;Moderate;8,3;7
-3;Linz;Austria;49,5;Strategic noise map;Moderate;8,8;6
-4;Salzburg;Austria;51,2;Strategic noise map;Moderate;7,4;3
-5;Innsbruck;Austria;45,0;Strategic noise map;Moderate;6,8;3
-6;Klagenfurt;Austria;50,2;Estimated (gap filling method);;7,9;3
-7;Bruxelles / Brussel;Belgium;30,3;Strategic noise map;High;6,5;11
-8;Antwerpen;Belgium;87,4;Strategic noise map;High;17,6;15
-9;Gent;Belgium;87,3;Strategic noise map;High;16,1;6
-10;Charleroi;Belgium;72,1;Strategic noise map;Moderate;12,5;6
-11;Liège;Belgium;84,6;Estimated (gap filling method);;15,6;13
-12;Brugge;Belgium;74,6;Strategic noise map;High;12,5;3
-13;Namur;Belgium;79,2;Estimated (gap filling method);;13,6;3
-14;Leuven;Belgium;84,7;Strategic noise map;High;14,8;2
-15;Mons;Belgium;80,8;Estimated (gap filling method);;14,2;3
-16;Kortrijk;Belgium;83,3;Strategic noise map;High;14,3;2
-17;Oostende;Belgium;77,5;Strategic noise map;High;12,4;2
-18;Sofia;Bulgaria;99,8;Strategic noise map;Low;25,3;77
-19;Plovdiv;Bulgaria;99,7;Strategic noise map;Low;30,1;53
-20;Varna;Bulgaria;98,7;Strategic noise map;Low;20,0;19
-21;Burgas;Bulgaria;94,7;Strategic noise map;Low;22,0;11
-22;Pleven;Bulgaria;95,5;Strategic noise map;Low;21,9;6
-23;Ruse;Bulgaria;93,4;Strategic noise map;Low;19,3;7
-24;Vidin;Bulgaria;96,8;Estimated (gap filling method);;20,5;3
-25;Stara Zagora;Bulgaria;97,8;Estimated (gap filling method);;21,9;5
-26;Sliven;Bulgaria;96,9;Estimated (gap filling method);;20,5;3
-27;Dobrich;Bulgaria;97,4;Estimated (gap filling method);;21,7;3
-28;Shumen;Bulgaria;97,4;Estimated (gap filling method);;21,3;4
-29;Pernik;Bulgaria;97,2;Estimated (gap filling method);;21,0;5
-30;Yambol;Bulgaria;98,5;Estimated (gap filling method);;23,4;5
-31;Haskovo;Bulgaria;97,3;Estimated (gap filling method);;21,1;6
-32;Pazardzhik;Bulgaria;97,8;Estimated (gap filling method);;21,7;4
-33;Blagoevgrad;Bulgaria;98,3;Estimated (gap filling method);;23,1;3
-34;Veliko Tarnovo;Bulgaria;97,0;Estimated (gap filling method);;20,4;1
-35;Vratsa;Bulgaria;97,3;Estimated (gap filling method);;21,2;4
-36;Zürich;Switzerland;41,7;Strategic noise map;High;7,4;7
-37;Zürich (metropolitan area) ;Switzerland;44,9;Strategic noise map;High;8,0;11
-38;Genève;Switzerland;68,7;Strategic noise map;High;14,3;4
-39;Genève (metropolitan area) ;Switzerland;62,5;Strategic noise map;High;12,4;6
-40;Basel;Switzerland;41,1;Strategic noise map;High;7,4;3
-41;Basel (metropolitan area) ;Switzerland;40,5;Strategic noise map;High;7,1;5
-42;Bern;Switzerland;40,1;Strategic noise map;High;6,9;2
-43;Bern (metropolitan area) ;Switzerland;42,0;Strategic noise map;High;7,2;4
-44;Lausanne;Switzerland;51,5;Strategic noise map;High;9,1;2
-45;Lausanne (metropolitan area) ;Switzerland;51,5;Strategic noise map;High;9,0;3
-46;Winterthur;Switzerland;41,2;Strategic noise map;High;7,3;2
-47;St. Gallen;Switzerland;46,3;Strategic noise map;High;8,1;2
-48;Luzern;Switzerland;50,0;Strategic noise map;High;9,1;2
-49;Luzern (metropolitan area) ;Switzerland;47,0;Strategic noise map;High;8,3;3
-50;Lugano;Switzerland;57,5;Strategic noise map;High;10,8;2
-51;Lugano (metropolitan area) ;Switzerland;57,7;Strategic noise map;High;10,8;2
-52;Biel/Bienne;Switzerland;42,5;Strategic noise map;High;7,5;1
-53;Praha;Czech Republic;70,6;Strategic noise map;Moderate;12,7;93
-54;Brno;Czech Republic;63,2;Strategic noise map;Moderate;11,6;31
-55;Ostrava;Czech Republic;65,9;Strategic noise map;Moderate;12,7;27
-56;Plzen;Czech Republic;43,9;Strategic noise map;Moderate;8,2;8
-57;Ústí nad Labem;Czech Republic;64,2;Strategic noise map;Moderate;11,8;7
-58;Olomouc;Czech Republic;54,3;Strategic noise map;Moderate;9,9;6
-59;Liberec;Czech Republic;69,2;Strategic noise map;Moderate;12,8;7
-60;Ceské Budejovice;Czech Republic;37,3;Estimated (gap filling method);;5,8;2
-61;Hradec Králové;Czech Republic;58,2;Estimated (gap filling method);;10,0;5
-62;Pardubice;Czech Republic;59,6;Estimated (gap filling method);;10,3;6
-63;Zlín;Czech Republic;56,2;Estimated (gap filling method);;9,4;5
-64;Kladno;Czech Republic;42,4;Estimated (gap filling method);;6,8;3
-65;Karlovy Vary;Czech Republic;39,3;Estimated (gap filling method);;6,2;2
-66;Jihlava;Czech Republic;58,9;Estimated (gap filling method);;10,2;3
-67;Havírov;Czech Republic;29,9;Strategic noise map;Moderate;4,9;2
-68;Most;Czech Republic;67,0;Estimated (gap filling method);;12,3;5
-69;Karviná;Czech Republic;47,3;Strategic noise map;Moderate;7,6;3
-70;Chomutov-Jirkov;Czech Republic;39,7;Estimated (gap filling method);;6,3;2
-71;Berlin;Germany;29,8;Strategic noise map;Moderate;4,8;42
-72;Hamburg;Germany;19,9;Strategic noise map;Moderate;4,1;23
-73;München;Germany;20,9;Strategic noise map;Moderate;3,6;12
-74;Köln;Germany;40,2;Strategic noise map;Moderate;7,5;23
-75;Frankfurt am Main;Germany;30,7;Strategic noise map;Moderate;6,3;12
-76;Essen;Germany;37,1;Strategic noise map;Moderate;7,5;18
-77;Stuttgart;Germany;21,8;Strategic noise map;Moderate;4,2;7
-78;Leipzig;Germany;21,6;Strategic noise map;Moderate;4,0;7
-79;Dresden;Germany;23,1;Strategic noise map;Moderate;4,2;7
-80;Dortmund;Germany;44,5;Strategic noise map;Moderate;7,6;17
-81;Düsseldorf;Germany;60,2;Strategic noise map;Moderate;10,4;21
-82;Bremen;Germany;31,9;Strategic noise map;Moderate;5,5;10
-83;Hannover;Germany;24,7;Strategic noise map;Moderate;4,5;8
-84;Nürnberg;Germany;34,0;Strategic noise map;Moderate;5,9;10
-85;Bochum;Germany;16,5;Strategic noise map;Moderate;3,0;4
-86;Bielefeld;Germany;39,2;Strategic noise map;Moderate;7,4;8
-87;Halle an der Saale;Germany;30,8;Strategic noise map;Moderate;6,0;6
-88;Magdeburg;Germany;31,5;Strategic noise map;Moderate;5,9;6
-89;Wiesbaden;Germany;26,6;Strategic noise map;Moderate;5,4;5
-90;Göttingen;Germany;33,0;Estimated (gap filling method);;5,9;2
-91;Mülheim a.d.Ruhr;Germany;29,0;Strategic noise map;Moderate;5,5;4
-92;Moers;Germany;49,5;Strategic noise map;Moderate;8,3;3
-93;Darmstadt;Germany;20,5;Strategic noise map;Moderate;4,0;2
-94;Trier;Germany;29,8;Estimated (gap filling method);;5,2;2
-95;Freiburg im Breisgau;Germany;31,0;Strategic noise map;Moderate;5,6;3
-96;Regensburg;Germany;36,5;Strategic noise map;Moderate;6,5;3
-97;Frankfurt (Oder);Germany;35,7;Estimated (gap filling method);;6,4;1
-98;Weimar;Germany;30,1;Estimated (gap filling method);;5,3;1
-99;Schwerin;Germany;30,8;Estimated (gap filling method);;5,4;2
-100;Erfurt;Germany;32,1;Estimated (gap filling method);;5,7;4
-101;Augsburg;Germany;19,7;Strategic noise map;Moderate;3,4;3
-102;Bonn;Germany;26,3;Strategic noise map;Moderate;4,5;4
-103;Karlsruhe;Germany;32,6;Strategic noise map;Moderate;5,7;5
-104;Mönchengladbach;Germany;32,9;Strategic noise map;Moderate;6,0;6
-105;Mainz;Germany;28,9;Strategic noise map;Moderate;5,1;3
-106;Kiel;Germany;25,4;Strategic noise map;Moderate;4,6;3
-107;Saarbrücken;Germany;31,9;Strategic noise map;Moderate;5,9;4
-108;Potsdam;Germany;26,5;Strategic noise map;Moderate;5,0;3
-109;Koblenz;Germany;60,2;Strategic noise map;Low;10,5;5
-110;Rostock;Germany;21,8;Strategic noise map;Moderate;3,8;3
-111;Kaiserslautern;Germany;29,9;Estimated (gap filling method);;5,3;2
-112;Iserlohn;Germany;32,2;Estimated (gap filling method);;5,8;2
-113;Esslingen am Neckar;Germany;31,7;Estimated (gap filling method);;5,7;2
-114;Hanau;Germany;31,6;Estimated (gap filling method);;5,6;2
-115;Wilhelmshaven;Germany;33,2;Estimated (gap filling method);;5,9;2
-116;Ludwigsburg;Germany;31,4;Estimated (gap filling method);;5,6;2
-117;Tübingen;Germany;27,9;Estimated (gap filling method);;4,8;1
-118;Villingen-Schwenningen;Germany;32,3;Estimated (gap filling method);;5,8;2
-119;Flensburg;Germany;39,0;Estimated (gap filling method);;7,1;2
-120;Marburg;Germany;35,1;Estimated (gap filling method);;6,3;1
-121;Konstanz;Germany;28,8;Estimated (gap filling method);;5,0;1
-122;Neumünster;Germany;35,4;Estimated (gap filling method);;6,3;2
-123;Brandenburg an der Havel;Germany;32,5;Estimated (gap filling method);;5,7;2
-124;Gießen;Germany;34,5;Estimated (gap filling method);;6,2;1
-125;Lüneburg;Germany;34,8;Estimated (gap filling method);;6,3;1
-126;Bayreuth;Germany;31,9;Estimated (gap filling method);;5,7;1
-127;Celle;Germany;32,8;Estimated (gap filling method);;5,8;2
-128;Aschaffenburg;Germany;32,6;Estimated (gap filling method);;5,8;1
-129;Bamberg;Germany;34,0;Estimated (gap filling method);;6,1;2
-130;Plauen;Germany;28,5;Estimated (gap filling method);;4,9;1
-131;Neubrandenburg;Germany;30,5;Estimated (gap filling method);;5,4;1
-132;Fulda;Germany;36,6;Estimated (gap filling method);;6,6;1
-133;Kempten (Allgäu);Germany;36,1;Estimated (gap filling method);;6,7;2
-134;Landshut;Germany;32,2;Estimated (gap filling method);;5,7;1
-135;Sindelfingen;Germany;32,7;Estimated (gap filling method);;5,9;1
-136;Rosenheim;Germany;34,0;Estimated (gap filling method);;6,1;1
-137;Frankenthal (Pfalz);Germany;37,8;Estimated (gap filling method);;6,9;1
-138;Stralsund;Germany;34,3;Estimated (gap filling method);;6,1;1
-139;Friedrichshafen;Germany;32,7;Estimated (gap filling method);;5,8;1
-140;Offenburg;Germany;30,8;Estimated (gap filling method);;5,4;1
-141;Görlitz;Germany;33,1;Estimated (gap filling method);;5,9;2
-142;Sankt Augustin;Germany;31,2;Estimated (gap filling method);;5,6;1
-143;Neu-Ulm;Germany;32,1;Estimated (gap filling method);;5,7;1
-144;Schweinfurt;Germany;31,6;Estimated (gap filling method);;5,6;1
-145;Greifswald;Germany;33,1;Estimated (gap filling method);;5,9;1
-146;Wetzlar;Germany;33,1;Estimated (gap filling method);;6,1;1
-147;Speyer;Germany;33,2;Estimated (gap filling method);;6,0;1
-148;Passau;Germany;34,2;Estimated (gap filling method);;6,1;1
-149;Dessau-Roßlau;Germany;33,2;Estimated (gap filling method);;5,9;2
-150;Duisburg;Germany;42,1;Strategic noise map;Moderate;7,7;16
-151;Mannheim;Germany;36,4;Strategic noise map;Moderate;6,7;6
-152;Gelsenkirchen;Germany;42,0;Strategic noise map;Moderate;7,6;8
-153;Münster;Germany;25,4;Strategic noise map;Moderate;4,4;3
-154;Chemnitz;Germany;18,1;Strategic noise map;Moderate;3,6;4
-155;Braunschweig;Germany;21,4;Strategic noise map;Moderate;3,8;3
-156;Aachen;Germany;58,9;Strategic noise map;Moderate;9,6;6
-157;Krefeld;Germany;30,6;Strategic noise map;Moderate;5,4;4
-158;Oberhausen;Germany;49,0;Strategic noise map;Moderate;8,0;7
-159;Lübeck;Germany;26,8;Strategic noise map;Moderate;4,6;4
-160;Hagen;Germany;80,7;Strategic noise map;Moderate;18,4;16
-161;Kassel;Germany;16,2;Strategic noise map;Moderate;3,1;2
-162;Hamm;Germany;34,3;Estimated (gap filling method);;6,1;4
-163;Herne;Germany;42,3;Strategic noise map;Moderate;7,7;5
-164;Solingen;Germany;34,3;Estimated (gap filling method);;6,2;4
-165;Osnabrück;Germany;25,2;Strategic noise map;Moderate;4,7;2
-166;Ludwigshafen am Rhein;Germany;46,2;Strategic noise map;Moderate;7,5;4
-167;Leverkusen;Germany;56,6;Strategic noise map;Moderate;9,8;6
-168;Oldenburg (Oldenburg);Germany;34,9;Strategic noise map;Moderate;6,0;3
-169;Neuss;Germany;54,7;Strategic noise map;Moderate;9,2;5
-170;Heidelberg;Germany;41,1;Strategic noise map;Moderate;7,3;3
-171;Paderborn;Germany;36,0;Estimated (gap filling method);;6,5;3
-172;Würzburg;Germany;36,9;Strategic noise map;Moderate;6,3;3
-173;Recklinghausen;Germany;48,4;Strategic noise map;Moderate;8,9;4
-174;Wolfsburg;Germany;33,9;Estimated (gap filling method);;6,0;3
-175;Bremerhaven;Germany;19,2;Strategic noise map;Moderate;3,1;1
-176;Bottrop;Germany;39,6;Strategic noise map;Moderate;6,6;3
-177;Heilbronn;Germany;23,2;Strategic noise map;Moderate;4,4;2
-178;Remscheid;Germany;19,7;Strategic noise map;Moderate;3,8;2
-179;Offenbach am Main;Germany;25,0;Strategic noise map;Moderate;5,4;2
-180;Ulm;Germany;19,5;Strategic noise map;Moderate;4,0;2
-181;Pforzheim;Germany;27,2;Strategic noise map;Moderate;5,9;3
-182;Ingolstadt;Germany;42,0;Strategic noise map;Moderate;6,6;2
-183;Gera;Germany;33,4;Estimated (gap filling method);;5,9;2
-184;Salzgitter;Germany;38,5;Estimated (gap filling method);;7,1;3
-185;Reutlingen;Germany;18,4;Strategic noise map;Moderate;3,9;1
-186;Fürth;Germany;28,7;Strategic noise map;Moderate;4,7;2
-187;Cottbus;Germany;34,7;Estimated (gap filling method);;6,2;2
-188;Siegen;Germany;35,0;Estimated (gap filling method);;6,3;2
-189;Bergisch Gladbach;Germany;17,8;Strategic noise map;Moderate;3,2;1
-190;Hildesheim;Germany;31,8;Estimated (gap filling method);;5,7;2
-191;Witten;Germany;35,4;Estimated (gap filling method);;6,4;3
-192;Zwickau;Germany;33,7;Estimated (gap filling method);;6,0;2
-193;Erlangen;Germany;42,2;Strategic noise map;Moderate;7,1;2
-194;Wuppertal;Germany;37,3;Strategic noise map;Moderate;6,7;9
-195;Jena;Germany;28,0;Estimated (gap filling method);;4,9;2
-196;Düren, Stadt;Germany;32,3;Estimated (gap filling method);;5,7;2
-197;Bocholt, Stadt;Germany;34,4;Estimated (gap filling method);;6,2;1
-198;København;Denmark;46,5;Strategic noise map;Moderate;8,2;5
-199;Århus;Denmark;28,6;Strategic noise map;Moderate;4,8;2
-200;Odense;Denmark;29,2;Estimated (gap filling method);;4,9;2
-201;Aalborg;Denmark;29,0;Strategic noise map;Moderate;4,9;2
-202;Tallinn;Estonia;34,9;Strategic noise map;Moderate;6,8;15
-203;Tartu;Estonia;28,0;Strategic noise map;Moderate;4,7;2
-204;Narva;Estonia;29,6;Estimated (gap filling method);;5,4;2
-205;Madrid;Spain;43,8;Strategic noise map;High;7,9;39
-206;Barcelona;Spain;83,4;Strategic noise map;Low;16,5;47
-207;Valencia;Spain;86,4;Strategic noise map;Low;16,4;28
-208;Sevilla;Spain;88,7;Estimated (gap filling method);;17,0;25
-209;Zaragoza;Spain;79,2;Estimated (gap filling method);;14,3;18
-210;Málaga;Spain;90,6;Strategic noise map;Low;15,9;17
-211;Murcia;Spain;54,0;Strategic noise map;Low;8,5;5
-212;Las Palmas;Spain;86,8;Estimated (gap filling method);;16,7;13
-213;Valladolid;Spain;83,4;Estimated (gap filling method);;15,1;9
-214;Palma de Mallorca;Spain;82,5;Strategic noise map;Low;17,3;13
-215;Santiago de Compostela;Spain;70,2;Estimated (gap filling method);;11,8;2
-216;Vitoria/Gasteiz;Spain;89,9;Strategic noise map;Low;15,4;5
-217;Oviedo;Spain;79,6;Strategic noise map;Low;14,0;8
-218;Pamplona/Iruña;Spain;96,3;Strategic noise map;Low;20,5;6
-219;Santander;Spain;92,3;Strategic noise map;Low;17,2;5
-220;Toledo;Spain;78,3;Estimated (gap filling method);;13,7;1
-221;Badajoz;Spain;72,4;Strategic noise map;Low;12,0;3
-222;Logroño;Spain;92,8;Strategic noise map;Low;15,3;4
-223;Bilbao;Spain;94,1;Strategic noise map;Low;17,6;11
-224;Córdoba;Spain;70,2;Estimated (gap filling method);;12,0;7
-225;Alicante/Alacant;Spain;62,2;Strategic noise map;Low;11,1;7
-226;Vigo;Spain;75,5;Strategic noise map;Low;13,3;6
-227;Gijón;Spain;81,8;Estimated (gap filling method);;14,9;12
-228;L'Hospitalet de Llobregat;Spain;75,4;Strategic noise map;Low;14,2;5
-229;Santa Cruz de Tenerife;Spain;96,4;Strategic noise map;Low;17,6;8
-230;A Coruña;Spain;90,4;Strategic noise map;Low;20,5;9
-231;Barakaldo;Spain;90,9;Estimated (gap filling method);;18,4;3
-232;Reus;Spain;67,4;Estimated (gap filling method);;11,4;2
-233;Telde;Spain;77,2;Estimated (gap filling method);;13,7;2
-234;Parla;Spain;89,9;Estimated (gap filling method);;17,4;2
-235;Lugo;Spain;73,1;Estimated (gap filling method);;12,7;2
-236;San Fernando;Spain;88,4;Estimated (gap filling method);;16,9;3
-237;Girona;Spain;85,2;Strategic noise map;Low;17,5;2
-238;Cáceres;Spain;67,0;Estimated (gap filling method);;11,1;2
-239;Torrevieja;Spain;72,7;Estimated (gap filling method);;12,1;2
-240;Pozuelo de Alarcón;Spain;76,4;Estimated (gap filling method);;13,3;1
-241;Puerto de Santa María, El;Spain;70,6;Estimated (gap filling method);;11,7;1
-242;Coslada;Spain;89,9;Estimated (gap filling method);;17,3;1
-243;Avilés;Spain;82,3;Estimated (gap filling method);;14,8;3
-244;Talavera de la Reina;Spain;76,5;Estimated (gap filling method);;13,2;2
-245;Palencia;Spain;79,4;Estimated (gap filling method);;13,9;2
-246;Sant Boi de Llobregat;Spain;64,9;Strategic noise map;Low;10,2;1
-247;Ferrol;Spain;70,6;Estimated (gap filling method);;11,8;2
-248;Pontevedra;Spain;65,2;Estimated (gap filling method);;10,6;1
-249;Ceuta;Spain;87,2;Estimated (gap filling method);;16,7;2
-250;Gandia;Spain;82,3;Estimated (gap filling method);;14,7;2
-251;Rozas de Madrid, Las;Spain;73,9;Estimated (gap filling method);;12,5;1
-252;Guadalajara;Spain;80,9;Estimated (gap filling method);;14,2;2
-253;Sant Cugat del Vallès;Spain;59,6;Estimated (gap filling method);;9,7;1
-254;Manresa;Spain;68,7;Estimated (gap filling method);;11,7;1
-255;Getxo;Spain;87,1;Estimated (gap filling method);;16,6;2
-256;Rubí;Spain;58,6;Estimated (gap filling method);;9,5;1
-257;Ciudad Real;Spain;75,6;Estimated (gap filling method);;12,9;1
-258;Benidorm;Spain;75,2;Estimated (gap filling method);;12,8;2
-259;Melilla;Spain;92,1;Estimated (gap filling method);;19,4;2
-260;Viladecans;Spain;65,1;Strategic noise map;Low;9,1;1
-261;Ponferrada;Spain;66,8;Estimated (gap filling method);;10,9;1
-262;San Sebastián de los Reyes;Spain;79,4;Estimated (gap filling method);;14,1;1
-263;Zamora;Spain;81,9;Estimated (gap filling method);;14,6;2
-264;Fuengirola;Spain;86,0;Estimated (gap filling method);;16,0;2
-265;Cerdanyola del Vallès;Spain;64,2;Estimated (gap filling method);;10,7;1
-266;Sanlúcar de Barrameda;Spain;67,9;Estimated (gap filling method);;11,2;1
-267;Vilanova i la Geltrú;Spain;58,5;Estimated (gap filling method);;9,5;1
-268;Prat de Llobregat, El;Spain;77,6;Estimated (gap filling method);;13,9;1
-269;Línea de la Concepción, La;Spain;86,7;Estimated (gap filling method);;16,1;2
-270;Cornellà de Llobregat;Spain;80,6;Strategic noise map;Low;14,6;2
-271;Majadahonda;Spain;82,5;Estimated (gap filling method);;14,9;1
-272;Torremolinos;Spain;82,1;Estimated (gap filling method);;14,5;1
-273;Castelldefels;Spain;67,1;Estimated (gap filling method);;11,4;1
-274;Irun;Spain;81,3;Estimated (gap filling method);;14,4;1
-275;Granollers;Spain;69,4;Estimated (gap filling method);;11,8;1
-276;Arrecife;Spain;88,3;Estimated (gap filling method);;16,9;1
-277;Elda;Spain;84,4;Estimated (gap filling method);;15,4;2
-278;Santa Lucía de Tirajana;Spain;87,2;Estimated (gap filling method);;16,5;1
-279;Mollet del Vallès;Spain;71,9;Estimated (gap filling method);;12,5;1
-280;Granada;Spain;91,7;Strategic noise map;Low;15,7;8
-281;Badalona;Spain;72,4;Strategic noise map;Low;11,7;3
-282;Móstoles;Spain;87,3;Strategic noise map;Low;23,3;5
-283;Elche/Elx;Spain;29,0;Strategic noise map;Low;6,2;3
-284;Cartagena;Spain;37,5;Strategic noise map;Low;5,8;2
-285;Sabadell;Spain;78,0;Strategic noise map;Low;13,2;4
-286;Jerez de la Frontera;Spain;68,0;Estimated (gap filling method);;11,3;3
-287;Fuenlabrada;Spain;92,7;Estimated (gap filling method);;18,7;3
-288;San Sebastián/Donostia;Spain;93,8;Strategic noise map;Low;15,7;4
-289;Alcalá de Henares;Spain;93,6;Strategic noise map;Low;19,4;5
-290;Terrassa;Spain;77,6;Strategic noise map;Low;12,7;4
-291;Leganés;Spain;94,1;Strategic noise map;Low;16,9;4
-292;Almería;Spain;60,1;Strategic noise map;Low;10,8;4
-293;Burgos;Spain;92,1;Strategic noise map;Low;16,5;5
-294;Salamanca;Spain;94,7;Strategic noise map;Low;16,5;5
-295;Alcorcón;Spain;95,3;Strategic noise map;Low;17,7;3
-296;Getafe;Spain;93,7;Strategic noise map;Low;17,2;3
-297;Albacete;Spain;65,0;Strategic noise map;Low;13,5;3
-298;Castellón de la Plana/Castelló de la Plana;Spain;83,4;Strategic noise map;Low;17,7;7
-299;Huelva;Spain;89,0;Estimated (gap filling method);;17,2;5
-300;Cádiz;Spain;94,6;Strategic noise map;Low;16,6;4
-301;León;Spain;94,4;Strategic noise map;Low;16,7;5
-302;San Cristóbal de la Laguna;Spain;82,6;Estimated (gap filling method);;15,5;4
-303;Tarragona;Spain;77,2;Strategic noise map;Low;12,5;2
-304;Santa Coloma de Gramenet;Spain;87,8;Strategic noise map;Low;17,7;3
-305;Jaén;Spain;73,2;Estimated (gap filling method);;12,7;3
-306;Lleida;Spain;65,9;Estimated (gap filling method);;11,1;2
-307;Ourense;Spain;74,1;Estimated (gap filling method);;12,7;3
-308;Mataró;Spain;85,8;Strategic noise map;Low;17,8;3
-309;Dos Hermanas;Spain;75,4;Estimated (gap filling method);;12,9;2
-310;Algeciras;Spain;97,0;Strategic noise map;Low;17,2;3
-311;Marbella;Spain;67,9;Estimated (gap filling method);;11,2;2
-312;Torrejón de Ardoz;Spain;84,1;Strategic noise map;Low;15,1;1
-313;Alcobendas;Spain;83,6;Strategic noise map;Low;14,8;1
-314;Alcalá de Guadaíra;Spain;73,1;Estimated (gap filling method);;12,5;1
-315;Alcoy;Spain;77,7;Estimated (gap filling method);;13,6;2
-316;Ávila;Spain;77,4;Estimated (gap filling method);;13,3;1
-317;Benalmádena;Spain;75,3;Estimated (gap filling method);;12,7;1
-318;Chiclana de la Frontera;Spain;63,1;Estimated (gap filling method);;10,1;1
-319;Collado Villalba;Spain;78,6;Estimated (gap filling method);;13,6;1
-320;Cuenca;Spain;76,4;Estimated (gap filling method);;13,3;1
-321;Eivissa;Spain;86,4;Estimated (gap filling method);;16,2;1
-322;Linares;Spain;77,3;Estimated (gap filling method);;13,4;2
-323;Lorca;Spain;55,8;Estimated (gap filling method);;8,8;1
-324;Mérida;Spain;64,1;Estimated (gap filling method);;10,4;1
-325;Sagunto;Spain;72,9;Estimated (gap filling method);;12,3;2
-326;Torrelavega;Spain;82,7;Estimated (gap filling method);;14,9;2
-327;Valdemoro;Spain;86,9;Estimated (gap filling method);;16,1;1
-328;Puerto de la Cruz;Spain;81,2;Estimated (gap filling method);;14,5;1
-329;Paterna;Spain;77,2;Estimated (gap filling method);;13,4;1
-330;Igualada;Spain;63,0;Estimated (gap filling method);;10,4;1
-331;Torrent;Spain;68,2;Estimated (gap filling method);;11,2;2
-332;Mislata;Spain;95,0;Estimated (gap filling method);;21,2;2
-333;Rivas-Vaciamadrid;Spain;77,2;Estimated (gap filling method);;13,2;0
-334;Santurtzi;Spain;91,1;Estimated (gap filling method);;18,6;1
-335;Esplugues de Llobregat;Spain;66,5;Strategic noise map;Low;11,2;1
-336;San Vicente del Raspeig/Sant Vicent del Raspeig;Spain;68,7;Estimated (gap filling method);;11,3;1
-337;Helsinki / Helsingfors;Finland;45,1;Strategic noise map;Moderate;8,1;15
-338;Tampere / Tammerfors;Finland;53,0;Strategic noise map;Moderate;8,9;7
-339;Turku / Åbo;Finland;52,9;Strategic noise map;Moderate;10,5;8
-340;Oulu / Uleåborg;Finland;39,6;Strategic noise map;Moderate;6,4;4
-341;Espoo / Esbo;Finland;33,2;Strategic noise map;Moderate;5,6;3
-342;Vantaa / Vanda;Finland;49,9;Strategic noise map;Moderate;9,0;4
-343;Lahti / Lahtis;Finland;32,5;Strategic noise map;Moderate;6,0;3
-344;Kuopio;Finland;58,3;Strategic noise map;Moderate;10,5;6
-345;Jyväskylä;Finland;47,3;Strategic noise map;Moderate;8,8;4
-346;Paris;France;59,2;Strategic noise map;Moderate;13,7;27
-347;Paris (metropolitan area) ;France;66,9;Strategic noise map;Moderate;12,9;70
-348;Nice;France;19,5;Strategic noise map;Moderate;3,1;2
-349;Marne la Vallée;France;73,6;Strategic noise map;Moderate;10,8;0
-350;Versailles;France;65,2;Strategic noise map;Moderate;10,6;1
-351;CC de la Boucle de la Seine;France;56,9;Strategic noise map;Moderate;8,1;1
-352;Sénart en Essonne;France;38,9;Strategic noise map;Moderate;5,8;0
-353;CA Marne et Chantereine;France;61,4;Strategic noise map;Moderate;8,4;0
-354;CA des deux Rives de la Seine;France;63,2;Strategic noise map;Moderate;8,9;0
-355;CC des Coteaux de la Seine;France;57,7;Strategic noise map;Moderate;9,2;0
-356;CA Europ' Essonne;France;74,2;Strategic noise map;Moderate;11,9;1
-357;CA Brie Francilienne;France;72,4;Strategic noise map;Moderate;10,7;0
-358;CA les Portes de l'Essonne;France;78,1;Strategic noise map;Moderate;11,9;0
-359;CA Val et Forêt;France;69,3;Strategic noise map;Moderate;10,9;1
-360;CC de l'Ouest de la Plaine de France;France;65,2;Strategic noise map;Moderate;10,4;0
-361;CA le Parisis;France;61,4;Strategic noise map;Moderate;10,0;1
-362;Mantes en Yvelines;France;69,5;Strategic noise map;Moderate;11,1;1
-363;Evry;France;75,3;Strategic noise map;Moderate;12,6;1
-364;CA du Plateau de Saclay;France;69,0;Strategic noise map;Moderate;10,3;1
-365;CA de Seine Essonne;France;57,5;Strategic noise map;Moderate;9,6;1
-366;CA du Val d'Orge;France;64,9;Strategic noise map;Moderate;9,7;1
-367;CA du Val d'Yerres;France;57,4;Strategic noise map;Moderate;7,9;0
-368;CA Sénart - Val de Seine;France;67,5;Strategic noise map;Moderate;9,8;1
-369;CA Val de France;France;61,0;Strategic noise map;Moderate;9,0;1
-370;CA de la Vallée de Montmorency;France;57,3;Strategic noise map;Moderate;8,2;1
-371;Argenteuil - Bezons;France;70,4;Strategic noise map;Moderate;10,9;1
-372;Cergy-Pontoise;France;57,4;Strategic noise map;Moderate;9,3;1
-373;CA des Lacs de l'Essonne;France;82,3;Strategic noise map;Moderate;13,4;0
-374;Saint-Quentin en Yvelines;France;82,9;Strategic noise map;Moderate;13,6;1
-375;Budapest;Hungary;38,2;Strategic noise map;Moderate;7,4;86
-376;Miskolc;Hungary;42,8;Strategic noise map;Moderate;6,9;10
-377;Nyíregyháza;Hungary;33,2;Strategic noise map;Moderate;5,4;4
-378;Pécs;Hungary;31,0;Strategic noise map;High;5,3;6
-379;Debrecen;Hungary;32,1;Strategic noise map;Moderate;5,2;8
-380;Szeged;Hungary;37,9;Strategic noise map;Moderate;6,3;6
-381;Gyõr;Hungary;33,5;Strategic noise map;Moderate;6,2;5
-382;Kecskemét;Hungary;33,3;Estimated (gap filling method);;5,8;4
-383;Székesfehérvár;Hungary;33,4;Estimated (gap filling method);;5,9;3
-384;Szombathely;Hungary;38,2;Estimated (gap filling method);;6,8;3
-385;Szolnok;Hungary;33,1;Estimated (gap filling method);;5,8;3
-386;Tatabánya;Hungary;37,4;Estimated (gap filling method);;6,8;3
-387;Veszprém;Hungary;35,4;Estimated (gap filling method);;6,2;2
-388;Békéscsaba;Hungary;34,2;Estimated (gap filling method);;5,9;2
-389;Kaposvár;Hungary;35,8;Estimated (gap filling method);;6,3;3
-390;Eger;Hungary;35,4;Estimated (gap filling method);;6,2;3
-391;Dunaújváros;Hungary;33,9;Estimated (gap filling method);;5,9;2
-392;Zalaegerszeg;Hungary;34,1;Estimated (gap filling method);;5,9;2
-393;Sopron;Hungary;36,0;Estimated (gap filling method);;6,3;2
-394;Dublin;Ireland;30,3;Strategic noise map;Moderate;3,9;3
-395;Dublin (metropolitan area) ;Ireland;35,1;Strategic noise map;Moderate;5,1;11
-396;Cork;Ireland;29,3;Strategic noise map;Moderate;5,3;1
-397;Limerick;Ireland;33,7;Estimated (gap filling method);;4,7;0
-398;Galway;Ireland;30,9;Estimated (gap filling method);;4,3;1
-399;Waterford;Ireland;31,6;Estimated (gap filling method);;4,4;0
-400;Roma;Italy;60,5;Strategic noise map;Moderate;11,5;96
-401;Milano;Italy;59,1;Strategic noise map;Moderate;11,0;38
-402;Napoli;Italy;61,5;Estimated (gap filling method);;12,5;42
-403;Torino;Italy;60,2;Estimated (gap filling method);;12,1;28
-404;Palermo;Italy;58,1;Strategic noise map;Moderate;13,2;22
-405;Genova;Italy;22,5;Strategic noise map;Moderate;4,5;10
-406;Firenze;Italy;44,7;Strategic noise map;Moderate;7,9;8
-407;Bari;Italy;54,2;Strategic noise map;Moderate;10,3;9
-408;Bologna;Italy;68,3;Strategic noise map;Moderate;14,3;18
-409;Catania;Italy;82,5;Strategic noise map;Low;18,4;16
-410;Venezia;Italy;56,1;Strategic noise map;Moderate;11,4;10
-411;Verona;Italy;92,3;Strategic noise map;Moderate;23,2;18
-412;Cremona;Italy;58,6;Estimated (gap filling method);;11,6;2
-413;Trento;Italy;59,3;Estimated (gap filling method);;11,8;4
-414;Trieste;Italy;59,1;Estimated (gap filling method);;11,8;11
-415;Perugia;Italy;59,8;Estimated (gap filling method);;11,9;8
-416;Ancona;Italy;59,0;Estimated (gap filling method);;11,8;5
-417;Pescara;Italy;41,9;Estimated (gap filling method);;7,7;4
-418;Campobasso;Italy;42,2;Estimated (gap filling method);;7,8;1
-419;Caserta;Italy;43,2;Estimated (gap filling method);;8,0;2
-420;Taranto;Italy;50,9;Strategic noise map;Moderate;9,8;5
-421;Potenza;Italy;59,5;Estimated (gap filling method);;11,8;2
-422;Catanzaro;Italy;58,7;Estimated (gap filling method);;11,6;3
-423;Reggio di Calabria;Italy;57,7;Estimated (gap filling method);;11,4;6
-424;Sassari;Italy;59,4;Estimated (gap filling method);;11,8;3
-425;Cagliari;Italy;96,8;Strategic noise map;Low;23,1;9
-426;Padova;Italy;90,9;Strategic noise map;Low;20,6;15
-427;Brescia;Italy;57,3;Estimated (gap filling method);;11,2;7
-428;Modena;Italy;58,9;Strategic noise map;Moderate;10,4;5
-429;Foggia;Italy;61,8;Strategic noise map;Moderate;11,7;4
-430;Salerno;Italy;47,1;Estimated (gap filling method);;8,9;5
-431;Piacenza;Italy;64,9;Strategic noise map;Moderate;10,1;4
-432;Bolzano;Italy;14,1;Strategic noise map;Moderate;2,3;1
-433;Udine;Italy;44,7;Estimated (gap filling method);;8,4;3
-434;La Spezia;Italy;39,2;Estimated (gap filling method);;7,1;2
-435;Lecce;Italy;58,4;Estimated (gap filling method);;11,5;3
-436;Barletta;Italy;61,9;Estimated (gap filling method);;12,5;2
-437;Pesaro;Italy;55,7;Estimated (gap filling method);;10,8;3
-438;Como;Italy;40,2;Estimated (gap filling method);;7,3;2
-439;Pisa;Italy;59,7;Estimated (gap filling method);;11,9;3
-440;Treviso;Italy;39,5;Estimated (gap filling method);;7,1;2
-441;Varese;Italy;42,6;Estimated (gap filling method);;7,8;2
-442;Busto Arsizio;Italy;41,5;Estimated (gap filling method);;7,6;2
-443;Asti;Italy;55,0;Estimated (gap filling method);;10,6;2
-444;Pavia;Italy;42,3;Estimated (gap filling method);;7,8;2
-445;Massa;Italy;55,8;Estimated (gap filling method);;10,8;2
-446;Cosenza;Italy;46,1;Estimated (gap filling method);;8,7;2
-447;Savona;Italy;39,5;Estimated (gap filling method);;7,1;1
-448;Matera;Italy;63,4;Estimated (gap filling method);;12,9;2
-449;Acireale;Italy;41,1;Estimated (gap filling method);;7,5;1
-450;Avellino;Italy;43,6;Estimated (gap filling method);;8,0;2
-451;Pordenone;Italy;41,3;Estimated (gap filling method);;7,5;1
-452;Lecco;Italy;42,4;Estimated (gap filling method);;7,8;1
-453;Altamura;Italy;62,9;Estimated (gap filling method);;12,7;2
-454;Bitonto;Italy;64,1;Estimated (gap filling method);;13,1;2
-455;Molfetta;Italy;44,7;Estimated (gap filling method);;8,3;1
-456;Battipaglia;Italy;42,5;Estimated (gap filling method);;7,8;1
-457;Bisceglie;Italy;57,9;Estimated (gap filling method);;11,4;2
-458;Carpi;Italy;59,6;Estimated (gap filling method);;11,8;2
-459;Cerignola;Italy;63,2;Estimated (gap filling method);;12,9;2
-460;Gallarate;Italy;42,0;Estimated (gap filling method);;7,7;1
-461;Gela;Italy;57,4;Estimated (gap filling method);;11,2;2
-462;Saronno;Italy;41,1;Estimated (gap filling method);;7,5;1
-463;Bagheria;Italy;41,6;Estimated (gap filling method);;7,6;1
-464;Anzio;Italy;37,3;Estimated (gap filling method);;6,7;1
-465;Sassuolo;Italy;42,7;Estimated (gap filling method);;7,9;1
-466;Messina;Italy;43,2;Strategic noise map;Moderate;9,6;7
-467;Prato;Italy;67,6;Strategic noise map;Moderate;11,3;5
-468;Parma;Italy;59,6;Estimated (gap filling method);;11,9;6
-469;Livorno;Italy;75,4;Strategic noise map;Moderate;14,0;7
-470;Reggio nell'Emilia;Italy;38,4;Strategic noise map;Moderate;6,5;3
-471;Ravenna;Italy;59,0;Estimated (gap filling method);;11,6;6
-472;Ferrara;Italy;66,8;Strategic noise map;Moderate;12,6;6
-473;Rimini;Italy;58,3;Estimated (gap filling method);;11,5;5
-474;Siracusa;Italy;57,4;Estimated (gap filling method);;11,2;3
-475;Monza;Italy;61,5;Strategic noise map;Moderate;11,3;3
-476;Bergamo;Italy;42,8;Estimated (gap filling method);;7,9;3
-477;Forlì;Italy;39,4;Strategic noise map;Moderate;6,9;2
-478;Latina;Italy;46,5;Strategic noise map;Moderate;9,2;3
-479;Vicenza;Italy;59,3;Estimated (gap filling method);;11,8;4
-480;Terni;Italy;65,6;Strategic noise map;Moderate;11,8;5
-481;Novara;Italy;60,9;Estimated (gap filling method);;12,2;4
-482;Giugliano in Campania;Italy;58,3;Estimated (gap filling method);;11,5;3
-483;Alessandria;Italy;58,1;Estimated (gap filling method);;11,5;3
-484;Arezzo;Italy;56,7;Estimated (gap filling method);;11,0;3
-485;Grosseto;Italy;61,2;Estimated (gap filling method);;12,3;3
-486;Brindisi;Italy;61,8;Estimated (gap filling method);;12,4;3
-487;Trapani;Italy;59,3;Estimated (gap filling method);;11,7;2
-488;Ragusa;Italy;58,5;Estimated (gap filling method);;11,5;2
-489;Andria;Italy;52,4;Strategic noise map;Moderate;9,1;2
-490;Trani;Italy;61,7;Estimated (gap filling method);;12,4;1
-491;L'Aquila;Italy;57,7;Estimated (gap filling method);;11,3;3
-492;Vilnius;Lithuania;71,0;Strategic noise map;Moderate;15,4;71
-493;Kaunas;Lithuania;24,9;Strategic noise map;Moderate;4,4;15
-494;Panevežys;Lithuania;27,1;Strategic noise map;Moderate;3,4;3
-495;Alytus;Lithuania;23,7;Estimated (gap filling method);;3,8;2
-496;Klaipeda;Lithuania;65,1;Strategic noise map;Moderate;12,5;21
-497;Šiauliai;Lithuania;65,1;Strategic noise map;Moderate;12,4;14
-498;Luxembourg;Luxembourg;93,3;Strategic noise map;Low;20,4;3
-499;Riga;Latvia;81,6;Strategic noise map;Moderate;17,5;109
-500;Valletta;Malta;40,9;Strategic noise map;High;8,5;7
-501;Greater 's-Gravenhage;Netherlands;44,3;Strategic noise map;High;7,6;7
-502;Greater Amsterdam     ;Netherlands;47,3;Strategic noise map;High;7,8;7
-503;Greater Rotterdam        ;Netherlands;40,3;Strategic noise map;High;6,6;10
-504;Greater Utrecht              ;Netherlands;45,6;Strategic noise map;High;7,6;3
-505;Greater Eindhoven        ;Netherlands;38,7;Strategic noise map;High;6,6;2
-506;Tilburg;Netherlands;34,0;Strategic noise map;High;5,6;1
-507;Groningen;Netherlands;40,6;Strategic noise map;High;6,8;1
-508;Enschede;Netherlands;31,2;Strategic noise map;High;5,1;1
-509;Arnhem;Netherlands;36,4;Strategic noise map;High;6,1;1
-510;Greater Heerlen              ;Netherlands;32,1;Strategic noise map;High;5,3;2
-511;Almere;Netherlands;20,8;Strategic noise map;High;2,9;0
-512;Breda;Netherlands;37,1;Strategic noise map;High;6,2;1
-513;Nijmegen;Netherlands;37,4;Strategic noise map;High;6,2;1
-514;Apeldoorn;Netherlands;30,7;Strategic noise map;High;5,0;1
-515;Leeuwarden;Netherlands;33,4;Strategic noise map;High;5,5;1
-516;Greater Sittard-Geleen  ;Netherlands;26,4;Strategic noise map;High;4,2;1
-517;Hilversum;Netherlands;39,9;Strategic noise map;High;6,7;1
-518;Roosendaal;Netherlands;42,0;Strategic noise map;High;7,1;1
-519;Greater Nissewaard      ;Netherlands;28,7;Strategic noise map;High;4,5;1
-520;Purmerend;Netherlands;31,1;Strategic noise map;High;4,7;0
-521;Alphen aan den Rijn;Netherlands;35,6;Strategic noise map;High;5,9;1
-522;Bergen op Zoom;Netherlands;30,3;Strategic noise map;High;4,8;0
-523;Gouda;Netherlands;37,9;Strategic noise map;High;6,0;1
-524;Hoorn;Netherlands;35,5;Strategic noise map;High;5,3;0
-525;Greater Middelburg      ;Netherlands;30,1;Strategic noise map;High;4,7;1
-526;Greater Haarlem           ;Netherlands;39,6;Strategic noise map;High;6,9;3
-527;Zaanstad;Netherlands;39,1;Strategic noise map;High;6,2;1
-528;'s-Hertogenbosch;Netherlands;41,4;Strategic noise map;High;7,0;1
-529;Amersfoort;Netherlands;39,0;Strategic noise map;High;6,7;1
-530;Maastricht;Netherlands;36,1;Strategic noise map;High;6,0;1
-531;Greater Leiden                ;Netherlands;38,5;Strategic noise map;High;6,6;2
-532;Haarlemmermeer;Netherlands;38,6;Strategic noise map;High;6,2;1
-533;Zoetermeer;Netherlands;38,0;Strategic noise map;High;6,2;1
-534;Zwolle;Netherlands;40,1;Strategic noise map;High;6,8;1
-535;Greater Ede                      ;Netherlands;33,5;Strategic noise map;High;5,5;1
-536;Deventer;Netherlands;32,4;Strategic noise map;High;5,3;1
-537;Greater Alkmaar ;Netherlands;33,7;Strategic noise map;High;5,5;1
-538;Venlo;Netherlands;34,9;Strategic noise map;High;5,8;1
-539;Helmond;Netherlands;35,5;Strategic noise map;High;6,0;1
-540;Hengelo;Netherlands;30,7;Strategic noise map;High;5,1;1
-541;Almelo;Netherlands;32,5;Strategic noise map;High;5,3;1
-542;Lelystad;Netherlands;24,5;Strategic noise map;High;3,9;0
-543;Oss;Netherlands;25,5;Strategic noise map;High;4,1;0
-544;Assen;Netherlands;32,8;Strategic noise map;High;5,2;0
-545;Veenendaal;Netherlands;39,3;Strategic noise map;High;6,3;0
-546;Greater Heemskerk       ;Netherlands;34,4;Strategic noise map;High;5,8;1
-547;Greater Soest                   ;Netherlands;35,2;Strategic noise map;High;5,7;1
-548;Oslo;Norway;62,5;Strategic noise map;Moderate;12,1;16
-549;Bergen;Norway;17,6;Strategic noise map;Moderate;3,1;2
-550;Trondheim;Norway;28,9;Strategic noise map;Moderate;5,6;2
-551;Stavanger;Norway;13,1;Strategic noise map;Moderate;2,3;0
-552;Kristiansand;Norway;8,1;Estimated (gap filling method);;1,3;0
-553;Warszawa;Poland;64,6;Strategic noise map;Moderate;13,7;82
-554;Lódz;Poland;37,1;Estimated (gap filling method);;6,8;11
-555;Kraków;Poland;22,7;Strategic noise map;Moderate;5,9;20
-556;Wroclaw;Poland;38,7;Estimated (gap filling method);;7,2;10
-557;Poznan;Poland;46,8;Strategic noise map;Moderate;9,3;11
-558;Gdansk;Poland;58,6;Strategic noise map;Moderate;10,7;21
-559;Szczecin;Poland;53,5;Estimated (gap filling method);;10,7;11
-560;Bydgoszcz;Poland;58,3;Estimated (gap filling method);;11,9;6
-561;Lublin;Poland;53,7;Estimated (gap filling method);;10,7;5
-562;Katowice;Poland;55,6;Estimated (gap filling method);;11,3;11
-563;Bialystok;Poland;54,1;Estimated (gap filling method);;10,8;12
-564;Kielce;Poland;50,1;Estimated (gap filling method);;9,7;3
-565;Torun;Poland;67,4;Strategic noise map;Moderate;12,4;3
-566;Olsztyn;Poland;55,2;Estimated (gap filling method);;11,1;3
-567;Rzeszów;Poland;54,3;Estimated (gap filling method);;10,9;3
-568;Opole;Poland;53,1;Estimated (gap filling method);;10,5;2
-569;Gorzów Wielkopolski;Poland;43,4;Strategic noise map;Moderate;8,7;2
-570;Zielona Góra;Poland;40,3;Strategic noise map;Moderate;8,0;0
-571;Jelenia Góra;Poland;45,6;Estimated (gap filling method);;8,6;2
-572;Nowy Sacz;Poland;34,8;Estimated (gap filling method);;6,2;2
-573;Suwalki;Poland;33,5;Estimated (gap filling method);;6,0;0
-574;Konin;Poland;44,7;Estimated (gap filling method);;8,4;1
-575;Zory;Poland;36,0;Estimated (gap filling method);;6,6;1
-576;Czestochowa;Poland;35,0;Strategic noise map;Moderate;6,5;4
-577;Radom;Poland;52,7;Estimated (gap filling method);;10,4;8
-578;Plock;Poland;51,5;Estimated (gap filling method);;10,0;4
-579;Kalisz;Poland;57,5;Estimated (gap filling method);;11,9;3
-580;Koszalin;Poland;44,6;Strategic noise map;Moderate;8,9;2
-581;Slupsk;Poland;43,0;Estimated (gap filling method);;8,1;0
-582;Jastrzebie-Zdrój;Poland;44,8;Estimated (gap filling method);;8,5;2
-583;Siedlce;Poland;37,9;Estimated (gap filling method);;7,0;0
-584;Piotrków Trybunalski;Poland;47,8;Estimated (gap filling method);;9,3;1
-585;Lubin;Poland;49,0;Estimated (gap filling method);;9,6;1
-586;Pila;Poland;52,7;Estimated (gap filling method);;10,6;2
-587;Inowroclaw;Poland;41,8;Estimated (gap filling method);;7,8;1
-588;Ostrowiec Swietokrzyski;Poland;38,8;Estimated (gap filling method);;7,1;1
-589;Gniezno;Poland;40,0;Estimated (gap filling method);;7,4;1
-590;Stargard Szczecinski;Poland;41,4;Estimated (gap filling method);;7,7;1
-591;Ostrów Wielkopolski;Poland;35,7;Estimated (gap filling method);;6,4;1
-592;Przemysl;Poland;36,0;Estimated (gap filling method);;6,5;0
-593;Zamosc;Poland;35,0;Estimated (gap filling method);;6,3;0
-594;Chelm;Poland;41,4;Estimated (gap filling method);;7,7;1
-595;Pabianice;Poland;42,5;Estimated (gap filling method);;7,9;1
-596;Glogów;Poland;45,3;Estimated (gap filling method);;8,6;1
-597;Stalowa Wola;Poland;48,5;Estimated (gap filling method);;9,3;1
-598;Tomaszów Mazowiecki;Poland;40,8;Estimated (gap filling method);;7,6;1
-599;Lomza;Poland;38,9;Estimated (gap filling method);;7,1;1
-600;Leszno;Poland;40,0;Estimated (gap filling method);;7,4;1
-601;Swidnica;Poland;43,7;Estimated (gap filling method);;8,2;1
-602;Zgierz;Poland;36,9;Estimated (gap filling method);;6,7;1
-603;Tczew;Poland;39,7;Estimated (gap filling method);;7,2;2
-604;Elk;Poland;43,0;Estimated (gap filling method);;8,1;1
-605;Gdynia;Poland;70,7;Strategic noise map;Moderate;13,3;14
-606;Sosnowiec;Poland;53,0;Estimated (gap filling method);;10,7;7
-607;Gliwice;Poland;64,8;Strategic noise map;Moderate;12,9;6
-608;Zabrze;Poland;63,6;Strategic noise map;Moderate;11,2;5
-609;Bytom;Poland;36,9;Strategic noise map;Moderate;6,6;3
-610;Bielsko-Biala;Poland;33,7;Strategic noise map;Moderate;7,2;3
-611;Ruda Slaska;Poland;54,8;Strategic noise map;Moderate;9,3;4
-612;Rybnik;Poland;48,5;Strategic noise map;Moderate;9,0;3
-613;Tychy;Poland;51,7;Estimated (gap filling method);;10,2;3
-614;Walbrzych;Poland;62,5;Estimated (gap filling method);;13,2;6
-615;Elblag;Poland;44,5;Estimated (gap filling method);;8,4;0
-616;Wloclawek;Poland;41,5;Estimated (gap filling method);;7,6;0
-617;Tarnów;Poland;41,6;Estimated (gap filling method);;7,7;1
-618;Chorzów;Poland;49,9;Estimated (gap filling method);;9,7;3
-619;Legnica;Poland;49,0;Strategic noise map;Moderate;8,9;2
-620;Grudziadz;Poland;43,8;Estimated (gap filling method);;8,5;0
-621;Lisboa;Portugal;40,6;Strategic noise map;Moderate;8,3;13
-622;Porto;Portugal;8,2;Strategic noise map;Moderate;1,8;1
-623;Stockholm;Sweden;44,0;Strategic noise map;High;8,2;14
-624;Ljubljana;Slovenia;48,8;Strategic noise map;Moderate;8,8;5
-625;Maribor;Slovenia;46,9;Strategic noise map;Moderate;8,7;3
-626;London;United Kingdom;33,8;Strategic noise map;Low;6,1;74
-627;Birmingham;United Kingdom;27,4;Strategic noise map;Low;4,6;10
-628;West Midlands urban area;United Kingdom;27,5;Strategic noise map;Low;4,5;25
-629;Leeds;United Kingdom;25,5;Strategic noise map;Low;4,1;7
-630;Bradford;United Kingdom;26,6;Strategic noise map;Low;4,4;5
-631;Liverpool;United Kingdom;30,2;Strategic noise map;Low;5,1;5
-632;Liverpool (metropolitan area);United Kingdom;26,9;Strategic noise map;Low;4,4;15
-633;Manchester;United Kingdom;31,0;Strategic noise map;Low;5,3;6
-634;Greater Manchester;United Kingdom;26,5;Strategic noise map;Low;4,5;33
-635;Sheffield;United Kingdom;24,3;Strategic noise map;Low;4,0;5
-636;Bristol;United Kingdom;26,3;Strategic noise map;Low;4,4;4
-637;Belfast;United Kingdom;31,4;Strategic noise map;Moderate;5,9;5
-638;Newcastle upon Tyne;United Kingdom;27,9;Strategic noise map;Low;4,6;3
-639;Tyneside conurbation;United Kingdom;26,0;Strategic noise map;Low;4,2;8
-640;Leicester;United Kingdom;29,0;Strategic noise map;Low;4,6;3
-641;Leicester (metropolitan area);United Kingdom;25,2;Strategic noise map;Low;3,9;4
-642;Portsmouth;United Kingdom;29,8;Strategic noise map;Low;5,2;2
-643;Portsmouth (metropolitan area);United Kingdom;23,2;Strategic noise map;Low;3,7;4
-644;Coventry;United Kingdom;23,6;Strategic noise map;Low;3,4;2
-645;Kingston-upon-Hull;United Kingdom;20,1;Strategic noise map;Low;3,2;2
-646;Stoke-on-trent;United Kingdom;31,6;Strategic noise map;Low;5,4;3
-647;Stoke-on-Trent (metropolitan area);United Kingdom;28,5;Strategic noise map;Low;4,8;5
-648;Wolverhampton;United Kingdom;24,5;Strategic noise map;Low;4,0;3
-649;Nottingham;United Kingdom;27,5;Strategic noise map;Low;4,7;3
-650;Greater Nottingham;United Kingdom;25,0;Strategic noise map;Low;4,1;6
-651;Wirral;United Kingdom;25,9;Strategic noise map;Low;4,1;3
-652;Bath and North East Somerset;United Kingdom;28,8;Strategic noise map;Low;4,9;2
-653;Thurrock;United Kingdom;16,8;Strategic noise map;Low;3,5;1
-654;Fareham;United Kingdom;21,9;Strategic noise map;Low;3,4;1
-655;Worthing;United Kingdom;20,3;Strategic noise map;Low;3,6;1
-656;Mansfield;United Kingdom;22,5;Strategic noise map;Low;3,8;1
-657;Woking;United Kingdom;24,4;Strategic noise map;Low;3,8;1
-658;Harlow;United Kingdom;15,5;Strategic noise map;Low;2,3;0
-659;Halton;United Kingdom;20,7;Strategic noise map;Low;2,8;1
-660;City of London;United Kingdom;67,1;Strategic noise map;Low;13,6;0
-661;Barking and Dagenham;United Kingdom;27,0;Strategic noise map;Low;5,0;2
-662;Barnet;United Kingdom;32,3;Strategic noise map;Low;6,1;5
-663;Bexley;United Kingdom;27,5;Strategic noise map;Low;4,7;2
-664;Brent;United Kingdom;31,9;Strategic noise map;Low;5,7;3
-665;Bromley;United Kingdom;25,5;Strategic noise map;Low;4,4;3
-666;Camden;United Kingdom;45,2;Strategic noise map;Low;8,4;3
-667;Croydon;United Kingdom;29,4;Strategic noise map;Low;5,3;3
-668;Ealing;United Kingdom;26,9;Strategic noise map;Low;4,7;3
-669;Enfield;United Kingdom;31,4;Strategic noise map;Low;5,6;3
-670;Greenwich;United Kingdom;29,4;Strategic noise map;Low;5,0;2
-671;Hackney;United Kingdom;41,3;Strategic noise map;Low;7,3;2
-672;Hammersmith and Fulham;United Kingdom;37,9;Strategic noise map;Low;7,5;2
-673;Haringey;United Kingdom;36,0;Strategic noise map;Low;6,5;2
-674;Harrow;United Kingdom;27,8;Strategic noise map;Low;4,7;2
-675;Havering;United Kingdom;22,3;Strategic noise map;Low;3,6;2
-676;Hillingdon;United Kingdom;24,4;Strategic noise map;Low;3,9;2
-677;Hounslow;United Kingdom;33,6;Strategic noise map;Low;6,4;3
-678;Islington;United Kingdom;45,3;Strategic noise map;Low;8,4;3
-679;Kensington and Chelsea;United Kingdom;44,8;Strategic noise map;Low;8,9;2
-680;Kingston upon Thames;United Kingdom;32,6;Strategic noise map;Low;6,1;2
-681;Lambeth;United Kingdom;36,5;Strategic noise map;Low;6,8;3
-682;Lewisham;United Kingdom;32,1;Strategic noise map;Low;5,7;3
-683;Merton;United Kingdom;32,4;Strategic noise map;Low;5,8;2
-684;Newham;United Kingdom;33,8;Strategic noise map;Low;6,0;2
-685;Redbridge;United Kingdom;27,7;Strategic noise map;Low;5,2;3
-686;Richmond upon Thames;United Kingdom;36,0;Strategic noise map;Low;6,5;3
-687;Southwark;United Kingdom;44,0;Strategic noise map;Low;8,0;3
-688;Sutton;United Kingdom;24,1;Strategic noise map;Low;3,9;1
-689;Tower Hamlets;United Kingdom;49,5;Strategic noise map;Low;9,3;3
-690;Waltham Forest;United Kingdom;32,4;Strategic noise map;Low;5,9;2
-691;Wandsworth;United Kingdom;36,3;Strategic noise map;Low;6,9;3
-692;Westminster;United Kingdom;53,5;Strategic noise map;Low;10,3;4
-693;Kirklees;United Kingdom;29,2;Strategic noise map;Low;4,9;5
-694;Wakefield;United Kingdom;25,4;Strategic noise map;Low;4,0;4
-695;Dudley;United Kingdom;29,9;Strategic noise map;Low;4,9;4
-696;Wigan;United Kingdom;24,4;Strategic noise map;Low;4,1;4
-697;Doncaster;United Kingdom;20,2;Strategic noise map;Low;3,1;3
-698;Stockport;United Kingdom;20,5;Strategic noise map;Low;3,4;3
-699;Sefton;United Kingdom;25,3;Strategic noise map;Low;4,1;3
-700;Sandwell;United Kingdom;29,6;Strategic noise map;Low;4,9;4
-701;Sunderland;United Kingdom;22,2;Strategic noise map;Low;3,5;2
-702;Bolton;United Kingdom;25,4;Strategic noise map;Low;4,4;3
-703;Walsall;United Kingdom;27,4;Strategic noise map;Low;4,5;3
-704;Medway;United Kingdom;25,3;Strategic noise map;Low;4,0;2
-705;Rotherham;United Kingdom;22,1;Strategic noise map;Low;3,5;2
-706;Brighton and Hove;United Kingdom;26,6;Strategic noise map;Low;4,5;2
-707;Brighton and Hove (metropolitan area);United Kingdom;25,8;Strategic noise map;Low;4,4;3
-708;Plymouth;United Kingdom;21,7;Strategic noise map;Low;3,3;2
-709;Derby;United Kingdom;31,0;Strategic noise map;Low;4,7;3
-710;Barnsley;United Kingdom;28,2;Strategic noise map;Low;4,5;3
-711;Southampton;United Kingdom;27,5;Strategic noise map;Low;4,6;2
-712;Southampton (metropolitan area);United Kingdom;24,0;Strategic noise map;Low;4,0;3
-713;Oldham;United Kingdom;27,3;Strategic noise map;Low;4,7;3
-714;Salford;United Kingdom;28,5;Strategic noise map;Low;5,2;3
-715;Tameside;United Kingdom;25,0;Strategic noise map;Low;4,2;3
-716;Trafford;United Kingdom;28,8;Strategic noise map;Low;4,6;3
-717;Rochdale;United Kingdom;25,2;Strategic noise map;Low;4,5;3
-718;Solihull;United Kingdom;24,3;Strategic noise map;Low;3,4;1
-719;North Tyneside;United Kingdom;27,4;Strategic noise map;Low;4,3;2
-720;Gateshead;United Kingdom;23,9;Strategic noise map;Low;3,7;2
-721;Luton;United Kingdom;22,7;Strategic noise map;Low;3,6;1
-722;Bury;United Kingdom;24,7;Strategic noise map;Low;4,3;2
-723;Stockton-on-Tees;United Kingdom;14,8;Strategic noise map;Low;2,2;1
-724;St. Helens;United Kingdom;29,6;Strategic noise map;Low;4,8;2
-725;Basildon;United Kingdom;9,9;Strategic noise map;Low;2,2;1
-726;Bournemouth;United Kingdom;26,6;Strategic noise map;Low;4,4;2
-727;Bournemouth (metropolitan area);United Kingdom;23,1;Strategic noise map;Low;3,8;4
-728;Wycombe;United Kingdom;21,8;Strategic noise map;Low;3,9;1
-729;Southend-on-Sea;United Kingdom;32,4;Strategic noise map;Low;5,6;3
-730;Southend-on-Sea (metropolitan area);United Kingdom;26,1;Strategic noise map;Low;4,5;3
-731;South Tyneside;United Kingdom;23,3;Strategic noise map;Low;3,7;1
-732;Reading;United Kingdom;32,9;Strategic noise map;Low;5,5;1
-733;Reading (metropolitan area);United Kingdom;32,4;Strategic noise map;Low;5,1;3
-734;Poole;United Kingdom;18,7;Strategic noise map;Low;3,1;1
-735;Dacorum;United Kingdom;13,5;Strategic noise map;Low;2,0;1
-736;Middlesbrough;United Kingdom;15,5;Strategic noise map;Low;2,3;1
-737;Preston;United Kingdom;28,2;Strategic noise map;Low;4,5;1
-738;Preston (metropolitan area);United Kingdom;25,6;Strategic noise map;Low;3,9;2
-739;St Albans;United Kingdom;21,8;Strategic noise map;Low;3,7;1
-740;Warwick;United Kingdom;26,9;Strategic noise map;Low;4,2;1
-741;Slough;United Kingdom;19,5;Strategic noise map;Low;3,2;1
-742;Cheshire West and Chester;United Kingdom;26,1;Strategic noise map;Low;4,1;2
-743;Bracknell Forest;United Kingdom;21,0;Strategic noise map;Low;3,0;0
-744;Crawley;United Kingdom;20,3;Strategic noise map;Low;3,1;0
-745;Watford;United Kingdom;30,9;Strategic noise map;Low;5,6;1
-746;Gosport;United Kingdom;16,7;Strategic noise map;Low;2,6;0
-747;Eastleigh;United Kingdom;17,2;Strategic noise map;Low;2,6;1
-748;Rushmoor;United Kingdom;27,4;Strategic noise map;Low;4,2;1
-749;Rushmoor (metropolitan area);United Kingdom;27,2;Strategic noise map;Low;4,2;1
+City number,City,Country,% population exposed > 55 dB Lden,Exposure data source,Noise map quality,% annoyed adults,Avoidable deaths
+1,Wien,Austria,86.5,Strategic noise map,Moderate,12.5,86
+2,Graz,Austria,52.4,Strategic noise map,Moderate,8.3,7
+3,Linz,Austria,49.5,Strategic noise map,Moderate,8.8,6
+4,Salzburg,Austria,51.2,Strategic noise map,Moderate,7.4,3
+5,Innsbruck,Austria,45.0,Strategic noise map,Moderate,6.8,3
+6,Klagenfurt,Austria,50.2,Estimated (gap filling method),,7.9,3
+7,Bruxelles / Brussel,Belgium,30.3,Strategic noise map,High,6.5,11
+8,Antwerpen,Belgium,87.4,Strategic noise map,High,17.6,15
+9,Gent,Belgium,87.3,Strategic noise map,High,16.1,6
+10,Charleroi,Belgium,72.1,Strategic noise map,Moderate,12.5,6
+11,Liège,Belgium,84.6,Estimated (gap filling method),,15.6,13
+12,Brugge,Belgium,74.6,Strategic noise map,High,12.5,3
+13,Namur,Belgium,79.2,Estimated (gap filling method),,13.6,3
+14,Leuven,Belgium,84.7,Strategic noise map,High,14.8,2
+15,Mons,Belgium,80.8,Estimated (gap filling method),,14.2,3
+16,Kortrijk,Belgium,83.3,Strategic noise map,High,14.3,2
+17,Oostende,Belgium,77.5,Strategic noise map,High,12.4,2
+18,Sofia,Bulgaria,99.8,Strategic noise map,Low,25.3,77
+19,Plovdiv,Bulgaria,99.7,Strategic noise map,Low,30.1,53
+20,Varna,Bulgaria,98.7,Strategic noise map,Low,20.0,19
+21,Burgas,Bulgaria,94.7,Strategic noise map,Low,22.0,11
+22,Pleven,Bulgaria,95.5,Strategic noise map,Low,21.9,6
+23,Ruse,Bulgaria,93.4,Strategic noise map,Low,19.3,7
+24,Vidin,Bulgaria,96.8,Estimated (gap filling method),,20.5,3
+25,Stara Zagora,Bulgaria,97.8,Estimated (gap filling method),,21.9,5
+26,Sliven,Bulgaria,96.9,Estimated (gap filling method),,20.5,3
+27,Dobrich,Bulgaria,97.4,Estimated (gap filling method),,21.7,3
+28,Shumen,Bulgaria,97.4,Estimated (gap filling method),,21.3,4
+29,Pernik,Bulgaria,97.2,Estimated (gap filling method),,21.0,5
+30,Yambol,Bulgaria,98.5,Estimated (gap filling method),,23.4,5
+31,Haskovo,Bulgaria,97.3,Estimated (gap filling method),,21.1,6
+32,Pazardzhik,Bulgaria,97.8,Estimated (gap filling method),,21.7,4
+33,Blagoevgrad,Bulgaria,98.3,Estimated (gap filling method),,23.1,3
+34,Veliko Tarnovo,Bulgaria,97.0,Estimated (gap filling method),,20.4,1
+35,Vratsa,Bulgaria,97.3,Estimated (gap filling method),,21.2,4
+36,Zürich,Switzerland,41.7,Strategic noise map,High,7.4,7
+37,Zürich (metropolitan area) ,Switzerland,44.9,Strategic noise map,High,8.0,11
+38,Genève,Switzerland,68.7,Strategic noise map,High,14.3,4
+39,Genève (metropolitan area) ,Switzerland,62.5,Strategic noise map,High,12.4,6
+40,Basel,Switzerland,41.1,Strategic noise map,High,7.4,3
+41,Basel (metropolitan area) ,Switzerland,40.5,Strategic noise map,High,7.1,5
+42,Bern,Switzerland,40.1,Strategic noise map,High,6.9,2
+43,Bern (metropolitan area) ,Switzerland,42.0,Strategic noise map,High,7.2,4
+44,Lausanne,Switzerland,51.5,Strategic noise map,High,9.1,2
+45,Lausanne (metropolitan area) ,Switzerland,51.5,Strategic noise map,High,9.0,3
+46,Winterthur,Switzerland,41.2,Strategic noise map,High,7.3,2
+47,St. Gallen,Switzerland,46.3,Strategic noise map,High,8.1,2
+48,Luzern,Switzerland,50.0,Strategic noise map,High,9.1,2
+49,Luzern (metropolitan area) ,Switzerland,47.0,Strategic noise map,High,8.3,3
+50,Lugano,Switzerland,57.5,Strategic noise map,High,10.8,2
+51,Lugano (metropolitan area) ,Switzerland,57.7,Strategic noise map,High,10.8,2
+52,Biel/Bienne,Switzerland,42.5,Strategic noise map,High,7.5,1
+53,Praha,Czech Republic,70.6,Strategic noise map,Moderate,12.7,93
+54,Brno,Czech Republic,63.2,Strategic noise map,Moderate,11.6,31
+55,Ostrava,Czech Republic,65.9,Strategic noise map,Moderate,12.7,27
+56,Plzen,Czech Republic,43.9,Strategic noise map,Moderate,8.2,8
+57,Ústí nad Labem,Czech Republic,64.2,Strategic noise map,Moderate,11.8,7
+58,Olomouc,Czech Republic,54.3,Strategic noise map,Moderate,9.9,6
+59,Liberec,Czech Republic,69.2,Strategic noise map,Moderate,12.8,7
+60,Ceské Budejovice,Czech Republic,37.3,Estimated (gap filling method),,5.8,2
+61,Hradec Králové,Czech Republic,58.2,Estimated (gap filling method),,10.0,5
+62,Pardubice,Czech Republic,59.6,Estimated (gap filling method),,10.3,6
+63,Zlín,Czech Republic,56.2,Estimated (gap filling method),,9.4,5
+64,Kladno,Czech Republic,42.4,Estimated (gap filling method),,6.8,3
+65,Karlovy Vary,Czech Republic,39.3,Estimated (gap filling method),,6.2,2
+66,Jihlava,Czech Republic,58.9,Estimated (gap filling method),,10.2,3
+67,Havírov,Czech Republic,29.9,Strategic noise map,Moderate,4.9,2
+68,Most,Czech Republic,67.0,Estimated (gap filling method),,12.3,5
+69,Karviná,Czech Republic,47.3,Strategic noise map,Moderate,7.6,3
+70,Chomutov-Jirkov,Czech Republic,39.7,Estimated (gap filling method),,6.3,2
+71,Berlin,Germany,29.8,Strategic noise map,Moderate,4.8,42
+72,Hamburg,Germany,19.9,Strategic noise map,Moderate,4.1,23
+73,München,Germany,20.9,Strategic noise map,Moderate,3.6,12
+74,Köln,Germany,40.2,Strategic noise map,Moderate,7.5,23
+75,Frankfurt am Main,Germany,30.7,Strategic noise map,Moderate,6.3,12
+76,Essen,Germany,37.1,Strategic noise map,Moderate,7.5,18
+77,Stuttgart,Germany,21.8,Strategic noise map,Moderate,4.2,7
+78,Leipzig,Germany,21.6,Strategic noise map,Moderate,4.0,7
+79,Dresden,Germany,23.1,Strategic noise map,Moderate,4.2,7
+80,Dortmund,Germany,44.5,Strategic noise map,Moderate,7.6,17
+81,Düsseldorf,Germany,60.2,Strategic noise map,Moderate,10.4,21
+82,Bremen,Germany,31.9,Strategic noise map,Moderate,5.5,10
+83,Hannover,Germany,24.7,Strategic noise map,Moderate,4.5,8
+84,Nürnberg,Germany,34.0,Strategic noise map,Moderate,5.9,10
+85,Bochum,Germany,16.5,Strategic noise map,Moderate,3.0,4
+86,Bielefeld,Germany,39.2,Strategic noise map,Moderate,7.4,8
+87,Halle an der Saale,Germany,30.8,Strategic noise map,Moderate,6.0,6
+88,Magdeburg,Germany,31.5,Strategic noise map,Moderate,5.9,6
+89,Wiesbaden,Germany,26.6,Strategic noise map,Moderate,5.4,5
+90,Göttingen,Germany,33.0,Estimated (gap filling method),,5.9,2
+91,Mülheim a.d.Ruhr,Germany,29.0,Strategic noise map,Moderate,5.5,4
+92,Moers,Germany,49.5,Strategic noise map,Moderate,8.3,3
+93,Darmstadt,Germany,20.5,Strategic noise map,Moderate,4.0,2
+94,Trier,Germany,29.8,Estimated (gap filling method),,5.2,2
+95,Freiburg im Breisgau,Germany,31.0,Strategic noise map,Moderate,5.6,3
+96,Regensburg,Germany,36.5,Strategic noise map,Moderate,6.5,3
+97,Frankfurt (Oder),Germany,35.7,Estimated (gap filling method),,6.4,1
+98,Weimar,Germany,30.1,Estimated (gap filling method),,5.3,1
+99,Schwerin,Germany,30.8,Estimated (gap filling method),,5.4,2
+100,Erfurt,Germany,32.1,Estimated (gap filling method),,5.7,4
+101,Augsburg,Germany,19.7,Strategic noise map,Moderate,3.4,3
+102,Bonn,Germany,26.3,Strategic noise map,Moderate,4.5,4
+103,Karlsruhe,Germany,32.6,Strategic noise map,Moderate,5.7,5
+104,Mönchengladbach,Germany,32.9,Strategic noise map,Moderate,6.0,6
+105,Mainz,Germany,28.9,Strategic noise map,Moderate,5.1,3
+106,Kiel,Germany,25.4,Strategic noise map,Moderate,4.6,3
+107,Saarbrücken,Germany,31.9,Strategic noise map,Moderate,5.9,4
+108,Potsdam,Germany,26.5,Strategic noise map,Moderate,5.0,3
+109,Koblenz,Germany,60.2,Strategic noise map,Low,10.5,5
+110,Rostock,Germany,21.8,Strategic noise map,Moderate,3.8,3
+111,Kaiserslautern,Germany,29.9,Estimated (gap filling method),,5.3,2
+112,Iserlohn,Germany,32.2,Estimated (gap filling method),,5.8,2
+113,Esslingen am Neckar,Germany,31.7,Estimated (gap filling method),,5.7,2
+114,Hanau,Germany,31.6,Estimated (gap filling method),,5.6,2
+115,Wilhelmshaven,Germany,33.2,Estimated (gap filling method),,5.9,2
+116,Ludwigsburg,Germany,31.4,Estimated (gap filling method),,5.6,2
+117,Tübingen,Germany,27.9,Estimated (gap filling method),,4.8,1
+118,Villingen-Schwenningen,Germany,32.3,Estimated (gap filling method),,5.8,2
+119,Flensburg,Germany,39.0,Estimated (gap filling method),,7.1,2
+120,Marburg,Germany,35.1,Estimated (gap filling method),,6.3,1
+121,Konstanz,Germany,28.8,Estimated (gap filling method),,5.0,1
+122,Neumünster,Germany,35.4,Estimated (gap filling method),,6.3,2
+123,Brandenburg an der Havel,Germany,32.5,Estimated (gap filling method),,5.7,2
+124,Gießen,Germany,34.5,Estimated (gap filling method),,6.2,1
+125,Lüneburg,Germany,34.8,Estimated (gap filling method),,6.3,1
+126,Bayreuth,Germany,31.9,Estimated (gap filling method),,5.7,1
+127,Celle,Germany,32.8,Estimated (gap filling method),,5.8,2
+128,Aschaffenburg,Germany,32.6,Estimated (gap filling method),,5.8,1
+129,Bamberg,Germany,34.0,Estimated (gap filling method),,6.1,2
+130,Plauen,Germany,28.5,Estimated (gap filling method),,4.9,1
+131,Neubrandenburg,Germany,30.5,Estimated (gap filling method),,5.4,1
+132,Fulda,Germany,36.6,Estimated (gap filling method),,6.6,1
+133,Kempten (Allgäu),Germany,36.1,Estimated (gap filling method),,6.7,2
+134,Landshut,Germany,32.2,Estimated (gap filling method),,5.7,1
+135,Sindelfingen,Germany,32.7,Estimated (gap filling method),,5.9,1
+136,Rosenheim,Germany,34.0,Estimated (gap filling method),,6.1,1
+137,Frankenthal (Pfalz),Germany,37.8,Estimated (gap filling method),,6.9,1
+138,Stralsund,Germany,34.3,Estimated (gap filling method),,6.1,1
+139,Friedrichshafen,Germany,32.7,Estimated (gap filling method),,5.8,1
+140,Offenburg,Germany,30.8,Estimated (gap filling method),,5.4,1
+141,Görlitz,Germany,33.1,Estimated (gap filling method),,5.9,2
+142,Sankt Augustin,Germany,31.2,Estimated (gap filling method),,5.6,1
+143,Neu-Ulm,Germany,32.1,Estimated (gap filling method),,5.7,1
+144,Schweinfurt,Germany,31.6,Estimated (gap filling method),,5.6,1
+145,Greifswald,Germany,33.1,Estimated (gap filling method),,5.9,1
+146,Wetzlar,Germany,33.1,Estimated (gap filling method),,6.1,1
+147,Speyer,Germany,33.2,Estimated (gap filling method),,6.0,1
+148,Passau,Germany,34.2,Estimated (gap filling method),,6.1,1
+149,Dessau-Roßlau,Germany,33.2,Estimated (gap filling method),,5.9,2
+150,Duisburg,Germany,42.1,Strategic noise map,Moderate,7.7,16
+151,Mannheim,Germany,36.4,Strategic noise map,Moderate,6.7,6
+152,Gelsenkirchen,Germany,42.0,Strategic noise map,Moderate,7.6,8
+153,Münster,Germany,25.4,Strategic noise map,Moderate,4.4,3
+154,Chemnitz,Germany,18.1,Strategic noise map,Moderate,3.6,4
+155,Braunschweig,Germany,21.4,Strategic noise map,Moderate,3.8,3
+156,Aachen,Germany,58.9,Strategic noise map,Moderate,9.6,6
+157,Krefeld,Germany,30.6,Strategic noise map,Moderate,5.4,4
+158,Oberhausen,Germany,49.0,Strategic noise map,Moderate,8.0,7
+159,Lübeck,Germany,26.8,Strategic noise map,Moderate,4.6,4
+160,Hagen,Germany,80.7,Strategic noise map,Moderate,18.4,16
+161,Kassel,Germany,16.2,Strategic noise map,Moderate,3.1,2
+162,Hamm,Germany,34.3,Estimated (gap filling method),,6.1,4
+163,Herne,Germany,42.3,Strategic noise map,Moderate,7.7,5
+164,Solingen,Germany,34.3,Estimated (gap filling method),,6.2,4
+165,Osnabrück,Germany,25.2,Strategic noise map,Moderate,4.7,2
+166,Ludwigshafen am Rhein,Germany,46.2,Strategic noise map,Moderate,7.5,4
+167,Leverkusen,Germany,56.6,Strategic noise map,Moderate,9.8,6
+168,Oldenburg (Oldenburg),Germany,34.9,Strategic noise map,Moderate,6.0,3
+169,Neuss,Germany,54.7,Strategic noise map,Moderate,9.2,5
+170,Heidelberg,Germany,41.1,Strategic noise map,Moderate,7.3,3
+171,Paderborn,Germany,36.0,Estimated (gap filling method),,6.5,3
+172,Würzburg,Germany,36.9,Strategic noise map,Moderate,6.3,3
+173,Recklinghausen,Germany,48.4,Strategic noise map,Moderate,8.9,4
+174,Wolfsburg,Germany,33.9,Estimated (gap filling method),,6.0,3
+175,Bremerhaven,Germany,19.2,Strategic noise map,Moderate,3.1,1
+176,Bottrop,Germany,39.6,Strategic noise map,Moderate,6.6,3
+177,Heilbronn,Germany,23.2,Strategic noise map,Moderate,4.4,2
+178,Remscheid,Germany,19.7,Strategic noise map,Moderate,3.8,2
+179,Offenbach am Main,Germany,25.0,Strategic noise map,Moderate,5.4,2
+180,Ulm,Germany,19.5,Strategic noise map,Moderate,4.0,2
+181,Pforzheim,Germany,27.2,Strategic noise map,Moderate,5.9,3
+182,Ingolstadt,Germany,42.0,Strategic noise map,Moderate,6.6,2
+183,Gera,Germany,33.4,Estimated (gap filling method),,5.9,2
+184,Salzgitter,Germany,38.5,Estimated (gap filling method),,7.1,3
+185,Reutlingen,Germany,18.4,Strategic noise map,Moderate,3.9,1
+186,Fürth,Germany,28.7,Strategic noise map,Moderate,4.7,2
+187,Cottbus,Germany,34.7,Estimated (gap filling method),,6.2,2
+188,Siegen,Germany,35.0,Estimated (gap filling method),,6.3,2
+189,Bergisch Gladbach,Germany,17.8,Strategic noise map,Moderate,3.2,1
+190,Hildesheim,Germany,31.8,Estimated (gap filling method),,5.7,2
+191,Witten,Germany,35.4,Estimated (gap filling method),,6.4,3
+192,Zwickau,Germany,33.7,Estimated (gap filling method),,6.0,2
+193,Erlangen,Germany,42.2,Strategic noise map,Moderate,7.1,2
+194,Wuppertal,Germany,37.3,Strategic noise map,Moderate,6.7,9
+195,Jena,Germany,28.0,Estimated (gap filling method),,4.9,2
+196,"Düren, Stadt",Germany,32.3,Estimated (gap filling method),,5.7,2
+197,"Bocholt, Stadt",Germany,34.4,Estimated (gap filling method),,6.2,1
+198,København,Denmark,46.5,Strategic noise map,Moderate,8.2,5
+199,Århus,Denmark,28.6,Strategic noise map,Moderate,4.8,2
+200,Odense,Denmark,29.2,Estimated (gap filling method),,4.9,2
+201,Aalborg,Denmark,29.0,Strategic noise map,Moderate,4.9,2
+202,Tallinn,Estonia,34.9,Strategic noise map,Moderate,6.8,15
+203,Tartu,Estonia,28.0,Strategic noise map,Moderate,4.7,2
+204,Narva,Estonia,29.6,Estimated (gap filling method),,5.4,2
+205,Madrid,Spain,43.8,Strategic noise map,High,7.9,39
+206,Barcelona,Spain,83.4,Strategic noise map,Low,16.5,47
+207,Valencia,Spain,86.4,Strategic noise map,Low,16.4,28
+208,Sevilla,Spain,88.7,Estimated (gap filling method),,17.0,25
+209,Zaragoza,Spain,79.2,Estimated (gap filling method),,14.3,18
+210,Málaga,Spain,90.6,Strategic noise map,Low,15.9,17
+211,Murcia,Spain,54.0,Strategic noise map,Low,8.5,5
+212,Las Palmas,Spain,86.8,Estimated (gap filling method),,16.7,13
+213,Valladolid,Spain,83.4,Estimated (gap filling method),,15.1,9
+214,Palma de Mallorca,Spain,82.5,Strategic noise map,Low,17.3,13
+215,Santiago de Compostela,Spain,70.2,Estimated (gap filling method),,11.8,2
+216,Vitoria/Gasteiz,Spain,89.9,Strategic noise map,Low,15.4,5
+217,Oviedo,Spain,79.6,Strategic noise map,Low,14.0,8
+218,Pamplona/Iruña,Spain,96.3,Strategic noise map,Low,20.5,6
+219,Santander,Spain,92.3,Strategic noise map,Low,17.2,5
+220,Toledo,Spain,78.3,Estimated (gap filling method),,13.7,1
+221,Badajoz,Spain,72.4,Strategic noise map,Low,12.0,3
+222,Logroño,Spain,92.8,Strategic noise map,Low,15.3,4
+223,Bilbao,Spain,94.1,Strategic noise map,Low,17.6,11
+224,Córdoba,Spain,70.2,Estimated (gap filling method),,12.0,7
+225,Alicante/Alacant,Spain,62.2,Strategic noise map,Low,11.1,7
+226,Vigo,Spain,75.5,Strategic noise map,Low,13.3,6
+227,Gijón,Spain,81.8,Estimated (gap filling method),,14.9,12
+228,L'Hospitalet de Llobregat,Spain,75.4,Strategic noise map,Low,14.2,5
+229,Santa Cruz de Tenerife,Spain,96.4,Strategic noise map,Low,17.6,8
+230,A Coruña,Spain,90.4,Strategic noise map,Low,20.5,9
+231,Barakaldo,Spain,90.9,Estimated (gap filling method),,18.4,3
+232,Reus,Spain,67.4,Estimated (gap filling method),,11.4,2
+233,Telde,Spain,77.2,Estimated (gap filling method),,13.7,2
+234,Parla,Spain,89.9,Estimated (gap filling method),,17.4,2
+235,Lugo,Spain,73.1,Estimated (gap filling method),,12.7,2
+236,San Fernando,Spain,88.4,Estimated (gap filling method),,16.9,3
+237,Girona,Spain,85.2,Strategic noise map,Low,17.5,2
+238,Cáceres,Spain,67.0,Estimated (gap filling method),,11.1,2
+239,Torrevieja,Spain,72.7,Estimated (gap filling method),,12.1,2
+240,Pozuelo de Alarcón,Spain,76.4,Estimated (gap filling method),,13.3,1
+241,"Puerto de Santa María, El",Spain,70.6,Estimated (gap filling method),,11.7,1
+242,Coslada,Spain,89.9,Estimated (gap filling method),,17.3,1
+243,Avilés,Spain,82.3,Estimated (gap filling method),,14.8,3
+244,Talavera de la Reina,Spain,76.5,Estimated (gap filling method),,13.2,2
+245,Palencia,Spain,79.4,Estimated (gap filling method),,13.9,2
+246,Sant Boi de Llobregat,Spain,64.9,Strategic noise map,Low,10.2,1
+247,Ferrol,Spain,70.6,Estimated (gap filling method),,11.8,2
+248,Pontevedra,Spain,65.2,Estimated (gap filling method),,10.6,1
+249,Ceuta,Spain,87.2,Estimated (gap filling method),,16.7,2
+250,Gandia,Spain,82.3,Estimated (gap filling method),,14.7,2
+251,"Rozas de Madrid, Las",Spain,73.9,Estimated (gap filling method),,12.5,1
+252,Guadalajara,Spain,80.9,Estimated (gap filling method),,14.2,2
+253,Sant Cugat del Vallès,Spain,59.6,Estimated (gap filling method),,9.7,1
+254,Manresa,Spain,68.7,Estimated (gap filling method),,11.7,1
+255,Getxo,Spain,87.1,Estimated (gap filling method),,16.6,2
+256,Rubí,Spain,58.6,Estimated (gap filling method),,9.5,1
+257,Ciudad Real,Spain,75.6,Estimated (gap filling method),,12.9,1
+258,Benidorm,Spain,75.2,Estimated (gap filling method),,12.8,2
+259,Melilla,Spain,92.1,Estimated (gap filling method),,19.4,2
+260,Viladecans,Spain,65.1,Strategic noise map,Low,9.1,1
+261,Ponferrada,Spain,66.8,Estimated (gap filling method),,10.9,1
+262,San Sebastián de los Reyes,Spain,79.4,Estimated (gap filling method),,14.1,1
+263,Zamora,Spain,81.9,Estimated (gap filling method),,14.6,2
+264,Fuengirola,Spain,86.0,Estimated (gap filling method),,16.0,2
+265,Cerdanyola del Vallès,Spain,64.2,Estimated (gap filling method),,10.7,1
+266,Sanlúcar de Barrameda,Spain,67.9,Estimated (gap filling method),,11.2,1
+267,Vilanova i la Geltrú,Spain,58.5,Estimated (gap filling method),,9.5,1
+268,"Prat de Llobregat, El",Spain,77.6,Estimated (gap filling method),,13.9,1
+269,"Línea de la Concepción, La",Spain,86.7,Estimated (gap filling method),,16.1,2
+270,Cornellà de Llobregat,Spain,80.6,Strategic noise map,Low,14.6,2
+271,Majadahonda,Spain,82.5,Estimated (gap filling method),,14.9,1
+272,Torremolinos,Spain,82.1,Estimated (gap filling method),,14.5,1
+273,Castelldefels,Spain,67.1,Estimated (gap filling method),,11.4,1
+274,Irun,Spain,81.3,Estimated (gap filling method),,14.4,1
+275,Granollers,Spain,69.4,Estimated (gap filling method),,11.8,1
+276,Arrecife,Spain,88.3,Estimated (gap filling method),,16.9,1
+277,Elda,Spain,84.4,Estimated (gap filling method),,15.4,2
+278,Santa Lucía de Tirajana,Spain,87.2,Estimated (gap filling method),,16.5,1
+279,Mollet del Vallès,Spain,71.9,Estimated (gap filling method),,12.5,1
+280,Granada,Spain,91.7,Strategic noise map,Low,15.7,8
+281,Badalona,Spain,72.4,Strategic noise map,Low,11.7,3
+282,Móstoles,Spain,87.3,Strategic noise map,Low,23.3,5
+283,Elche/Elx,Spain,29.0,Strategic noise map,Low,6.2,3
+284,Cartagena,Spain,37.5,Strategic noise map,Low,5.8,2
+285,Sabadell,Spain,78.0,Strategic noise map,Low,13.2,4
+286,Jerez de la Frontera,Spain,68.0,Estimated (gap filling method),,11.3,3
+287,Fuenlabrada,Spain,92.7,Estimated (gap filling method),,18.7,3
+288,San Sebastián/Donostia,Spain,93.8,Strategic noise map,Low,15.7,4
+289,Alcalá de Henares,Spain,93.6,Strategic noise map,Low,19.4,5
+290,Terrassa,Spain,77.6,Strategic noise map,Low,12.7,4
+291,Leganés,Spain,94.1,Strategic noise map,Low,16.9,4
+292,Almería,Spain,60.1,Strategic noise map,Low,10.8,4
+293,Burgos,Spain,92.1,Strategic noise map,Low,16.5,5
+294,Salamanca,Spain,94.7,Strategic noise map,Low,16.5,5
+295,Alcorcón,Spain,95.3,Strategic noise map,Low,17.7,3
+296,Getafe,Spain,93.7,Strategic noise map,Low,17.2,3
+297,Albacete,Spain,65.0,Strategic noise map,Low,13.5,3
+298,Castellón de la Plana/Castelló de la Plana,Spain,83.4,Strategic noise map,Low,17.7,7
+299,Huelva,Spain,89.0,Estimated (gap filling method),,17.2,5
+300,Cádiz,Spain,94.6,Strategic noise map,Low,16.6,4
+301,León,Spain,94.4,Strategic noise map,Low,16.7,5
+302,San Cristóbal de la Laguna,Spain,82.6,Estimated (gap filling method),,15.5,4
+303,Tarragona,Spain,77.2,Strategic noise map,Low,12.5,2
+304,Santa Coloma de Gramenet,Spain,87.8,Strategic noise map,Low,17.7,3
+305,Jaén,Spain,73.2,Estimated (gap filling method),,12.7,3
+306,Lleida,Spain,65.9,Estimated (gap filling method),,11.1,2
+307,Ourense,Spain,74.1,Estimated (gap filling method),,12.7,3
+308,Mataró,Spain,85.8,Strategic noise map,Low,17.8,3
+309,Dos Hermanas,Spain,75.4,Estimated (gap filling method),,12.9,2
+310,Algeciras,Spain,97.0,Strategic noise map,Low,17.2,3
+311,Marbella,Spain,67.9,Estimated (gap filling method),,11.2,2
+312,Torrejón de Ardoz,Spain,84.1,Strategic noise map,Low,15.1,1
+313,Alcobendas,Spain,83.6,Strategic noise map,Low,14.8,1
+314,Alcalá de Guadaíra,Spain,73.1,Estimated (gap filling method),,12.5,1
+315,Alcoy,Spain,77.7,Estimated (gap filling method),,13.6,2
+316,Ávila,Spain,77.4,Estimated (gap filling method),,13.3,1
+317,Benalmádena,Spain,75.3,Estimated (gap filling method),,12.7,1
+318,Chiclana de la Frontera,Spain,63.1,Estimated (gap filling method),,10.1,1
+319,Collado Villalba,Spain,78.6,Estimated (gap filling method),,13.6,1
+320,Cuenca,Spain,76.4,Estimated (gap filling method),,13.3,1
+321,Eivissa,Spain,86.4,Estimated (gap filling method),,16.2,1
+322,Linares,Spain,77.3,Estimated (gap filling method),,13.4,2
+323,Lorca,Spain,55.8,Estimated (gap filling method),,8.8,1
+324,Mérida,Spain,64.1,Estimated (gap filling method),,10.4,1
+325,Sagunto,Spain,72.9,Estimated (gap filling method),,12.3,2
+326,Torrelavega,Spain,82.7,Estimated (gap filling method),,14.9,2
+327,Valdemoro,Spain,86.9,Estimated (gap filling method),,16.1,1
+328,Puerto de la Cruz,Spain,81.2,Estimated (gap filling method),,14.5,1
+329,Paterna,Spain,77.2,Estimated (gap filling method),,13.4,1
+330,Igualada,Spain,63.0,Estimated (gap filling method),,10.4,1
+331,Torrent,Spain,68.2,Estimated (gap filling method),,11.2,2
+332,Mislata,Spain,95.0,Estimated (gap filling method),,21.2,2
+333,Rivas-Vaciamadrid,Spain,77.2,Estimated (gap filling method),,13.2,0
+334,Santurtzi,Spain,91.1,Estimated (gap filling method),,18.6,1
+335,Esplugues de Llobregat,Spain,66.5,Strategic noise map,Low,11.2,1
+336,San Vicente del Raspeig/Sant Vicent del Raspeig,Spain,68.7,Estimated (gap filling method),,11.3,1
+337,Helsinki / Helsingfors,Finland,45.1,Strategic noise map,Moderate,8.1,15
+338,Tampere / Tammerfors,Finland,53.0,Strategic noise map,Moderate,8.9,7
+339,Turku / Åbo,Finland,52.9,Strategic noise map,Moderate,10.5,8
+340,Oulu / Uleåborg,Finland,39.6,Strategic noise map,Moderate,6.4,4
+341,Espoo / Esbo,Finland,33.2,Strategic noise map,Moderate,5.6,3
+342,Vantaa / Vanda,Finland,49.9,Strategic noise map,Moderate,9.0,4
+343,Lahti / Lahtis,Finland,32.5,Strategic noise map,Moderate,6.0,3
+344,Kuopio,Finland,58.3,Strategic noise map,Moderate,10.5,6
+345,Jyväskylä,Finland,47.3,Strategic noise map,Moderate,8.8,4
+346,Paris,France,59.2,Strategic noise map,Moderate,13.7,27
+347,Paris (metropolitan area) ,France,66.9,Strategic noise map,Moderate,12.9,70
+348,Nice,France,19.5,Strategic noise map,Moderate,3.1,2
+349,Marne la Vallée,France,73.6,Strategic noise map,Moderate,10.8,0
+350,Versailles,France,65.2,Strategic noise map,Moderate,10.6,1
+351,CC de la Boucle de la Seine,France,56.9,Strategic noise map,Moderate,8.1,1
+352,Sénart en Essonne,France,38.9,Strategic noise map,Moderate,5.8,0
+353,CA Marne et Chantereine,France,61.4,Strategic noise map,Moderate,8.4,0
+354,CA des deux Rives de la Seine,France,63.2,Strategic noise map,Moderate,8.9,0
+355,CC des Coteaux de la Seine,France,57.7,Strategic noise map,Moderate,9.2,0
+356,CA Europ' Essonne,France,74.2,Strategic noise map,Moderate,11.9,1
+357,CA Brie Francilienne,France,72.4,Strategic noise map,Moderate,10.7,0
+358,CA les Portes de l'Essonne,France,78.1,Strategic noise map,Moderate,11.9,0
+359,CA Val et Forêt,France,69.3,Strategic noise map,Moderate,10.9,1
+360,CC de l'Ouest de la Plaine de France,France,65.2,Strategic noise map,Moderate,10.4,0
+361,CA le Parisis,France,61.4,Strategic noise map,Moderate,10.0,1
+362,Mantes en Yvelines,France,69.5,Strategic noise map,Moderate,11.1,1
+363,Evry,France,75.3,Strategic noise map,Moderate,12.6,1
+364,CA du Plateau de Saclay,France,69.0,Strategic noise map,Moderate,10.3,1
+365,CA de Seine Essonne,France,57.5,Strategic noise map,Moderate,9.6,1
+366,CA du Val d'Orge,France,64.9,Strategic noise map,Moderate,9.7,1
+367,CA du Val d'Yerres,France,57.4,Strategic noise map,Moderate,7.9,0
+368,CA Sénart - Val de Seine,France,67.5,Strategic noise map,Moderate,9.8,1
+369,CA Val de France,France,61.0,Strategic noise map,Moderate,9.0,1
+370,CA de la Vallée de Montmorency,France,57.3,Strategic noise map,Moderate,8.2,1
+371,Argenteuil - Bezons,France,70.4,Strategic noise map,Moderate,10.9,1
+372,Cergy-Pontoise,France,57.4,Strategic noise map,Moderate,9.3,1
+373,CA des Lacs de l'Essonne,France,82.3,Strategic noise map,Moderate,13.4,0
+374,Saint-Quentin en Yvelines,France,82.9,Strategic noise map,Moderate,13.6,1
+375,Budapest,Hungary,38.2,Strategic noise map,Moderate,7.4,86
+376,Miskolc,Hungary,42.8,Strategic noise map,Moderate,6.9,10
+377,Nyíregyháza,Hungary,33.2,Strategic noise map,Moderate,5.4,4
+378,Pécs,Hungary,31.0,Strategic noise map,High,5.3,6
+379,Debrecen,Hungary,32.1,Strategic noise map,Moderate,5.2,8
+380,Szeged,Hungary,37.9,Strategic noise map,Moderate,6.3,6
+381,Gyõr,Hungary,33.5,Strategic noise map,Moderate,6.2,5
+382,Kecskemét,Hungary,33.3,Estimated (gap filling method),,5.8,4
+383,Székesfehérvár,Hungary,33.4,Estimated (gap filling method),,5.9,3
+384,Szombathely,Hungary,38.2,Estimated (gap filling method),,6.8,3
+385,Szolnok,Hungary,33.1,Estimated (gap filling method),,5.8,3
+386,Tatabánya,Hungary,37.4,Estimated (gap filling method),,6.8,3
+387,Veszprém,Hungary,35.4,Estimated (gap filling method),,6.2,2
+388,Békéscsaba,Hungary,34.2,Estimated (gap filling method),,5.9,2
+389,Kaposvár,Hungary,35.8,Estimated (gap filling method),,6.3,3
+390,Eger,Hungary,35.4,Estimated (gap filling method),,6.2,3
+391,Dunaújváros,Hungary,33.9,Estimated (gap filling method),,5.9,2
+392,Zalaegerszeg,Hungary,34.1,Estimated (gap filling method),,5.9,2
+393,Sopron,Hungary,36.0,Estimated (gap filling method),,6.3,2
+394,Dublin,Ireland,30.3,Strategic noise map,Moderate,3.9,3
+395,Dublin (metropolitan area) ,Ireland,35.1,Strategic noise map,Moderate,5.1,11
+396,Cork,Ireland,29.3,Strategic noise map,Moderate,5.3,1
+397,Limerick,Ireland,33.7,Estimated (gap filling method),,4.7,0
+398,Galway,Ireland,30.9,Estimated (gap filling method),,4.3,1
+399,Waterford,Ireland,31.6,Estimated (gap filling method),,4.4,0
+400,Roma,Italy,60.5,Strategic noise map,Moderate,11.5,96
+401,Milano,Italy,59.1,Strategic noise map,Moderate,11.0,38
+402,Napoli,Italy,61.5,Estimated (gap filling method),,12.5,42
+403,Torino,Italy,60.2,Estimated (gap filling method),,12.1,28
+404,Palermo,Italy,58.1,Strategic noise map,Moderate,13.2,22
+405,Genova,Italy,22.5,Strategic noise map,Moderate,4.5,10
+406,Firenze,Italy,44.7,Strategic noise map,Moderate,7.9,8
+407,Bari,Italy,54.2,Strategic noise map,Moderate,10.3,9
+408,Bologna,Italy,68.3,Strategic noise map,Moderate,14.3,18
+409,Catania,Italy,82.5,Strategic noise map,Low,18.4,16
+410,Venezia,Italy,56.1,Strategic noise map,Moderate,11.4,10
+411,Verona,Italy,92.3,Strategic noise map,Moderate,23.2,18
+412,Cremona,Italy,58.6,Estimated (gap filling method),,11.6,2
+413,Trento,Italy,59.3,Estimated (gap filling method),,11.8,4
+414,Trieste,Italy,59.1,Estimated (gap filling method),,11.8,11
+415,Perugia,Italy,59.8,Estimated (gap filling method),,11.9,8
+416,Ancona,Italy,59.0,Estimated (gap filling method),,11.8,5
+417,Pescara,Italy,41.9,Estimated (gap filling method),,7.7,4
+418,Campobasso,Italy,42.2,Estimated (gap filling method),,7.8,1
+419,Caserta,Italy,43.2,Estimated (gap filling method),,8.0,2
+420,Taranto,Italy,50.9,Strategic noise map,Moderate,9.8,5
+421,Potenza,Italy,59.5,Estimated (gap filling method),,11.8,2
+422,Catanzaro,Italy,58.7,Estimated (gap filling method),,11.6,3
+423,Reggio di Calabria,Italy,57.7,Estimated (gap filling method),,11.4,6
+424,Sassari,Italy,59.4,Estimated (gap filling method),,11.8,3
+425,Cagliari,Italy,96.8,Strategic noise map,Low,23.1,9
+426,Padova,Italy,90.9,Strategic noise map,Low,20.6,15
+427,Brescia,Italy,57.3,Estimated (gap filling method),,11.2,7
+428,Modena,Italy,58.9,Strategic noise map,Moderate,10.4,5
+429,Foggia,Italy,61.8,Strategic noise map,Moderate,11.7,4
+430,Salerno,Italy,47.1,Estimated (gap filling method),,8.9,5
+431,Piacenza,Italy,64.9,Strategic noise map,Moderate,10.1,4
+432,Bolzano,Italy,14.1,Strategic noise map,Moderate,2.3,1
+433,Udine,Italy,44.7,Estimated (gap filling method),,8.4,3
+434,La Spezia,Italy,39.2,Estimated (gap filling method),,7.1,2
+435,Lecce,Italy,58.4,Estimated (gap filling method),,11.5,3
+436,Barletta,Italy,61.9,Estimated (gap filling method),,12.5,2
+437,Pesaro,Italy,55.7,Estimated (gap filling method),,10.8,3
+438,Como,Italy,40.2,Estimated (gap filling method),,7.3,2
+439,Pisa,Italy,59.7,Estimated (gap filling method),,11.9,3
+440,Treviso,Italy,39.5,Estimated (gap filling method),,7.1,2
+441,Varese,Italy,42.6,Estimated (gap filling method),,7.8,2
+442,Busto Arsizio,Italy,41.5,Estimated (gap filling method),,7.6,2
+443,Asti,Italy,55.0,Estimated (gap filling method),,10.6,2
+444,Pavia,Italy,42.3,Estimated (gap filling method),,7.8,2
+445,Massa,Italy,55.8,Estimated (gap filling method),,10.8,2
+446,Cosenza,Italy,46.1,Estimated (gap filling method),,8.7,2
+447,Savona,Italy,39.5,Estimated (gap filling method),,7.1,1
+448,Matera,Italy,63.4,Estimated (gap filling method),,12.9,2
+449,Acireale,Italy,41.1,Estimated (gap filling method),,7.5,1
+450,Avellino,Italy,43.6,Estimated (gap filling method),,8.0,2
+451,Pordenone,Italy,41.3,Estimated (gap filling method),,7.5,1
+452,Lecco,Italy,42.4,Estimated (gap filling method),,7.8,1
+453,Altamura,Italy,62.9,Estimated (gap filling method),,12.7,2
+454,Bitonto,Italy,64.1,Estimated (gap filling method),,13.1,2
+455,Molfetta,Italy,44.7,Estimated (gap filling method),,8.3,1
+456,Battipaglia,Italy,42.5,Estimated (gap filling method),,7.8,1
+457,Bisceglie,Italy,57.9,Estimated (gap filling method),,11.4,2
+458,Carpi,Italy,59.6,Estimated (gap filling method),,11.8,2
+459,Cerignola,Italy,63.2,Estimated (gap filling method),,12.9,2
+460,Gallarate,Italy,42.0,Estimated (gap filling method),,7.7,1
+461,Gela,Italy,57.4,Estimated (gap filling method),,11.2,2
+462,Saronno,Italy,41.1,Estimated (gap filling method),,7.5,1
+463,Bagheria,Italy,41.6,Estimated (gap filling method),,7.6,1
+464,Anzio,Italy,37.3,Estimated (gap filling method),,6.7,1
+465,Sassuolo,Italy,42.7,Estimated (gap filling method),,7.9,1
+466,Messina,Italy,43.2,Strategic noise map,Moderate,9.6,7
+467,Prato,Italy,67.6,Strategic noise map,Moderate,11.3,5
+468,Parma,Italy,59.6,Estimated (gap filling method),,11.9,6
+469,Livorno,Italy,75.4,Strategic noise map,Moderate,14.0,7
+470,Reggio nell'Emilia,Italy,38.4,Strategic noise map,Moderate,6.5,3
+471,Ravenna,Italy,59.0,Estimated (gap filling method),,11.6,6
+472,Ferrara,Italy,66.8,Strategic noise map,Moderate,12.6,6
+473,Rimini,Italy,58.3,Estimated (gap filling method),,11.5,5
+474,Siracusa,Italy,57.4,Estimated (gap filling method),,11.2,3
+475,Monza,Italy,61.5,Strategic noise map,Moderate,11.3,3
+476,Bergamo,Italy,42.8,Estimated (gap filling method),,7.9,3
+477,Forlì,Italy,39.4,Strategic noise map,Moderate,6.9,2
+478,Latina,Italy,46.5,Strategic noise map,Moderate,9.2,3
+479,Vicenza,Italy,59.3,Estimated (gap filling method),,11.8,4
+480,Terni,Italy,65.6,Strategic noise map,Moderate,11.8,5
+481,Novara,Italy,60.9,Estimated (gap filling method),,12.2,4
+482,Giugliano in Campania,Italy,58.3,Estimated (gap filling method),,11.5,3
+483,Alessandria,Italy,58.1,Estimated (gap filling method),,11.5,3
+484,Arezzo,Italy,56.7,Estimated (gap filling method),,11.0,3
+485,Grosseto,Italy,61.2,Estimated (gap filling method),,12.3,3
+486,Brindisi,Italy,61.8,Estimated (gap filling method),,12.4,3
+487,Trapani,Italy,59.3,Estimated (gap filling method),,11.7,2
+488,Ragusa,Italy,58.5,Estimated (gap filling method),,11.5,2
+489,Andria,Italy,52.4,Strategic noise map,Moderate,9.1,2
+490,Trani,Italy,61.7,Estimated (gap filling method),,12.4,1
+491,L'Aquila,Italy,57.7,Estimated (gap filling method),,11.3,3
+492,Vilnius,Lithuania,71.0,Strategic noise map,Moderate,15.4,71
+493,Kaunas,Lithuania,24.9,Strategic noise map,Moderate,4.4,15
+494,Panevežys,Lithuania,27.1,Strategic noise map,Moderate,3.4,3
+495,Alytus,Lithuania,23.7,Estimated (gap filling method),,3.8,2
+496,Klaipeda,Lithuania,65.1,Strategic noise map,Moderate,12.5,21
+497,Šiauliai,Lithuania,65.1,Strategic noise map,Moderate,12.4,14
+498,Luxembourg,Luxembourg,93.3,Strategic noise map,Low,20.4,3
+499,Riga,Latvia,81.6,Strategic noise map,Moderate,17.5,109
+500,Valletta,Malta,40.9,Strategic noise map,High,8.5,7
+501,Greater 's-Gravenhage,Netherlands,44.3,Strategic noise map,High,7.6,7
+502,Greater Amsterdam     ,Netherlands,47.3,Strategic noise map,High,7.8,7
+503,Greater Rotterdam        ,Netherlands,40.3,Strategic noise map,High,6.6,10
+504,Greater Utrecht              ,Netherlands,45.6,Strategic noise map,High,7.6,3
+505,Greater Eindhoven        ,Netherlands,38.7,Strategic noise map,High,6.6,2
+506,Tilburg,Netherlands,34.0,Strategic noise map,High,5.6,1
+507,Groningen,Netherlands,40.6,Strategic noise map,High,6.8,1
+508,Enschede,Netherlands,31.2,Strategic noise map,High,5.1,1
+509,Arnhem,Netherlands,36.4,Strategic noise map,High,6.1,1
+510,Greater Heerlen              ,Netherlands,32.1,Strategic noise map,High,5.3,2
+511,Almere,Netherlands,20.8,Strategic noise map,High,2.9,0
+512,Breda,Netherlands,37.1,Strategic noise map,High,6.2,1
+513,Nijmegen,Netherlands,37.4,Strategic noise map,High,6.2,1
+514,Apeldoorn,Netherlands,30.7,Strategic noise map,High,5.0,1
+515,Leeuwarden,Netherlands,33.4,Strategic noise map,High,5.5,1
+516,Greater Sittard-Geleen  ,Netherlands,26.4,Strategic noise map,High,4.2,1
+517,Hilversum,Netherlands,39.9,Strategic noise map,High,6.7,1
+518,Roosendaal,Netherlands,42.0,Strategic noise map,High,7.1,1
+519,Greater Nissewaard      ,Netherlands,28.7,Strategic noise map,High,4.5,1
+520,Purmerend,Netherlands,31.1,Strategic noise map,High,4.7,0
+521,Alphen aan den Rijn,Netherlands,35.6,Strategic noise map,High,5.9,1
+522,Bergen op Zoom,Netherlands,30.3,Strategic noise map,High,4.8,0
+523,Gouda,Netherlands,37.9,Strategic noise map,High,6.0,1
+524,Hoorn,Netherlands,35.5,Strategic noise map,High,5.3,0
+525,Greater Middelburg      ,Netherlands,30.1,Strategic noise map,High,4.7,1
+526,Greater Haarlem           ,Netherlands,39.6,Strategic noise map,High,6.9,3
+527,Zaanstad,Netherlands,39.1,Strategic noise map,High,6.2,1
+528,'s-Hertogenbosch,Netherlands,41.4,Strategic noise map,High,7.0,1
+529,Amersfoort,Netherlands,39.0,Strategic noise map,High,6.7,1
+530,Maastricht,Netherlands,36.1,Strategic noise map,High,6.0,1
+531,Greater Leiden                ,Netherlands,38.5,Strategic noise map,High,6.6,2
+532,Haarlemmermeer,Netherlands,38.6,Strategic noise map,High,6.2,1
+533,Zoetermeer,Netherlands,38.0,Strategic noise map,High,6.2,1
+534,Zwolle,Netherlands,40.1,Strategic noise map,High,6.8,1
+535,Greater Ede                      ,Netherlands,33.5,Strategic noise map,High,5.5,1
+536,Deventer,Netherlands,32.4,Strategic noise map,High,5.3,1
+537,Greater Alkmaar ,Netherlands,33.7,Strategic noise map,High,5.5,1
+538,Venlo,Netherlands,34.9,Strategic noise map,High,5.8,1
+539,Helmond,Netherlands,35.5,Strategic noise map,High,6.0,1
+540,Hengelo,Netherlands,30.7,Strategic noise map,High,5.1,1
+541,Almelo,Netherlands,32.5,Strategic noise map,High,5.3,1
+542,Lelystad,Netherlands,24.5,Strategic noise map,High,3.9,0
+543,Oss,Netherlands,25.5,Strategic noise map,High,4.1,0
+544,Assen,Netherlands,32.8,Strategic noise map,High,5.2,0
+545,Veenendaal,Netherlands,39.3,Strategic noise map,High,6.3,0
+546,Greater Heemskerk       ,Netherlands,34.4,Strategic noise map,High,5.8,1
+547,Greater Soest                   ,Netherlands,35.2,Strategic noise map,High,5.7,1
+548,Oslo,Norway,62.5,Strategic noise map,Moderate,12.1,16
+549,Bergen,Norway,17.6,Strategic noise map,Moderate,3.1,2
+550,Trondheim,Norway,28.9,Strategic noise map,Moderate,5.6,2
+551,Stavanger,Norway,13.1,Strategic noise map,Moderate,2.3,0
+552,Kristiansand,Norway,8.1,Estimated (gap filling method),,1.3,0
+553,Warszawa,Poland,64.6,Strategic noise map,Moderate,13.7,82
+554,Lódz,Poland,37.1,Estimated (gap filling method),,6.8,11
+555,Kraków,Poland,22.7,Strategic noise map,Moderate,5.9,20
+556,Wroclaw,Poland,38.7,Estimated (gap filling method),,7.2,10
+557,Poznan,Poland,46.8,Strategic noise map,Moderate,9.3,11
+558,Gdansk,Poland,58.6,Strategic noise map,Moderate,10.7,21
+559,Szczecin,Poland,53.5,Estimated (gap filling method),,10.7,11
+560,Bydgoszcz,Poland,58.3,Estimated (gap filling method),,11.9,6
+561,Lublin,Poland,53.7,Estimated (gap filling method),,10.7,5
+562,Katowice,Poland,55.6,Estimated (gap filling method),,11.3,11
+563,Bialystok,Poland,54.1,Estimated (gap filling method),,10.8,12
+564,Kielce,Poland,50.1,Estimated (gap filling method),,9.7,3
+565,Torun,Poland,67.4,Strategic noise map,Moderate,12.4,3
+566,Olsztyn,Poland,55.2,Estimated (gap filling method),,11.1,3
+567,Rzeszów,Poland,54.3,Estimated (gap filling method),,10.9,3
+568,Opole,Poland,53.1,Estimated (gap filling method),,10.5,2
+569,Gorzów Wielkopolski,Poland,43.4,Strategic noise map,Moderate,8.7,2
+570,Zielona Góra,Poland,40.3,Strategic noise map,Moderate,8.0,0
+571,Jelenia Góra,Poland,45.6,Estimated (gap filling method),,8.6,2
+572,Nowy Sacz,Poland,34.8,Estimated (gap filling method),,6.2,2
+573,Suwalki,Poland,33.5,Estimated (gap filling method),,6.0,0
+574,Konin,Poland,44.7,Estimated (gap filling method),,8.4,1
+575,Zory,Poland,36.0,Estimated (gap filling method),,6.6,1
+576,Czestochowa,Poland,35.0,Strategic noise map,Moderate,6.5,4
+577,Radom,Poland,52.7,Estimated (gap filling method),,10.4,8
+578,Plock,Poland,51.5,Estimated (gap filling method),,10.0,4
+579,Kalisz,Poland,57.5,Estimated (gap filling method),,11.9,3
+580,Koszalin,Poland,44.6,Strategic noise map,Moderate,8.9,2
+581,Slupsk,Poland,43.0,Estimated (gap filling method),,8.1,0
+582,Jastrzebie-Zdrój,Poland,44.8,Estimated (gap filling method),,8.5,2
+583,Siedlce,Poland,37.9,Estimated (gap filling method),,7.0,0
+584,Piotrków Trybunalski,Poland,47.8,Estimated (gap filling method),,9.3,1
+585,Lubin,Poland,49.0,Estimated (gap filling method),,9.6,1
+586,Pila,Poland,52.7,Estimated (gap filling method),,10.6,2
+587,Inowroclaw,Poland,41.8,Estimated (gap filling method),,7.8,1
+588,Ostrowiec Swietokrzyski,Poland,38.8,Estimated (gap filling method),,7.1,1
+589,Gniezno,Poland,40.0,Estimated (gap filling method),,7.4,1
+590,Stargard Szczecinski,Poland,41.4,Estimated (gap filling method),,7.7,1
+591,Ostrów Wielkopolski,Poland,35.7,Estimated (gap filling method),,6.4,1
+592,Przemysl,Poland,36.0,Estimated (gap filling method),,6.5,0
+593,Zamosc,Poland,35.0,Estimated (gap filling method),,6.3,0
+594,Chelm,Poland,41.4,Estimated (gap filling method),,7.7,1
+595,Pabianice,Poland,42.5,Estimated (gap filling method),,7.9,1
+596,Glogów,Poland,45.3,Estimated (gap filling method),,8.6,1
+597,Stalowa Wola,Poland,48.5,Estimated (gap filling method),,9.3,1
+598,Tomaszów Mazowiecki,Poland,40.8,Estimated (gap filling method),,7.6,1
+599,Lomza,Poland,38.9,Estimated (gap filling method),,7.1,1
+600,Leszno,Poland,40.0,Estimated (gap filling method),,7.4,1
+601,Swidnica,Poland,43.7,Estimated (gap filling method),,8.2,1
+602,Zgierz,Poland,36.9,Estimated (gap filling method),,6.7,1
+603,Tczew,Poland,39.7,Estimated (gap filling method),,7.2,2
+604,Elk,Poland,43.0,Estimated (gap filling method),,8.1,1
+605,Gdynia,Poland,70.7,Strategic noise map,Moderate,13.3,14
+606,Sosnowiec,Poland,53.0,Estimated (gap filling method),,10.7,7
+607,Gliwice,Poland,64.8,Strategic noise map,Moderate,12.9,6
+608,Zabrze,Poland,63.6,Strategic noise map,Moderate,11.2,5
+609,Bytom,Poland,36.9,Strategic noise map,Moderate,6.6,3
+610,Bielsko-Biala,Poland,33.7,Strategic noise map,Moderate,7.2,3
+611,Ruda Slaska,Poland,54.8,Strategic noise map,Moderate,9.3,4
+612,Rybnik,Poland,48.5,Strategic noise map,Moderate,9.0,3
+613,Tychy,Poland,51.7,Estimated (gap filling method),,10.2,3
+614,Walbrzych,Poland,62.5,Estimated (gap filling method),,13.2,6
+615,Elblag,Poland,44.5,Estimated (gap filling method),,8.4,0
+616,Wloclawek,Poland,41.5,Estimated (gap filling method),,7.6,0
+617,Tarnów,Poland,41.6,Estimated (gap filling method),,7.7,1
+618,Chorzów,Poland,49.9,Estimated (gap filling method),,9.7,3
+619,Legnica,Poland,49.0,Strategic noise map,Moderate,8.9,2
+620,Grudziadz,Poland,43.8,Estimated (gap filling method),,8.5,0
+621,Lisboa,Portugal,40.6,Strategic noise map,Moderate,8.3,13
+622,Porto,Portugal,8.2,Strategic noise map,Moderate,1.8,1
+623,Stockholm,Sweden,44.0,Strategic noise map,High,8.2,14
+624,Ljubljana,Slovenia,48.8,Strategic noise map,Moderate,8.8,5
+625,Maribor,Slovenia,46.9,Strategic noise map,Moderate,8.7,3
+626,London,United Kingdom,33.8,Strategic noise map,Low,6.1,74
+627,Birmingham,United Kingdom,27.4,Strategic noise map,Low,4.6,10
+628,West Midlands urban area,United Kingdom,27.5,Strategic noise map,Low,4.5,25
+629,Leeds,United Kingdom,25.5,Strategic noise map,Low,4.1,7
+630,Bradford,United Kingdom,26.6,Strategic noise map,Low,4.4,5
+631,Liverpool,United Kingdom,30.2,Strategic noise map,Low,5.1,5
+632,Liverpool (metropolitan area),United Kingdom,26.9,Strategic noise map,Low,4.4,15
+633,Manchester,United Kingdom,31.0,Strategic noise map,Low,5.3,6
+634,Greater Manchester,United Kingdom,26.5,Strategic noise map,Low,4.5,33
+635,Sheffield,United Kingdom,24.3,Strategic noise map,Low,4.0,5
+636,Bristol,United Kingdom,26.3,Strategic noise map,Low,4.4,4
+637,Belfast,United Kingdom,31.4,Strategic noise map,Moderate,5.9,5
+638,Newcastle upon Tyne,United Kingdom,27.9,Strategic noise map,Low,4.6,3
+639,Tyneside conurbation,United Kingdom,26.0,Strategic noise map,Low,4.2,8
+640,Leicester,United Kingdom,29.0,Strategic noise map,Low,4.6,3
+641,Leicester (metropolitan area),United Kingdom,25.2,Strategic noise map,Low,3.9,4
+642,Portsmouth,United Kingdom,29.8,Strategic noise map,Low,5.2,2
+643,Portsmouth (metropolitan area),United Kingdom,23.2,Strategic noise map,Low,3.7,4
+644,Coventry,United Kingdom,23.6,Strategic noise map,Low,3.4,2
+645,Kingston-upon-Hull,United Kingdom,20.1,Strategic noise map,Low,3.2,2
+646,Stoke-on-trent,United Kingdom,31.6,Strategic noise map,Low,5.4,3
+647,Stoke-on-Trent (metropolitan area),United Kingdom,28.5,Strategic noise map,Low,4.8,5
+648,Wolverhampton,United Kingdom,24.5,Strategic noise map,Low,4.0,3
+649,Nottingham,United Kingdom,27.5,Strategic noise map,Low,4.7,3
+650,Greater Nottingham,United Kingdom,25.0,Strategic noise map,Low,4.1,6
+651,Wirral,United Kingdom,25.9,Strategic noise map,Low,4.1,3
+652,Bath and North East Somerset,United Kingdom,28.8,Strategic noise map,Low,4.9,2
+653,Thurrock,United Kingdom,16.8,Strategic noise map,Low,3.5,1
+654,Fareham,United Kingdom,21.9,Strategic noise map,Low,3.4,1
+655,Worthing,United Kingdom,20.3,Strategic noise map,Low,3.6,1
+656,Mansfield,United Kingdom,22.5,Strategic noise map,Low,3.8,1
+657,Woking,United Kingdom,24.4,Strategic noise map,Low,3.8,1
+658,Harlow,United Kingdom,15.5,Strategic noise map,Low,2.3,0
+659,Halton,United Kingdom,20.7,Strategic noise map,Low,2.8,1
+660,City of London,United Kingdom,67.1,Strategic noise map,Low,13.6,0
+661,Barking and Dagenham,United Kingdom,27.0,Strategic noise map,Low,5.0,2
+662,Barnet,United Kingdom,32.3,Strategic noise map,Low,6.1,5
+663,Bexley,United Kingdom,27.5,Strategic noise map,Low,4.7,2
+664,Brent,United Kingdom,31.9,Strategic noise map,Low,5.7,3
+665,Bromley,United Kingdom,25.5,Strategic noise map,Low,4.4,3
+666,Camden,United Kingdom,45.2,Strategic noise map,Low,8.4,3
+667,Croydon,United Kingdom,29.4,Strategic noise map,Low,5.3,3
+668,Ealing,United Kingdom,26.9,Strategic noise map,Low,4.7,3
+669,Enfield,United Kingdom,31.4,Strategic noise map,Low,5.6,3
+670,Greenwich,United Kingdom,29.4,Strategic noise map,Low,5.0,2
+671,Hackney,United Kingdom,41.3,Strategic noise map,Low,7.3,2
+672,Hammersmith and Fulham,United Kingdom,37.9,Strategic noise map,Low,7.5,2
+673,Haringey,United Kingdom,36.0,Strategic noise map,Low,6.5,2
+674,Harrow,United Kingdom,27.8,Strategic noise map,Low,4.7,2
+675,Havering,United Kingdom,22.3,Strategic noise map,Low,3.6,2
+676,Hillingdon,United Kingdom,24.4,Strategic noise map,Low,3.9,2
+677,Hounslow,United Kingdom,33.6,Strategic noise map,Low,6.4,3
+678,Islington,United Kingdom,45.3,Strategic noise map,Low,8.4,3
+679,Kensington and Chelsea,United Kingdom,44.8,Strategic noise map,Low,8.9,2
+680,Kingston upon Thames,United Kingdom,32.6,Strategic noise map,Low,6.1,2
+681,Lambeth,United Kingdom,36.5,Strategic noise map,Low,6.8,3
+682,Lewisham,United Kingdom,32.1,Strategic noise map,Low,5.7,3
+683,Merton,United Kingdom,32.4,Strategic noise map,Low,5.8,2
+684,Newham,United Kingdom,33.8,Strategic noise map,Low,6.0,2
+685,Redbridge,United Kingdom,27.7,Strategic noise map,Low,5.2,3
+686,Richmond upon Thames,United Kingdom,36.0,Strategic noise map,Low,6.5,3
+687,Southwark,United Kingdom,44.0,Strategic noise map,Low,8.0,3
+688,Sutton,United Kingdom,24.1,Strategic noise map,Low,3.9,1
+689,Tower Hamlets,United Kingdom,49.5,Strategic noise map,Low,9.3,3
+690,Waltham Forest,United Kingdom,32.4,Strategic noise map,Low,5.9,2
+691,Wandsworth,United Kingdom,36.3,Strategic noise map,Low,6.9,3
+692,Westminster,United Kingdom,53.5,Strategic noise map,Low,10.3,4
+693,Kirklees,United Kingdom,29.2,Strategic noise map,Low,4.9,5
+694,Wakefield,United Kingdom,25.4,Strategic noise map,Low,4.0,4
+695,Dudley,United Kingdom,29.9,Strategic noise map,Low,4.9,4
+696,Wigan,United Kingdom,24.4,Strategic noise map,Low,4.1,4
+697,Doncaster,United Kingdom,20.2,Strategic noise map,Low,3.1,3
+698,Stockport,United Kingdom,20.5,Strategic noise map,Low,3.4,3
+699,Sefton,United Kingdom,25.3,Strategic noise map,Low,4.1,3
+700,Sandwell,United Kingdom,29.6,Strategic noise map,Low,4.9,4
+701,Sunderland,United Kingdom,22.2,Strategic noise map,Low,3.5,2
+702,Bolton,United Kingdom,25.4,Strategic noise map,Low,4.4,3
+703,Walsall,United Kingdom,27.4,Strategic noise map,Low,4.5,3
+704,Medway,United Kingdom,25.3,Strategic noise map,Low,4.0,2
+705,Rotherham,United Kingdom,22.1,Strategic noise map,Low,3.5,2
+706,Brighton and Hove,United Kingdom,26.6,Strategic noise map,Low,4.5,2
+707,Brighton and Hove (metropolitan area),United Kingdom,25.8,Strategic noise map,Low,4.4,3
+708,Plymouth,United Kingdom,21.7,Strategic noise map,Low,3.3,2
+709,Derby,United Kingdom,31.0,Strategic noise map,Low,4.7,3
+710,Barnsley,United Kingdom,28.2,Strategic noise map,Low,4.5,3
+711,Southampton,United Kingdom,27.5,Strategic noise map,Low,4.6,2
+712,Southampton (metropolitan area),United Kingdom,24.0,Strategic noise map,Low,4.0,3
+713,Oldham,United Kingdom,27.3,Strategic noise map,Low,4.7,3
+714,Salford,United Kingdom,28.5,Strategic noise map,Low,5.2,3
+715,Tameside,United Kingdom,25.0,Strategic noise map,Low,4.2,3
+716,Trafford,United Kingdom,28.8,Strategic noise map,Low,4.6,3
+717,Rochdale,United Kingdom,25.2,Strategic noise map,Low,4.5,3
+718,Solihull,United Kingdom,24.3,Strategic noise map,Low,3.4,1
+719,North Tyneside,United Kingdom,27.4,Strategic noise map,Low,4.3,2
+720,Gateshead,United Kingdom,23.9,Strategic noise map,Low,3.7,2
+721,Luton,United Kingdom,22.7,Strategic noise map,Low,3.6,1
+722,Bury,United Kingdom,24.7,Strategic noise map,Low,4.3,2
+723,Stockton-on-Tees,United Kingdom,14.8,Strategic noise map,Low,2.2,1
+724,St. Helens,United Kingdom,29.6,Strategic noise map,Low,4.8,2
+725,Basildon,United Kingdom,9.9,Strategic noise map,Low,2.2,1
+726,Bournemouth,United Kingdom,26.6,Strategic noise map,Low,4.4,2
+727,Bournemouth (metropolitan area),United Kingdom,23.1,Strategic noise map,Low,3.8,4
+728,Wycombe,United Kingdom,21.8,Strategic noise map,Low,3.9,1
+729,Southend-on-Sea,United Kingdom,32.4,Strategic noise map,Low,5.6,3
+730,Southend-on-Sea (metropolitan area),United Kingdom,26.1,Strategic noise map,Low,4.5,3
+731,South Tyneside,United Kingdom,23.3,Strategic noise map,Low,3.7,1
+732,Reading,United Kingdom,32.9,Strategic noise map,Low,5.5,1
+733,Reading (metropolitan area),United Kingdom,32.4,Strategic noise map,Low,5.1,3
+734,Poole,United Kingdom,18.7,Strategic noise map,Low,3.1,1
+735,Dacorum,United Kingdom,13.5,Strategic noise map,Low,2.0,1
+736,Middlesbrough,United Kingdom,15.5,Strategic noise map,Low,2.3,1
+737,Preston,United Kingdom,28.2,Strategic noise map,Low,4.5,1
+738,Preston (metropolitan area),United Kingdom,25.6,Strategic noise map,Low,3.9,2
+739,St Albans,United Kingdom,21.8,Strategic noise map,Low,3.7,1
+740,Warwick,United Kingdom,26.9,Strategic noise map,Low,4.2,1
+741,Slough,United Kingdom,19.5,Strategic noise map,Low,3.2,1
+742,Cheshire West and Chester,United Kingdom,26.1,Strategic noise map,Low,4.1,2
+743,Bracknell Forest,United Kingdom,21.0,Strategic noise map,Low,3.0,0
+744,Crawley,United Kingdom,20.3,Strategic noise map,Low,3.1,0
+745,Watford,United Kingdom,30.9,Strategic noise map,Low,5.6,1
+746,Gosport,United Kingdom,16.7,Strategic noise map,Low,2.6,0
+747,Eastleigh,United Kingdom,17.2,Strategic noise map,Low,2.6,1
+748,Rushmoor,United Kingdom,27.4,Strategic noise map,Low,4.2,1
+749,Rushmoor (metropolitan area),United Kingdom,27.2,Strategic noise map,Low,4.2,1

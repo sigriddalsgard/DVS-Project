@@ -1,0 +1,861 @@
+Ranking position [PM2.5],Ranking position [NO2],City,Country,PM2.5 [annual mean],Avoidable deaths [WHO 2005 levels] [PM2.5],Avoidable deaths [WHO 2021 levels] [PM2.5],Avoidable deaths [lowest levels] [PM2.5],NO2 [annual mean],Avoidable deaths [WHO 2005 levels] [NO2],Avoidable deaths [WHO 2021 levels] [NO2],Avoidable deaths [lowest levels] [NO2]
+1,19,Brescia,Italy,27.5,232,293,309,37.6,2,107,131
+2,40,Bergamo,Italy,26.1,137,176,186,33.6,0,59,74
+3,378,Karviná,Czech Republic,22.7,52,71,76,18.4,0,10,18
+4,137,Vicenza,Italy,26.5,124,159,167,28.7,0,41,55
+5,84,Metropolitan Association of Upper Silesia,Poland,22.4,1739,2397,2564,26.8,0,687,943
+6,159,Ostrava,Czech Republic,23.0,270,367,392,23.7,0,84,122
+7,468,Jastrzebie-Zdrój,Poland,23.3,71,96,102,18.6,0,14,24
+8,98,Saronno,Italy,27.1,46,58,61,33.0,0,18,23
+9,302,Rybnik,Poland,23.1,113,154,164,21.2,0,29,45
+10,436,Havírov,Czech Republic,22.6,67,91,98,18.6,0,14,24
+11,50,Verona,Italy,25.9,269,348,368,34.1,1,119,150
+12,200,Zory,Poland,22.8,49,67,71,22.7,0,14,21
+13,5,Milan (metropolitan area),Italy,27.4,3967,5021,5290,38.0,103,1864,2271
+14,65,Treviso,Italy,24.2,85,113,120,32.3,0,39,50
+15,41,Padua,Italy,23.9,219,292,311,33.5,1,107,136
+16,325,Radom,Poland,22.2,177,246,263,20.6,0,46,73
+17,45,Como,Italy,23.5,86,116,124,32.9,0,43,54
+18,139,Cremona,Italy,25.3,66,86,92,30.3,0,26,34
+19,76,Busto Arsizio,Italy,24.8,77,101,108,33.6,0,36,45
+20,24,Warsaw,Poland,23.2,1494,2023,2158,32.7,16,743,945
+21,150,Pavia,Italy,23.3,70,94,101,27.6,0,27,37
+22,96,Novara,Italy,23.7,105,141,150,31.9,0,49,63
+23,90,Venice,Italy,22.2,245,339,363,29.1,0,111,148
+24,310,Pordenone,Italy,23.8,50,67,71,24.6,0,16,22
+25,172,Piacenza,Italy,23.6,115,155,165,28.4,0,46,61
+26,163,Ferrara,Italy,21.8,142,198,213,26.5,0,58,80
+27,3,Turin,Italy,22.7,810,1110,1186,40.8,34,562,673
+28,197,Kraków,Poland,22.3,568,786,842,25.5,0,211,295
+29,53,Gallarate,Italy,23.3,42,57,60,35.0,0,23,28
+30,512,Serres,Greece,19.5,61,92,100,17.6,0,14,27
+31,74,Lódz,Poland,18.6,538,835,911,26.9,0,305,417
+32,129,Varese,Italy,21.2,66,94,102,28.3,0,32,42
+33,126,Carpi,Italy,23.3,61,82,88,32.5,0,30,38
+34,251,Lublin,Poland,20.7,223,321,346,23.4,0,81,119
+35,183,Asti,Italy,22.3,67,93,99,28.8,0,30,40
+36,240,Opole,Poland,20.1,78,114,124,23.1,0,30,44
+37,149,Alessandria,Italy,21.8,84,118,126,29.3,0,40,53
+38,208,Parma,Italy,22.4,144,198,212,28.5,0,62,84
+39,217,Tatabánya,Hungary,16.6,40,70,77,18.8,0,15,27
+40,362,Dunaújváros,Hungary,17.4,33,55,60,17.7,0,10,18
+41,114,Lecco,Italy,20.8,36,51,55,30.2,0,19,25
+42,527,Bielsko-Biala,Poland,19.5,103,154,167,18.4,0,27,47
+43,243,Zgierz,Poland,18.3,35,55,60,21.4,0,14,22
+44,288,Kielce,Poland,19.1,122,186,202,21.5,0,45,70
+45,382,Tomaszów Mazowiecki,Poland,18.0,37,59,64,18.6,0,12,20
+46,235,Czestochowa,Poland,18.4,141,221,242,21.8,0,58,89
+47,619,Košice,Slovakia,19.5,120,180,196,17.7,0,29,52
+48,291,Miskolc,Hungary,16.7,101,173,192,18.5,0,37,65
+49,280,Piotrków Trybunalski,Poland,17.8,42,68,74,20.5,0,16,26
+50,79,Modena,Italy,21.3,139,197,211,35.2,0,89,110
+51,312,Olomouc,Czech Republic,19.8,61,90,97,22.7,0,23,34
+52,199,Pabianice,Poland,17.9,38,61,67,22.4,0,17,26
+53,537,Ostrowiec Swietokrzyski,Poland,18.6,42,66,71,18.0,0,11,21
+54,607,Ljubljana,Slovenia,21.9,161,225,242,20.3,0,41,66
+55,569,Osijek,Croatia,17.6,65,107,117,16.4,0,16,32
+56,555,Maribor,Slovenia,18.6,67,105,114,17.8,0,18,33
+57,133,Trieste,Italy,19.3,165,249,270,27.7,0,90,122
+58,253,Udine,Italy,20.4,74,108,117,25.6,0,32,46
+59,211,Wroclaw,Poland,19.1,388,591,643,24.3,0,177,254
+60,148,Sassuolo,Italy,21.0,28,40,44,30.5,0,15,20
+61,187,Reggio Emilia,Italy,21.5,115,163,175,30.2,0,59,77
+62,575,Szolnok,Hungary,17.8,42,68,75,16.9,0,11,21
+63,301,Swidnica,Poland,17.4,35,58,64,20.1,0,14,23
+64,71,Thessaloniki (metropolitan area),Greece,20.0,488,719,778,30.6,2,288,375
+65,517,Žilina,Slovakia,18.5,38,60,65,18.7,0,12,20
+66,83,Caserta,Italy,18.3,41,65,71,29.9,0,28,37
+67,610,Pécs,Hungary,17.1,90,150,165,16.1,0,22,46
+68,157,Budapest,Hungary,18.0,1109,1776,1945,25.5,0,625,877
+69,681,Trencín,Slovakia,18.5,28,43,47,17.0,0,7,13
+70,644,Kaposvár,Hungary,16.7,35,60,67,15.6,0,9,18
+71,16,Athens (metropolitan area),Greece,17.9,2141,3433,3762,35.2,38,1931,2404
+72,612,Larissa,Greece,19.4,89,134,145,19.4,0,26,44
+73,54,Bologna,Italy,19.0,267,410,446,33.7,1,202,255
+74,516,Walbrzych,Poland,16.7,101,173,191,17.0,0,31,59
+75,707,Trikala,Greece,18.4,46,72,79,17.0,0,11,21
+76,380,Gyõr,Hungary,17.3,67,110,122,19.7,0,26,43
+77,144,Savona,Italy,18.2,45,71,78,27.2,0,27,37
+78,727,Katerini,Greece,19.0,36,55,60,17.5,0,9,16
+79,568,Szombathely,Hungary,17.2,42,70,78,17.3,0,12,23
+80,620,Slavonski Brod,Croatia,17.2,34,57,63,16.7,0,9,18
+81,309,Sofia,Bulgaria,17.0,528,888,980,20.7,0,232,369
+82,345,Forlì,Italy,19.4,78,118,128,24.5,0,35,50
+83,670,Kecskemét,Hungary,17.4,59,98,107,16.6,0,16,30
+84,497,Wloclawek,Poland,16.7,4,8,8,17.7,0,2,3
+85,475,Székesfehérvár,Hungary,17.3,49,81,89,18.9,0,17,30
+86,520,Tarnów,Poland,18.1,13,20,22,19.5,0,4,7
+87,228,Plock,Poland,16.9,55,93,103,22.5,0,29,43
+88,131,Salerno,Italy,16.9,71,121,133,25.9,0,47,66
+89,371,Ravenna,Italy,19.3,108,163,177,24.2,0,48,69
+90,97,Naples (metropolitan area),Italy,17.8,1352,2183,2394,28.3,3,909,1219
+91,738,Zlín,Czech Republic,17.4,38,62,69,15.9,0,9,18
+92,614,Nyíregyháza,Hungary,16.7,56,97,108,16.7,0,16,32
+93,372,Trnava,Slovakia,17.4,27,45,50,21.1,0,12,19
+94,750,Prešov,Slovakia,17.7,35,57,63,16.1,0,8,17
+95,693,Zalaegerszeg,Hungary,16.8,29,50,55,15.9,0,8,16
+96,657,Szeged,Hungary,17.0,86,145,161,16.8,0,24,47
+97,421,Konin,Poland,16.8,31,53,58,19.5,0,13,21
+98,239,Bratislava,Slovakia,17.3,181,300,331,22.7,0,92,137
+99,445,Siedlce,Poland,16.9,8,14,15,19.5,0,3,5
+100,691,Békéscsaba,Hungary,16.6,28,49,54,15.9,0,7,15
+101,585,Nitra,Slovakia,17.2,33,55,61,18.2,0,11,20
+102,440,Arad,Romania,16.4,66,115,128,19.2,0,28,46
+103,119,Bucarest,Romania,17.1,800,1340,1478,26.7,1,541,743
+104,298,Brno,Czech Republic,17.1,185,311,343,22.8,0,97,145
+105,671,Debrecen,Hungary,16.5,104,180,200,16.5,0,30,60
+106,571,Zagreb,Croatia,17.1,384,643,708,18.6,0,135,234
+107,259,Kalisz,Poland,16.1,42,75,83,21.9,0,23,36
+108,418,Legnica,Poland,16.3,40,71,79,19.5,0,18,29
+109,375,Inowroclaw,Poland,16.3,28,49,54,20.2,0,13,21
+110,563,Volos,Greece,17.4,42,69,76,19.4,0,16,26
+111,609,Kavala,Greece,16.9,31,53,59,18.0,0,11,19
+112,747,Xanthi,Greece,16.9,22,37,41,16.1,0,6,12
+113,774,Kalamata,Greece,16.9,31,53,58,15.7,0,8,16
+114,629,Eger,Hungary,16.4,26,46,51,17.2,0,9,16
+115,215,Poznan,Poland,16.6,243,420,465,24.2,0,151,217
+116,694,Sopron,Hungary,16.7,27,47,52,16.8,0,8,16
+117,740,Valletta,Malta,17.5,76,124,136,17.2,0,22,40
+118,336,Ostrów Wielkopolski,Poland,15.8,27,50,55,20.5,0,14,23
+119,34,Genoa,Italy,17.0,354,595,657,31.1,4,303,392
+120,368,Ploiesti,Romania,16.4,85,149,166,21.3,0,43,68
+121,552,Craiova,Romania,17.4,105,173,191,20.2,0,42,68
+122,212,Ústí nad Labem,Czech Republic,15.7,35,64,72,22.9,0,23,34
+123,390,Timisoara,Romania,16.5,114,198,219,21.1,0,56,88
+124,206,Bialystok,Poland,16.4,118,206,228,23.9,0,73,106
+125,188,Catania,Italy,16.4,127,222,246,25.5,0,88,124
+126,583,Veszprém,Hungary,16.5,24,41,46,18.6,0,9,16
+127,685,Stalowa Wola,Poland,16.6,24,41,45,17.3,0,8,14
+128,297,Torun,Poland,16.3,76,133,148,23.0,0,45,66
+129,324,Pardubice,Czech Republic,15.9,38,68,76,21.5,0,21,33
+130,622,Jelenia Góra,Poland,15.2,30,58,65,16.2,0,10,21
+131,405,Gniezno,Poland,15.7,24,44,49,19.9,0,12,20
+132,398,Rzeszów,Poland,16.6,75,129,142,21.9,0,39,59
+133,661,Pernik,Bulgaria,15.3,32,61,69,16.0,0,11,22
+134,630,Galati,Romania,16.7,82,141,156,18.7,0,31,54
+135,502,Liberec,Czech Republic,16.3,40,71,79,19.7,0,18,30
+136,451,Syracuse,Italy,16.8,49,83,92,21.5,0,24,37
+137,153,Most,Czech Republic,15.1,22,43,49,24.1,0,18,26
+138,289,Livorno,Italy,16.5,82,143,158,24.2,0,52,75
+139,458,Lecce,Italy,16.9,44,75,83,21.9,0,22,34
+140,481,Hradec Králové,Czech Republic,16.5,38,66,74,20.8,0,18,29
+141,221,Pisa,Italy,16.4,42,73,81,25.9,0,29,41
+142,255,Bydgoszcz,Poland,15.9,125,226,252,23.8,0,84,122
+143,353,Lubin,Poland,15.2,26,49,55,20.4,0,15,24
+144,72,"Línea de la Concepción, La",Spain,15.3,21,41,46,30.6,0,24,31
+145,295,Avellino,Italy,16.2,24,44,48,24.1,0,16,23
+146,287,Acireale,Italy,15.8,21,38,43,23.6,0,14,21
+147,556,Chelm,Poland,15.0,23,44,50,17.7,0,10,18
+148,737,Taranto,Italy,16.7,78,134,149,18.0,0,27,49
+149,241,Pescara,Italy,15.8,52,96,107,24.9,0,39,55
+150,665,Przemysl,Poland,15.0,4,7,8,16.7,0,1,3
+151,397,Battipaglia,Italy,16.0,19,35,39,22.4,0,12,17
+152,697,Satu Mare,Romania,14.7,28,56,63,15.7,0,10,21
+153,273,La Spezia,Italy,15.9,49,89,99,24.8,0,35,50
+154,160,Rome,Italy,16.3,1029,1812,2011,28.8,1,872,1162
+155,263,Bolzano,Italy,16.1,40,72,80,25.5,0,29,41
+156,617,Târgu Mures,Romania,15.4,41,78,88,18.1,0,18,32
+157,6,Barcelona (metropolitan area),Spain,16.8,1297,2215,2448,38.9,82,1554,1883
+158,735,Banská Bystrica,Slovakia,15.6,24,44,49,16.8,0,8,16
+159,526,Grudziadz,Poland,14.6,5,10,11,17.9,0,2,4
+160,640,Oradea,Romania,15.4,56,107,119,17.9,0,24,43
+161,354,Rimini,Italy,16.4,61,107,118,24.4,0,39,57
+162,359,Glogów,Poland,14.5,19,40,45,20.3,0,13,20
+163,264,Kladno,Czech Republic,14.6,21,43,48,22.1,0,16,24
+164,491,Lomza,Poland,14.6,7,14,16,18.8,0,4,6
+165,443,Zamosc,Poland,14.5,7,15,17,19.3,0,4,7
+166,337,Plzen,Czech Republic,14.7,57,116,130,21.4,0,40,61
+167,528,Molfetta,Italy,15.7,21,40,44,20.4,0,11,18
+168,543,Bisceglie,Italy,15.5,18,34,38,19.7,0,9,15
+169,296,Santander,Spain,15.5,63,118,132,24.3,0,47,68
+170,387,Trento,Italy,16.8,45,76,84,25.2,0,29,40
+171,638,Nowy Sacz,Poland,15.3,23,44,49,18.2,0,10,18
+172,156,Prato,Italy,16.4,75,132,146,30.8,0,70,91
+173,203,Chomutov - Jirkov,Czech Republic,14.3,19,40,45,23.2,0,16,24
+174,20,CA Val et Forêt,France,15.0,21,40,45,36.4,1,30,37
+175,406,Leszno,Poland,14.5,16,34,39,20.2,0,11,17
+176,748,Vidin,Bulgaria,15.3,13,25,28,16.8,0,5,9
+177,608,Foggia,Italy,16.0,50,90,100,20.4,0,25,40
+178,529,Ruse,Bulgaria,14.2,38,82,93,17.9,0,21,37
+179,783,Gela,Italy,16.5,27,48,53,17.9,0,10,17
+180,715,Irakleio,Greece,15.8,49,90,100,18.4,0,21,36
+181,689,Latina,Italy,16.1,40,71,79,19.5,0,18,30
+182,514,Braila,Romania,14.4,52,109,124,18.8,0,30,51
+183,600,Haskovo,Bulgaria,14.5,20,40,46,17.8,0,10,18
+184,524,Brindisi,Italy,15.9,31,56,63,21.9,0,18,27
+185,752,Drobeta-Turnu Severin,Romania,15.8,26,47,52,17.8,0,10,18
+186,21,Gelsenkirchen,Germany,13.9,86,192,219,34.6,2,151,189
+187,105,Prague,Czech Republic,15.2,419,808,907,28.5,2,425,567
+188,9,Herne,Germany,14.0,52,115,131,35.2,2,92,114
+189,17,Duisburg,Germany,14.1,164,358,408,33.8,5,268,337
+190,256,Cádiz,Spain,13.6,27,64,73,21.1,0,24,37
+191,31,CA de la Vallée de Montmorency,France,15.3,25,49,54,36.2,0,35,44
+192,822,Catanzaro,Italy,15.9,29,53,59,15.4,0,8,17
+193,27,Oberhausen,Germany,13.8,67,153,174,34.3,1,119,150
+194,746,Ioannina,Greece,15.5,25,47,52,18.0,0,10,19
+195,184,Florence,Italy,15.0,143,280,315,28.1,0,147,197
+196,162,Zaragoza,Spain,15.5,225,423,474,29.6,0,229,301
+197,244,Bari,Italy,15.1,99,193,217,26.2,0,90,125
+198,7,Mollet del Vallès,Spain,16.6,16,27,30,40.6,1,20,24
+199,11,Essen,Germany,13.9,184,412,470,34.1,8,317,399
+200,207,Hénin - Carvin,France,14.0,30,67,76,24.2,0,30,44
+201,503,Pesaro,Italy,15.4,35,65,73,22.3,0,22,34
+202,190,Manresa,Spain,14.9,23,45,51,27.3,0,23,31
+203,39,Recklinghausen,Germany,13.9,36,82,93,33.0,0,60,76
+204,55,Bottrop,Germany,13.9,37,84,96,31.5,0,58,75
+205,28,Mülheim an der Ruhr ,Germany,14.0,57,126,143,34.7,1,98,123
+206,680,Giurgiu,Romania,14.6,19,39,44,18.1,0,10,17
+207,441,Cottbus,Germany,13.9,32,72,83,19.8,0,23,38
+208,67,Vienna,Austria,14.6,473,969,1095,29.9,4,576,757
+209,637,Jihlava,Czech Republic,14.5,14,28,32,18.5,0,7,13
+210,471,Terni,Italy,14.9,43,86,96,21.8,0,30,46
+211,722,Chania,Greece,14.6,16,33,38,17.5,0,8,14
+212,14,CC des Coteaux de la Seine,France,14.9,8,17,19,35.4,0,12,15
+213,765,Târgu Jiu,Romania,16.0,19,34,38,18.8,0,8,14
+214,407,Avilés,Spain,14.9,28,55,62,23.1,0,21,32
+215,724,Cerignola,Italy,15.6,17,31,35,19.3,0,8,14
+216,61,Charleroi,Belgium,13.5,52,125,144,28.3,0,78,104
+217,85,Mönchengladbach,Germany,13.7,75,173,198,28.7,0,106,142
+218,650,Pazardzhik,Bulgaria,13.6,10,25,28,16.6,0,6,11
+219,185,Doway,France,13.5,33,78,90,24.3,0,38,55
+220,673,Frankfurt (Oder),Germany,13.8,18,41,47,16.9,0,10,18
+221,667,Stara Zagora,Bulgaria,13.9,22,50,57,17.1,0,12,22
+222,10,Argenteuil - Bezons,France,15.5,27,50,56,37.6,1,37,46
+223,29,Dortmund,Germany,13.6,166,388,444,32.2,3,285,365
+224,412,Plovdiv,Bulgaria,13.8,96,218,250,20.4,0,76,121
+225,46,Communauté de Communes de l’Ouest de la Plaine de France (CCOPF),France,14.9,9,18,20,30.6,0,11,14
+226,547,Patras,Greece,14.3,48,102,116,19.7,0,31,51
+227,59,Krefeld,Germany,13.8,64,147,168,31.3,0,102,132
+228,623,Brandenburg an der Havel,Germany,13.6,23,53,61,17.3,0,13,25
+229,705,Trani,Italy,15.6,14,26,29,20.1,0,7,12
+230,314,Tarragona,Spain,15.3,34,65,73,26.5,0,30,42
+231,63,Communauté d'Agglomération Val Parisis,France,15.1,18,36,40,31.6,0,22,28
+232,597,Lleida,Spain,15.7,42,77,86,22.3,0,26,39
+233,669,Andria,Italy,15.5,26,49,55,20.6,0,15,23
+234,69,Heerlen,Netherlands,13.6,56,133,152,29.8,0,88,116
+235,275,Mataró,Spain,15.8,32,59,66,29.4,0,31,41
+236,100,Courtrai,Belgium,14.2,20,43,49,29.1,0,26,34
+237,58,Moers,Germany,14.1,31,67,77,32.0,0,47,60
+238,23,Bochum,Germany,13.6,106,248,284,33.4,3,191,242
+239,216,San Sebastián,Spain,14.3,51,109,123,25.9,0,54,75
+240,771,Călărași,Romania,14.7,89,181,204,17.1,0,39,74
+241,68,Valencia (metropolitan area),Spain,14.7,352,718,811,31.1,3,450,582
+242,75,Witten,Germany,13.4,28,69,79,30.3,0,47,62
+243,423,Reggio Calabria,Italy,14.6,53,108,123,22.6,0,42,62
+244,624,Barletta,Italy,15.1,24,47,52,20.6,0,14,23
+245,360,Oviedo,Spain,14.9,71,141,159,24.9,0,62,87
+246,282,Torrelavega,Spain,14.0,16,34,39,24.0,0,15,22
+247,166,Communauté d'Agglomération de Lens – Liévin,France,13.4,53,130,149,24.3,0,64,92
+248,191,Halle,Germany,13.4,65,160,184,23.9,0,77,112
+249,594,Trapani,Italy,14.1,20,43,49,19.0,0,12,21
+250,775,Baia Mare,Romania,14.0,25,54,62,15.8,0,11,22
+251,370,Ancona,Italy,14.3,33,69,79,22.9,0,28,42
+252,151,Granollers,Spain,15.3,16,30,33,32.8,0,19,24
+253,806,Anzio,Italy,15.0,16,31,35,16.3,0,6,11
+254,182,Berlin,Germany,14.1,851,1865,2122,25.3,4,909,1283
+255,307,Messina,Italy,14.2,71,153,174,24.0,0,68,98
+256,347,Cosenza,Italy,13.8,19,43,49,22.2,0,17,26
+257,668,Murcia,Spain,15.0,102,201,226,20.0,0,59,96
+258,222,Cannes,France,13.1,21,53,61,22.1,0,23,35
+259,486,Görlitz,Germany,13.3,18,44,51,18.7,0,14,24
+260,102,Communauté de Communes de la Boucle de la Seine,France,15.5,37,70,78,33.8,0,46,57
+261,109,Sittard-Geleen,Netherlands,13.8,32,73,83,29.5,0,47,61
+262,219,Valenciennes,France,13.7,39,91,104,24.7,0,45,64
+263,125,Porto (metropolitan area),Portugal,14.0,228,504,574,28.2,1,293,394
+264,416,Tczew,Poland,13.1,12,30,35,19.2,0,10,17
+265,678,Pitești,Romania,14.7,34,68,77,19.4,0,19,32
+266,18,Leverkusen,Germany,13.8,46,104,119,33.1,2,78,99
+267,642,Constanța,Romania,13.1,53,136,157,16.5,0,32,63
+268,138,Algeciras,Spain,14.3,22,47,54,29.3,0,28,38
+269,329,Igualada (metropolitan area),Spain,14.9,15,31,35,26.2,0,15,20
+270,615,Cartagena,Spain,14.1,47,104,118,19.2,0,30,52
+271,158,Mons,Belgium,13.4,22,54,62,24.9,0,27,39
+272,476,Massa,Italy,14.2,22,48,55,21.6,0,18,27
+273,233,Bremerhaven,Germany,12.8,26,70,82,21.8,0,31,47
+274,238,Chemnitz,Germany,13.5,74,176,203,23.7,0,83,121
+275,173,Hamm,Germany,13.4,46,113,129,25.7,0,61,85
+276,450,Zielona Góra,Poland,13.0,4,11,12,18.9,0,3,6
+277,36,Communauté d'Agglomération Val de France,France,15.2,25,48,53,34.7,1,33,41
+278,218,Schweinfurt,Germany,13.0,14,37,43,23.2,0,18,26
+279,679,Bagheria,Italy,14.6,13,27,31,19.6,0,8,13
+280,768,Târgoviște,Romania,14.9,16,32,36,18.3,0,8,14
+281,124,Dunkirk,France,13.4,36,87,100,27.1,0,51,70
+282,281,Gijón,Spain,13.9,76,170,194,24.9,0,82,117
+283,161,Communauté d'Agglomération Val de Seine,France,14.1,15,34,38,27.1,0,18,25
+284,66,Solingen,Germany,13.2,41,103,119,31.1,0,76,98
+285,553,Perugia,Italy,14.4,52,109,123,21.2,0,38,59
+286,444,Salzgitter,Germany,12.9,24,66,77,18.9,0,22,37
+287,223,Seville (metropolitan area),Spain,13.7,176,406,464,25.3,0,206,290
+288,731,Shumen,Bulgaria,12.7,11,31,36,15.0,0,6,13
+289,279,Magdeburg,Germany,13.2,60,151,175,22.4,0,66,100
+290,99,Ostend,Belgium,13.1,18,46,53,27.2,0,28,38
+291,87,Neuss,Germany,13.7,39,89,102,31.3,0,62,80
+292,62,Hagen,Germany,12.9,47,126,146,29.6,0,89,118
+293,234,Leipzig,Germany,13.5,129,308,353,24.5,0,152,217
+294,770,Vratsa,Bulgaria,13.0,10,27,31,14.8,0,5,11
+295,692,Pleven,Bulgaria,13.4,19,45,51,17.2,0,11,21
+296,338,Palermo,Italy,13.9,154,344,393,23.9,0,155,226
+297,142,Speyer,Germany,13.4,13,31,36,26.2,0,17,24
+298,48,Maastricht,Netherlands,13.6,30,69,80,31.3,0,49,64
+299,648,Cluj-Napoca,Romania,13.7,65,150,172,18.5,0,43,75
+300,26,Liège,Belgium,13.1,84,215,248,31.1,3,159,206
+301,811,Slatina,Romania,16.0,14,24,27,18.5,0,6,10
+302,706,Ragusa,Italy,13.5,17,41,47,17.2,0,10,19
+303,165,Frankenthal,Germany,13.4,13,31,35,27.1,0,18,25
+304,13,Düsseldorf,Germany,13.6,147,344,394,35.5,8,289,359
+305,313,Dresden,Germany,13.9,138,307,350,24.8,0,147,209
+306,743,Bacău,Romania,14.3,26,55,62,18.4,0,15,26
+307,15,Cologne,Germany,13.7,234,542,620,33.7,13,421,530
+308,8,Brussels,Belgium,14.1,231,507,577,37.3,18,433,530
+309,542,Sliven,Bulgaria,12.3,11,34,40,16.5,0,9,17
+310,711,Burgas,Bulgaria,12.8,35,97,112,15.7,0,21,44
+311,2,Antwerp,Belgium,13.8,118,268,306,39.7,22,254,307
+312,430,Dessau-Roßlau,Germany,12.8,25,68,79,19.6,0,24,40
+313,645,Bitonto,Italy,14.9,13,26,30,21.7,0,9,14
+314,346,Sagunto,Spain,13.5,14,34,39,22.6,0,15,22
+315,374,Celle,Germany,12.6,16,45,52,19.8,0,17,27
+316,495,Olsztyn,Poland,12.9,31,82,95,18.9,0,27,46
+317,469,Karlovy Vary,Czech Republic,12.5,8,25,29,18.1,0,8,14
+318,784,Matera,Italy,14.5,15,32,36,17.8,0,8,14
+319,175,Bocholt,Germany,13.4,16,39,45,26.8,0,23,31
+320,582,Potsdam,Germany,13.7,41,96,109,19.8,0,31,52
+321,513,Yambol,Bulgaria,12.7,16,43,50,18.2,0,13,24
+322,490,Arezzo,Italy,14.2,29,63,72,22.5,0,25,38
+323,254,Düren,Germany,13.0,20,54,63,23.1,0,26,38
+324,134,Venlo,Netherlands,13.4,21,51,59,28.1,0,32,43
+325,195,Saint-Quentin,France,12.7,14,38,44,23.0,0,19,28
+326,44,Lille,France,14.0,199,438,499,31.2,4,294,380
+327,47,Ghent,Belgium,13.9,58,129,147,30.5,1,85,111
+328,196,Málaga,Spain,13.4,109,264,304,26.2,0,147,204
+329,649,Piła,Poland,12.5,12,34,40,16.1,0,8,17
+330,292,Reus,Spain,13.8,24,55,63,25.6,0,28,39
+331,140,Nuremberg,Germany,13.1,115,293,338,26.4,0,169,234
+332,269,Gera,Germany,12.8,24,66,77,22.6,0,31,46
+333,854,Pula,Croatia,13.1,13,32,37,10.1,0,1,8
+334,322,Lelystad,Netherlands,13.7,12,28,32,24.5,0,14,19
+335,232,Heilbronn,Germany,13.3,27,67,77,25.1,0,35,50
+336,231,Plauen,Germany,12.7,16,46,54,23.0,0,23,33
+337,496,Girona,Spain,14.5,22,45,50,23.7,0,19,27
+338,803,Roman,Romania,13.8,9,21,24,15.7,0,4,8
+339,57,Linz,Austria,13.6,42,98,113,30.3,1,66,86
+340,73,Boulogne-sur-Mer,France,12.6,20,57,67,25.8,0,34,48
+341,42,Roosendaal,Netherlands,13.3,16,39,45,31.2,0,29,37
+342,143,Ludwigsburg,Germany,13.4,20,49,57,28.2,0,31,41
+343,176,Middelburg,Netherlands,13.6,22,50,57,28.4,0,31,41
+344,272,Communauté d'Agglomération Val d'Yerres Val de Seine (CAVYVS),France,13.7,15,36,41,25.8,0,19,26
+345,147,Bilbao (metropolitan area),Spain,13.6,184,428,490,29.6,0,279,368
+346,214,Namur,Belgium,12.8,22,59,69,23.0,0,29,43
+347,30,Ludwigshafen am Rhein,Germany,13.2,34,88,101,29.5,1,60,79
+348,366,Zwickau,Germany,12.6,23,66,76,20.6,0,26,42
+349,395,Chambéry,France,13.6,26,61,69,21.9,0,24,37
+350,12,Rotterdam,Netherlands,13.4,234,565,650,35.3,15,483,600
+351,111,Bergen op Zoom,Netherlands,13.3,13,33,38,29.8,0,23,30
+352,274,Graz,Austria,13.8,59,133,152,25.8,0,69,96
+353,437,Ferrol,Spain,12.9,15,40,47,20.3,0,15,25
+354,247,Valence,France,13.6,25,59,68,25.0,0,30,43
+355,60,Mannheim,Germany,13.1,61,155,179,29.1,1,104,138
+356,764,Varna,Bulgaria,12.8,58,159,185,15.2,0,33,70
+357,315,Hildesheim,Germany,12.9,23,62,71,22.3,0,28,42
+358,376,Mulhouse,France,13.4,49,117,134,23.1,0,52,78
+359,103,Communauté d'Agglomération Les Portes de l'Essonne,France,13.8,9,20,23,30.3,0,13,17
+360,107,Calais,France,12.8,16,43,50,28.8,0,30,40
+361,270,Klagenfurt,Austria,13.4,21,51,59,25.4,0,27,38
+362,177,Bruges,Belgium,13.7,29,68,77,27.3,0,39,53
+363,303,Setúbal,Portugal,13.1,25,64,74,23.6,0,31,46
+364,480,Weimar,Germany,12.5,13,39,46,18.9,0,13,23
+365,364,Offenburg,Germany,13.2,13,34,39,22.7,0,15,23
+366,439,Roanne,France,12.9,14,37,43,20.7,0,15,23
+367,82,Remscheid,Germany,12.4,23,70,82,28.4,0,49,66
+368,628,Elbląg,Poland,12.6,1,4,5,17.1,0,1,2
+369,696,Ełk,Poland,12.5,9,27,31,16.1,0,7,13
+370,4,Paris (metropolitan area),France,14.9,1259,2505,2822,39.7,185,2135,2575
+371,230,Communauté d'Agglomération Seine-Essonne (CASE),France,13.9,11,25,28,27.6,0,14,19
+372,33,The Hague,Netherlands,13.4,136,327,376,34.9,3,275,343
+373,434,Vilanova i la Geltrú,Spain,14.1,14,30,34,24.2,0,14,20
+374,245,Strasbourg,France,14.0,88,196,223,26.8,0,106,145
+375,77,Arnhem,Netherlands,13.6,31,72,83,31.5,0,51,66
+376,152,Bergisch Gladbach,Germany,13.1,25,66,76,27.9,0,42,57
+377,226,Fürth,Germany,13.0,24,62,71,25.1,0,34,47
+378,653,Montbéliard,France,13.1,21,53,62,18.5,0,16,28
+379,169,Esslingen,Germany,13.1,19,48,56,26.7,0,29,40
+380,417,Szczecin,Poland,12.6,73,210,245,20.2,0,82,133
+381,92,Tilburg,Netherlands,13.4,38,91,105,31.0,0,65,84
+382,81,Soest,Netherlands,12.5,11,33,39,28.8,0,24,32
+383,646,Grosseto,Italy,13.5,21,50,57,19.7,0,17,27
+384,49,Versailles,France,14.2,31,67,76,33.4,1,49,61
+385,802,Neubrandenburg,Germany,12.8,13,36,41,14.6,0,7,15
+386,410,Colmar,France,13.1,17,45,52,22.1,0,20,30
+387,813,Alba Iulia,Romania,13.8,11,25,28,15.8,0,5,10
+388,95,Hanau,Germany,13.1,18,47,54,30.7,0,34,45
+389,88,Breda,Netherlands,13.1,33,84,97,31.5,0,63,82
+390,699,Buzău,Romania,13.7,21,48,55,19.3,0,15,25
+391,174,Communauté d'Agglomération Europ'Essonne,France,13.9,21,47,53,29.7,0,30,39
+392,257,Communauté d'Agglomération de Marne et Chantereine,France,13.9,12,26,30,28.0,0,15,21
+393,237,Enschede,Netherlands,13.1,29,75,86,25.7,0,42,58
+394,120,Le Havre,France,12.6,38,110,128,26.5,0,69,95
+395,35,Lyon,France,14.1,228,497,566,32.2,7,346,443
+396,684,Iași,Romania,13.3,43,106,123,18.6,0,32,56
+397,209,Apeldoorn,Netherlands,12.9,28,75,87,25.8,0,43,60
+398,64,Karlsruhe,Germany,13.2,62,154,177,28.3,1,98,132
+399,32,Wuppertal,Germany,12.5,67,197,229,31.6,2,161,207
+400,78,Haarlem,Netherlands,12.9,52,138,160,31.3,0,106,137
+401,447,Dobrich,Bulgaria,12.0,7,24,28,18.4,0,8,15
+402,128,Leuven,Belgium,13.8,19,44,50,29.1,0,27,36
+403,204,Bamberg,Germany,12.6,14,42,48,25.0,0,24,34
+404,43,Eindhoven,Netherlands,13.2,47,119,138,33.2,1,97,122
+405,123,Nice,France,12.9,108,289,335,25.0,2,158,224
+406,262,Pforzheim,Germany,12.7,23,65,76,23.9,0,34,49
+407,654,Friedrichshafen,Germany,13.4,12,29,34,19.6,0,10,16
+408,258,Augsburg,Germany,12.8,55,150,174,24.1,0,78,113
+409,320,Wilhelmshaven,Germany,12.1,14,48,57,20.8,0,21,34
+410,675,Blagóevgrad,Bulgaria,12.8,10,27,31,17.8,0,8,14
+411,758,Melilla,Spain,13.2,11,29,33,17.2,0,7,14
+412,319,Passau,Germany,12.7,11,30,35,22.6,0,14,21
+413,293,Communauté d'Agglomération du Val d'Orge,France,14.0,19,42,47,28.2,0,24,33
+414,210,Reims,France,13.3,34,84,96,25.5,0,45,64
+415,317,Cagliari,Italy,12.7,28,77,90,23.3,0,38,57
+416,442,Ingolstadt,Germany,13.2,25,63,72,22.6,0,28,42
+417,300,Lübeck,Germany,12.2,41,130,153,21.4,0,60,93
+418,145,Darmstadt,Germany,13.0,29,76,88,27.3,0,47,64
+419,355,Erfurt,Germany,12.7,39,110,128,22.2,0,50,76
+420,587,Torrevieja,Spain,13.1,16,41,48,20.1,0,15,25
+421,112,Nijmegen,Netherlands,13.3,28,69,80,31.3,0,51,66
+422,132,Iserlohn,Germany,12.4,17,51,60,26.5,0,33,45
+423,108,Offenbach am Main,Germany,12.9,20,54,63,30.3,0,40,52
+424,530,Castellón de la Plana,Spain,13.2,32,79,91,21.4,0,32,50
+425,227,Melun,France,13.0,14,38,44,25.8,0,22,30
+426,178,Helmond,Netherlands,13.4,16,38,43,29.7,0,26,34
+427,141,Wetzlar,Germany,12.2,9,30,36,23.9,0,17,25
+428,229,Münster,Germany,13.4,59,143,165,26.7,0,82,113
+429,557,Brașov,Romania,12.5,36,106,124,18.8,0,36,62
+430,267,Almelo,Netherlands,12.7,12,34,39,24.6,0,19,26
+431,93,Wiesbaden,Germany,12.7,51,141,164,29.5,0,102,134
+432,473,Rijeka,Croatia,11.9,20,72,85,18.4,0,25,44
+433,466,Compiègne,France,13.0,10,27,31,21.9,0,12,18
+434,545,Sibiu,Romania,12.5,19,56,66,19.0,0,20,34
+435,595,Gandia,Spain,13.5,13,32,36,21.3,0,12,19
+436,146,Bremen,Germany,12.5,102,299,349,25.0,1,172,244
+437,532,Beauvais,France,12.6,11,31,36,19.7,0,11,19
+438,505,Troyes,France,12.9,21,57,67,21.1,0,23,37
+439,379,Landshut,Germany,12.5,13,38,44,21.7,0,17,26
+440,286,Braunschweig,Germany,12.6,47,135,157,21.9,0,61,94
+441,51,Rouen,France,12.7,75,212,246,27.7,2,140,189
+442,130,Gouda,Netherlands,12.8,11,31,36,30.0,0,23,30
+443,179,Erlangen,Germany,12.8,20,55,64,25.3,0,31,44
+444,121,Saarbrücken,Germany,12.3,32,100,117,25.0,0,59,84
+445,25,Frankfurt,Germany,13.0,115,303,350,34.4,6,262,329
+446,723,Bârlad,Romania,12.7,7,20,24,17.3,0,6,11
+447,331,Bielefeld,Germany,12.6,61,174,202,22.7,0,84,125
+448,539,Wolfsburg,Germany,12.4,23,69,80,19.2,0,25,42
+449,373,Gdańsk,Poland,12.4,73,222,260,21.5,0,100,155
+450,308,Hengelo,Netherlands,12.9,13,35,40,24.9,0,19,27
+451,363,Innsbruck,Austria,13.4,21,50,58,25.3,0,27,37
+452,789,Fréjus,France,12.2,16,51,59,14.9,0,10,23
+453,340,Arras,France,12.4,13,38,45,22.6,0,19,28
+454,424,Ceuta,Spain,12.5,11,25,29,23.1,0,12,18
+455,261,Oss,Netherlands,13.0,14,37,43,26.3,0,22,30
+456,388,Creil,France,13.2,10,26,30,24.6,0,13,19
+457,427,Alicante,Spain,13.1,55,143,165,23.2,0,68,100
+458,564,Châlons-en-Champagne,France,12.9,9,25,30,20.3,0,10,16
+459,540,Belfort,France,12.4,14,43,50,19.0,0,15,26
+460,599,Alcalá de Guadaíra,Spain,13.4,11,26,30,21.4,0,10,16
+461,80,Stuttgart,Germany,13.1,104,269,310,29.3,2,184,243
+462,127,CA des Lacs de l'Essonne,France,14.0,8,17,19,31.2,0,12,15
+463,194,Regensburg,Germany,12.8,25,69,80,26.8,0,43,58
+464,479,Irun,Spain,13.5,10,25,29,23.8,0,12,17
+465,655,Rosenheim,Germany,12.9,10,28,33,19.2,0,10,16
+466,792,Sanlúcar de Barrameda,Spain,12.4,9,26,30,15.3,0,5,12
+467,333,Oldenburg,Germany,12.5,27,78,92,22.5,0,38,57
+468,91,Basel (metropolitan area),Switzerland,13.3,56,140,162,26.7,1,82,112
+469,695,Bourges,France,12.4,16,48,56,17.4,0,14,26
+470,389,Avignon,France,12.8,29,80,93,22.7,0,38,56
+471,519,Charleville-Mézières,France,12.1,9,30,36,18.8,0,11,19
+472,113,Mainz,Germany,13.0,36,96,111,30.6,0,71,92
+473,106,'s-Hertogenbosch,Netherlands,13.4,24,57,66,30.3,0,40,52
+474,323,Osnabrück,Germany,12.7,27,76,89,24.0,0,40,58
+475,250,Sankt Augustin,Germany,12.9,9,25,29,26.5,0,15,21
+476,489,Almería,Spain,12.4,26,76,89,20.4,0,31,50
+477,464,Fuengirola,Spain,13.3,10,25,29,23.6,0,12,18
+478,135,Würzburg,Germany,12.7,24,67,78,25.1,0,38,53
+479,701,Stralsund,Germany,11.9,8,30,35,16.1,0,8,16
+480,117,Purmerend,Netherlands,12.5,10,31,36,30.0,0,24,31
+481,392,Winterthur,Switzerland,13.3,17,42,48,24.3,0,21,30
+482,86,Bonn,Germany,12.9,53,142,164,29.5,1,100,132
+483,70,Zaanstad,Netherlands,12.6,22,63,74,30.5,0,49,63
+484,492,Freiburg im Breisgau,Germany,12.9,36,95,110,22.0,0,42,64
+485,327,Neumünster,Germany,11.9,12,43,50,21.3,0,20,32
+486,381,Gorzów Wielkopolski,Poland,11.8,14,53,63,19.9,0,22,36
+487,744,Saint-Nazaire,France,12.1,16,51,60,16.1,0,13,26
+488,277,Deventer,Netherlands,12.9,16,42,49,26.0,0,25,34
+489,201,Aachen,Germany,12.7,39,109,127,27.4,0,70,96
+490,115,Geneva (metropolitan area),Switzerland,13.6,59,138,158,31.6,1,99,128
+491,754,Altamura,Italy,14.0,12,27,31,20.6,0,9,15
+492,704,Béziers,France,11.9,16,57,67,16.0,0,15,30
+493,192,Hannover,Germany,12.5,86,257,300,25.3,0,152,214
+494,101,Hilversum,Netherlands,12.5,15,43,50,31.9,0,36,46
+495,494,Stargard,Poland,11.8,7,27,32,18.6,0,10,17
+496,154,Plateau de Saclay,France,13.7,13,29,33,28.5,0,18,23
+497,589,Biel/Bienne,Switzerland,12.9,10,28,32,20.7,0,11,17
+498,198,Evry,France,14.1,14,31,36,30.6,0,20,26
+499,22,Amsterdam,Netherlands,12.9,121,322,373,35.9,7,299,370
+500,294,Kassel,Germany,12.3,32,100,117,23.7,0,55,80
+501,202,Hamburg,Germany,12.5,271,808,945,25.0,2,468,663
+502,52,Leiden,Netherlands,12.9,37,101,117,34.0,1,87,110
+503,414,Amiens,France,12.9,25,65,76,24.1,0,33,48
+504,110,Koblenz,Germany,12.4,20,60,70,27.3,0,40,55
+505,559,CA des deux Rives de la Seine,France,13.8,9,20,22,24.3,0,9,13
+506,786,Focșani,Romania,13.4,11,27,31,18.4,0,8,14
+507,535,Pamplona (metropolitan area),Spain,13.6,53,125,143,23.9,0,59,85
+508,593,San Fernando,Spain,12.6,12,34,39,19.9,0,13,21
+509,499,Trier,Germany,12.4,18,54,64,20.6,0,23,36
+510,509,Logroño,Spain,13.1,27,68,78,23.2,0,32,47
+511,690,Chalon-sur-Saône,France,12.8,18,50,58,19.3,0,17,29
+512,551,Paderborn,Germany,12.7,22,62,72,20.9,0,25,40
+513,522,CA de Sophia-Antipolis,France,12.9,31,85,99,21.1,0,35,55
+514,116,Lisbon (metropolitan area),Portugal,11.9,287,857,1002,27.9,2,619,835
+515,276,Ede,Netherlands,12.8,22,60,70,26.6,0,37,50
+516,498,Torremolinos,Spain,13.2,9,23,27,23.4,0,11,16
+517,834,Râmnicu Vâlcea,Romania,13.7,15,34,39,15.8,0,7,14
+518,604,Limassol,Cyprus,13.0,25,67,77,20.9,0,27,42
+519,621,Chartres,France,12.4,15,46,54,19.3,0,17,28
+520,224,Heidelberg,Germany,13.1,25,63,73,27.3,0,39,53
+521,118,Metz,France,12.7,30,84,98,27.6,0,55,75
+522,769,"El Puerto de Santa María
+",Spain,12.7,11,30,35,17.4,0,8,16
+523,598,Córdoba,Spain,12.8,50,136,158,20.8,0,54,86
+524,605,Jerez de la Frontera,Spain,12.6,26,73,85,20.0,0,28,46
+525,428,Huelva,Spain,12.5,19,56,65,22.5,0,27,40
+526,316,Zwolle,Netherlands,12.7,16,46,54,25.4,0,27,37
+527,745,Faro,Portugal,12.3,10,31,36,17.0,0,9,17
+528,399,Nicosia,Cyprus,12.9,31,83,96,24.5,0,44,63
+529,785,Châteauroux,France,12.6,12,36,42,16.8,0,9,18
+530,283,Nissewaard,Netherlands,13.2,19,49,56,28.5,0,32,43
+531,402,Annemasse,France,13.1,11,28,33,25.3,0,15,22
+532,193,Nancy,France,12.8,35,95,111,28.5,0,65,87
+533,94,Zürich (metropolitan area),Switzerland,13.0,90,235,272,28.6,2,156,208
+534,361,Flensburg,Germany,11.6,10,43,51,20.4,0,20,32
+535,385,Tours,France,12.8,42,115,134,22.3,0,52,79
+536,482,Neu-Ulm,Germany,12.5,8,25,29,21.9,0,12,18
+537,641,Rostock,Germany,12.0,29,98,116,18.1,0,33,59
+538,800,Greifswald,Germany,12.0,9,30,35,14.8,0,6,14
+539,455,Saint-Étienne,France,12.3,55,169,198,21.8,0,78,120
+540,432,Meaux,France,13.2,10,24,28,24.2,0,12,18
+541,37,Marseille,France,12.6,146,425,496,27.6,7,284,384
+542,676,Schwerin,Germany,11.8,13,49,58,17.0,0,15,28
+543,820,Suceava,Romania,13.0,11,29,34,16.0,0,6,13
+544,164,Bayreuth,Germany,12.0,11,37,44,26.1,0,24,34
+545,504,A Coruña,Spain,12.6,37,106,124,22.1,0,49,74
+546,306,St. Gallen,Switzerland,12.4,10,31,36,23.9,0,16,24
+547,290,Ulm,Germany,12.2,17,54,64,22.6,0,27,41
+548,763,Kaunas,Lithuania,11.3,33,155,186,14.3,0,31,76
+549,548,Nîmes,France,12.3,34,104,122,20.3,0,42,69
+550,56,Zoetermeer,Netherlands,13.1,17,43,49,34.5,0,37,46
+551,1,Madrid (metropolitan area),Spain,12.8,689,1876,2179,39.2,206,1966,2380
+552,220,Heemskerk,Netherlands,12.6,14,40,47,27.8,0,27,37
+553,554,Göttingen,Germany,12.5,19,55,64,21.0,0,23,36
+554,167,Kiel,Germany,12.0,32,108,128,25.5,0,68,96
+555,422,Fulda,Germany,12.1,10,32,38,21.9,0,15,24
+556,592,Ibiza,Spain,12.6,5,13,15,20.7,0,5,9
+557,326,Martigues,France,12.5,9,27,32,24.5,0,15,22
+558,266,Annecy,France,12.3,17,51,60,23.5,0,27,40
+559,686,Angoulême,France,12.3,16,49,58,18.6,0,17,29
+560,611,Jena,Germany,12.4,16,49,58,19.0,0,17,30
+561,635,Palma de Mallorca,Spain,12.5,52,153,179,20.0,0,59,97
+562,384,Salzburg,Austria,12.7,21,58,68,24.7,0,32,46
+563,713,Dos Hermanas,Spain,13.3,15,38,44,20.9,0,15,23
+564,452,Toulon,France,12.0,60,204,241,20.7,0,90,143
+565,260,Kaiserslautern,Germany,11.8,13,49,58,23.6,0,28,41
+566,531,Grenoble,France,13.1,51,130,150,23.2,0,61,91
+567,797,"Piatra Neamț
+",Romania,12.2,10,31,37,15.7,0,7,15
+568,171,Munich,Germany,12.7,197,548,637,27.3,3,352,479
+569,246,Alphen aan den Rijn,Netherlands,12.6,13,39,45,27.7,0,26,35
+570,477,Le Mans,France,12.2,23,76,89,21.3,0,35,54
+571,647,Sénart,France,13.4,2,5,6,23.0,0,2,3
+572,205,Lausanne (metropolitan area),Switzerland,12.9,30,81,94,29.0,0,56,74
+573,268,Aschaffenburg,Germany,11.9,9,33,39,24.1,0,19,28
+574,383,Communauté d'agglomération de Mantes-en-Yvelines,France,12.7,10,28,32,24.8,0,15,22
+575,773,Botoșani,Romania,13.1,13,32,37,19.2,0,11,18
+576,429,Communauté d'agglomération de la Brie Francilienne,France,13.3,6,15,18,26.7,0,9,12
+577,136,Marne la Vallée,France,13.8,9,19,22,32.7,0,14,18
+578,242,Veenendaal,Netherlands,12.5,7,22,25,27.6,0,15,20
+579,386,Bern (metropolitan area),Switzerland,12.4,31,94,110,23.6,0,50,73
+580,511,Orléans,France,12.8,35,96,112,23.1,0,47,69
+581,510,Póvoa de Varzim,Portugal,12.5,8,23,26,22.2,0,11,16
+582,425,Reutlingen,Germany,12.4,16,48,57,23.2,0,25,37
+583,779,Besançon,France,12.5,22,65,76,17.7,0,19,35
+584,525,Ceské Budejovice,Czech Republic,11.5,10,40,48,18.7,0,16,27
+585,566,Dijon,France,12.6,32,92,107,21.9,0,41,63
+586,636,Aubagne,France,12.2,14,44,51,19.0,0,16,27
+587,518,Lüneburg,Germany,11.8,9,34,40,19.9,0,14,23
+588,349,Sindelfingen,Germany,12.1,8,27,31,23.8,0,15,22
+589,626,Lucerne (metropolitan area),Switzerland,12.6,20,56,66,20.6,0,23,36
+590,500,Bayonne,France,11.8,16,60,71,20.2,0,26,43
+591,662,Bordeaux,France,12.7,92,257,299,20.7,0,103,164
+592,89,Amersfoort,Netherlands,12.6,18,52,60,32.7,0,44,56
+593,415,Cergy-Pontoise,France,13.5,19,45,52,26.9,0,26,35
+594,656,Suwałki,Poland,11.7,1,3,4,17.7,0,1,2
+595,700,La Rochelle,France,12.0,20,69,81,18.3,0,23,41
+596,335,Valladolid,Spain,12.1,42,139,164,24.3,0,81,116
+597,718,San Vicente del Raspeig / Sant Vicent del Raspeig,Spain,12.9,7,19,22,20.6,0,7,12
+598,702,Konstanz,Germany,12.2,11,35,41,18.9,0,12,21
+599,454,Leeuwarden,Netherlands,12.2,13,41,48,22.4,0,21,31
+600,558,Angers,France,12.4,32,97,113,21.7,0,44,68
+601,299,Siegen,Germany,11.6,12,47,56,22.4,0,25,38
+602,751,Elche,Spain,12.6,29,83,97,19.0,0,29,49
+603,104,Copenhagen (metropolitan area),Denmark,11.7,126,488,580,29.1,1,398,527
+604,830,Bistrița,Romania,12.6,7,21,24,15.2,0,4,9
+605,729,Évreux,France,12.2,9,29,34,18.4,0,10,17
+606,586,Vigo,Spain,12.3,37,111,130,21.4,0,50,78
+607,225,Hoorn,Netherlands,11.9,8,27,31,26.6,0,18,25
+608,778,Niort,France,12.3,13,42,49,17.8,0,13,24
+609,730,Tulcea,Romania,11.8,7,24,29,17.3,0,8,14
+610,761,Campobasso,Italy,12.3,7,23,27,18.3,0,7,13
+611,634,Nantes,France,12.4,64,196,229,20.8,0,83,132
+612,683,Aveiro,Portugal,12.0,9,32,38,18.8,0,12,20
+613,835,Lorca,Spain,12.2,10,31,37,14.2,0,5,14
+614,391,Clermont-Ferrand,France,12.2,33,104,122,23.4,0,55,82
+615,804,Lorient,France,11.7,20,77,91,15.2,0,19,39
+616,708,Marbella,Spain,12.6,14,40,47,20.6,0,16,26
+617,823,Chiclana de la Frontera,Spain,12.5,8,23,26,16.2,0,5,11
+618,321,Haarlemmermeer,Netherlands,12.7,15,43,50,27.6,0,28,38
+619,38,Utrecht,Netherlands,12.9,45,122,142,34.0,2,106,134
+620,403,Caen,France,12.2,24,76,90,23.9,0,43,62
+621,739,Paredes,Portugal,12.7,10,27,32,20.3,0,11,17
+622,180,Lugano (metropolitan area),Switzerland,12.2,11,34,40,28.7,0,26,34
+623,318,Alkmaar,Netherlands,12.2,20,64,75,26.4,0,42,58
+624,249,Giessen,Germany,12.0,9,31,36,26.8,0,21,29
+625,828,Albi,France,12.0,10,36,43,14.5,0,7,17
+626,799,Veliko Tarnovo,Bulgaria,11.7,3,11,13,15.7,0,3,6
+627,603,Coimbra,Portugal,11.9,18,62,74,20.5,0,28,44
+628,795,Brive-la-Gaillarde,France,11.9,10,36,42,16.7,0,10,20
+629,733,Klaipėda,Lithuania,10.7,8,63,77,14.7,0,15,36
+630,714,Pau,France,11.7,17,64,76,18.3,0,23,41
+631,462,Assen,Netherlands,11.8,7,27,32,22.7,0,14,22
+632,580,Aix-en-Provence,France,12.1,37,125,147,20.6,0,55,87
+633,507,Marburg,Germany,12.0,8,28,33,22.9,0,15,22
+634,674,Odense,Denmark,11.4,17,77,92,17.9,0,28,50
+635,487,Cherbourg,France,11.5,8,32,38,21.4,0,16,25
+636,710,Split,Croatia,11.1,13,72,86,16.4,0,22,43
+637,666,Limoges,France,11.8,23,84,99,19.7,0,35,57
+638,777,Vilnius,Lithuania,11.1,38,210,253,15.1,0,53,115
+639,663,Tübingen,Germany,12.5,9,26,31,22.1,0,12,19
+640,460,Elda (metropolitan area),Spain,11.6,8,34,41,21.9,0,18,27
+641,408,Groningen,Netherlands,12.2,18,59,70,24.9,0,35,50
+642,816,Saint-Brieuc,France,11.4,11,51,61,14.4,0,11,25
+643,767,Sassari,Italy,11.9,13,48,56,17.9,0,16,29
+644,824,Zadar,Croatia,11.6,7,30,36,14.3,0,6,14
+645,838,Vannes,France,11.7,14,53,63,13.7,0,10,23
+646,698,Villingen-Schwenningen,Germany,11.3,8,36,44,17.6,0,13,23
+647,760,Tarbes,France,11.3,7,34,41,16.7,0,11,20
+648,485,Eastbourne,United Kingdom,11.1,10,50,61,20.4,0,25,40
+649,788,Perpignan,France,11.2,23,115,139,15.8,0,32,65
+650,742,Benidorm,Spain,11.7,6,23,27,18.7,0,9,15
+651,753,Toulouse,France,12.4,65,198,232,20.3,0,80,130
+652,688,Rennes,France,12.1,35,117,138,20.6,0,51,81
+653,420,Vila Franca de Xira,Portugal,12.0,12,41,48,24.8,0,25,35
+654,483,Almere,Netherlands,12.4,14,42,49,26.2,0,27,37
+655,365,Luxembourg,Luxembourg,11.7,8,30,35,25.3,0,20,28
+656,470,Alcalá de Henares,Spain,12.3,18,57,67,26.3,0,37,51
+657,772,Viana do Castelo,Portugal,11.5,9,36,43,17.7,0,12,23
+658,618,Gdynia,Poland,10.9,15,97,118,18.1,0,39,69
+659,341,Vitoria/Gasteiz,Spain,11.7,21,83,99,26.3,0,58,80
+660,826,L'Aquila,Italy,11.7,7,27,32,15.3,0,6,14
+661,536,Guimarães,Portugal,11.5,11,46,55,21.8,0,24,37
+662,726,Benalmádena,Spain,11.9,4,16,19,20.6,0,7,11
+663,712,Aalborg,Denmark,10.8,11,77,93,16.9,0,27,51
+664,155,Riga,Latvia,10.3,18,278,344,22.6,1,190,284
+665,627,Aarhus,Denmark,11.1,18,101,122,19.3,0,45,75
+666,766,Toledo,Spain,11.8,7,26,31,19.7,0,11,18
+667,506,Montpellier,France,12.0,35,119,141,24.7,0,72,103
+668,478,Saint-Quentin en Yvelines,France,12.8,10,27,31,26.6,0,16,23
+669,508,Braga,Portugal,11.5,13,51,61,23.8,0,31,45
+670,794,Poitiers,France,12.1,12,40,47,19.6,0,16,26
+671,717,Brest,France,11.1,13,68,82,18.5,0,28,48
+672,396,Guadalajara,Spain,11.4,7,31,37,25.2,0,21,30
+673,809,Quimper,France,10.9,5,31,38,15.0,0,8,18
+674,817,Talavera de la Reina,Spain,11.5,7,29,34,16.4,0,8,16
+675,814,Potenza,Italy,11.1,5,26,31,15.5,0,7,15
+676,808,Badajoz,Spain,11.5,10,43,51,17.2,0,14,26
+677,755,Ciudad real,Spain,11.5,6,24,28,19.6,0,10,17
+678,461,Torrejón de Ardoz,Spain,12.3,9,27,32,29.0,0,20,26
+679,818,Panevežys,Lithuania,10.3,3,41,51,13.2,0,7,22
+680,574,Sintra,Portugal,11.1,26,108,129,22.7,0,63,94
+681,801,Albacete,Spain,11.5,12,51,61,18.0,0,18,33
+682,515,Daugavpils,Latvia,9.5,0,40,51,15.9,0,15,31
+683,453,Brighton and Hove (metropolitan area),United Kingdom,10.8,14,103,125,21.9,0,61,93
+684,736,Linares,Spain,10.8,3,19,24,18.1,0,8,14
+685,616,Kempten (Allgäu),Germany,10.7,3,27,33,19.3,0,13,21
+686,284,Southend-on-Sea (metropolitan area),United Kingdom,10.3,7,101,125,23.1,0,71,106
+687,311,Medway,United Kingdom,10.5,7,78,96,23.6,0,56,81
+688,652,Palencia,Spain,10.9,5,30,36,20.4,0,15,24
+689,716,Koszalin,Poland,10.1,1,36,45,15.9,0,12,25
+690,493,Bournemouth (metropolitan area),United Kingdom,10.4,12,132,162,20.7,0,75,119
+691,581,Alcoy,Spain,10.1,2,22,28,18.2,0,10,18
+692,474,Salamanca,Spain,10.7,9,60,74,22.7,0,39,58
+693,431,Worthing,United Kingdom,10.3,3,46,57,21.2,0,28,44
+694,328,Thanet,United Kingdom,10.0,3,53,67,21.8,0,36,56
+695,719,Pontevedra,Spain,10.8,4,24,29,20.0,0,12,19
+696,463,Jelgava,Latvia,9.3,0,21,27,17.7,0,11,19
+697,815,Siauliai ,Lithuania,9.5,0,35,44,12.5,0,6,20
+698,812,Merida,Spain,10.8,2,15,19,17.0,0,5,10
+699,807,Lugo,Spain,10.7,5,35,43,17.1,0,13,24
+700,265,Thurrock,United Kingdom,10.3,3,40,49,25.4,0,33,47
+701,562,Slupsk,Poland,10.0,0,5,6,18.2,0,2,4
+702,332,Bristol,United Kingdom,10.4,10,111,137,25.0,0,88,125
+703,756,Valdemoro,Spain,12.2,3,11,13,25.6,0,7,10
+704,570,Hastings,United Kingdom,10.3,2,35,43,20.3,0,19,31
+705,850,Alytus,Lithuania,10.0,1,23,29,10.7,0,2,10
+706,252,Warrington,United Kingdom,10.0,2,62,77,24.5,0,51,73
+707,844,Ajaccio,France,10.6,3,23,29,13.3,0,5,12
+708,285,Rotherham,United Kingdom,9.7,1,80,102,23.2,0,64,95
+709,721,Ourense,Spain,10.3,5,38,47,19.5,0,20,33
+710,787,Zamora,Spain,10.6,3,23,28,18.8,0,10,18
+711,189,Liverpool (metropolitan area),United Kingdom,9.4,2,407,526,24.5,0,386,554
+712,358,Gravesham,United Kingdom,10.2,1,27,34,24.3,0,22,31
+713,168,Halton,United Kingdom,9.7,0,36,46,26.0,0,35,49
+714,356,Derby,United Kingdom,10.0,2,72,91,23.2,0,55,82
+715,369,Newport,United Kingdom,9.8,1,45,57,22.5,0,33,50
+716,170,West Midlands urban area,United Kingdom,9.5,2,613,788,25.8,0,620,865
+717,343,Chesterfield,United Kingdom,9.5,0,34,44,21.9,0,26,40
+718,457,East Staffordshire,United Kingdom,9.9,1,36,45,21.6,0,24,38
+719,367,Basildon,United Kingdom,10.2,3,51,63,24.8,0,41,59
+720,305,Wakefield,United Kingdom,9.4,0,94,121,22.6,0,77,115
+721,181,Manchester (metropolitan area),United Kingdom,9.5,16,703,903,26.2,1,724,1004
+722,339,Barnsley,United Kingdom,9.3,0,68,88,21.9,0,54,82
+723,687,Wrexham,United Kingdom,9.4,0,40,52,17.1,0,19,35
+724,578,Waveney,United Kingdom,9.1,0,40,53,17.9,0,22,40
+725,579,Maidstone,United Kingdom,9.9,1,45,56,20.4,0,27,44
+726,749,Santiago de Compostela,Spain,9.8,2,27,34,18.2,0,13,24
+727,658,Ipswich,United Kingdom,10.1,2,42,53,20.1,0,24,39
+728,725,Collado Villalba,Spain,10.8,2,12,15,22.6,0,8,11
+729,456,Cheltenham,United Kingdom,9.8,0,36,46,21.9,0,26,39
+730,350,Doncaster,United Kingdom,9.3,0,87,112,21.9,0,69,105
+731,330,Sheffield,United Kingdom,9.7,1,149,189,24.0,0,126,182
+732,186,London (metropolitan area),United Kingdom,10.3,107,1683,2088,30.3,5,1836,2398
+733,709,Swansea,United Kingdom,9.2,1,70,91,16.8,0,33,63
+734,433,Malmö,Sweden,9.7,5,89,112,23.2,0,71,105
+735,488,Portsmouth (metropolitan area),United Kingdom,9.8,4,149,189,22.2,0,109,166
+736,334,Mansfield,United Kingdom,9.3,0,30,39,22.8,0,26,38
+737,672,Great Yarmouth,United Kingdom,9.4,0,30,39,17.9,0,16,28
+738,472,León,Spain,9.7,1,44,56,22.4,0,33,50
+739,304,Kingston-upon-Hull,United Kingdom,8.9,0,62,82,22.1,0,55,83
+740,639,Ashford,United Kingdom,9.8,0,33,42,19.7,0,19,32
+741,572,Gloucester,United Kingdom,9.9,0,35,44,21.3,0,23,36
+742,664,Burgos,Spain,10.1,3,51,64,21.2,0,33,51
+743,411,Nottingham (metropolitan area),United Kingdom,9.8,2,183,231,24.1,0,152,220
+744,606,Lincoln,United Kingdom,9.6,0,28,35,20.0,0,17,28
+745,449,Cardiff,United Kingdom,9.6,2,81,104,22.9,0,65,97
+746,236,Leeds,United Kingdom,9.2,0,179,234,24.5,0,178,254
+747,435,Hartlepool,United Kingdom,8.5,0,23,31,19.0,0,17,29
+748,567,York,United Kingdom,9.6,0,53,68,20.8,0,36,56
+749,419,Blackpool (metropolitan area),United Kingdom,8.4,0,74,102,19.2,0,58,97
+750,577,Liepaja,Latvia,8.2,0,20,28,16.6,0,12,23
+751,271,Watford,United Kingdom,9.9,0,22,28,28.2,0,23,31
+752,357,Nuneaton and Bedworth,United Kingdom,9.2,0,35,45,23.2,0,31,46
+753,741,Torbay,United Kingdom,8.8,0,43,57,16.1,0,20,41
+754,782,Jaen,Spain,9.6,1,28,35,17.5,0,13,24
+755,533,Telford and Wrekin,United Kingdom,9.0,0,38,51,19.7,0,27,44
+756,625,Bath and North East Somerset,United Kingdom,9.5,1,48,61,20.1,0,31,50
+757,546,Peterborough,United Kingdom,9.3,0,41,53,20.5,0,29,46
+758,544,Cheshire West and Chester,United Kingdom,9.1,0,52,68,20.0,0,36,58
+759,550,Chelmsford,United Kingdom,9.7,0,44,56,21.8,0,32,49
+760,734,Tunbridge Wells,United Kingdom,9.5,0,30,39,18.2,0,16,28
+761,660,Swindon,United Kingdom,9.3,0,48,63,19.1,0,29,50
+762,484,Tamworth,United Kingdom,9.9,0,19,24,24.3,0,16,22
+763,377,Kirklees,United Kingdom,9.0,0,99,130,22.6,0,88,132
+764,213,Coventry,United Kingdom,9.1,0,68,89,26.4,0,77,107
+765,757,Colchester,United Kingdom,9.6,0,45,58,18.5,0,24,42
+766,677,Darlington,United Kingdom,8.5,0,27,36,16.8,0,15,29
+767,523,Narva,Estonia,8.0,0,14,20,17.4,0,10,18
+768,404,Cannock Chase,United Kingdom,9.1,0,25,33,22.8,0,23,34
+769,394,Leicester (metropolitan area),United Kingdom,9.6,0,121,155,25.1,0,114,161
+770,342,Stoke-on-Trent (metropolitan area),United Kingdom,8.9,0,93,124,23.0,0,89,132
+771,400,Luton,United Kingdom,9.2,0,36,47,23.6,0,33,49
+772,393,St Albans,United Kingdom,9.4,0,33,43,24.5,0,32,45
+773,576,Southampton (metropolitan area),United Kingdom,9.8,2,86,109,23.0,0,67,100
+774,549,Bedford,United Kingdom,8.9,0,37,49,20.2,0,28,45
+775,413,Harlow,United Kingdom,9.5,0,19,24,24.7,0,18,25
+776,602,Kettering,United Kingdom,8.7,0,22,29,19.0,0,15,26
+777,541,Milton Keynes,United Kingdom,9.1,0,46,61,21.0,0,36,56
+778,538,Reading (metropolitan area),United Kingdom,9.3,0,60,78,22.0,0,49,74
+779,351,Oslo,Norway,8.6,0,119,162,22.5,0,119,179
+780,465,Dacorum,United Kingdom,9.1,0,32,42,23.1,0,29,43
+781,682,Worcester,United Kingdom,9.4,0,23,30,20.4,0,16,25
+782,829,Ponferrada,Spain,9.4,0,18,23,15.4,0,7,14
+783,278,Burnley,United Kingdom,8.1,0,18,26,22.2,0,21,31
+784,584,Helsingborg,Sweden,9.0,0,30,40,20.8,0,24,37
+785,601,Corby,United Kingdom,8.7,0,13,18,19.5,0,10,16
+786,409,Granada (metropolitan area),Spain,8.8,0,81,108,23.4,0,81,119
+787,651,Plymouth,United Kingdom,8.6,0,55,74,18.6,0,38,66
+788,613,Basingstoke and Deane,United Kingdom,8.8,0,33,45,20.1,0,25,41
+789,560,Woking,United Kingdom,9.3,0,22,29,22.6,0,19,28
+790,591,Warwick,United Kingdom,9.1,0,31,41,21.5,0,25,39
+791,438,Preston (metropolitan area),United Kingdom,8.8,0,55,74,22.7,0,53,79
+792,344,Stevenage,United Kingdom,8.7,0,18,24,24.1,0,20,28
+793,728,Norwich,United Kingdom,9.2,0,30,39,19.7,0,20,32
+794,401,Sunderland,United Kingdom,8.0,0,56,81,20.4,0,56,90
+795,565,North East Lincolnshire,United Kingdom,8.2,0,34,48,18.8,0,27,47
+796,776,Lund,Sweden,8.8,0,26,34,17.2,0,14,27
+797,446,Middlesbrough,United Kingdom,8.1,0,28,40,20.3,0,27,43
+798,573,Bracknell Forest,United Kingdom,9.4,0,20,25,22.8,0,17,25
+799,561,Rushmoor (metropolitan area),United Kingdom,9.2,0,38,50,22.4,0,32,49
+800,588,Rugby,United Kingdom,8.7,0,23,31,20.5,0,19,30
+801,821,Viseu,Portugal,9.0,0,24,32,15.8,0,10,21
+802,805,Exeter,United Kingdom,9.3,0,28,36,17.5,0,14,26
+803,590,Stockton-on-Tees,United Kingdom,8.2,0,38,53,18.8,0,30,52
+804,248,Blackburn with Darwen,United Kingdom,7.9,0,24,35,23.3,0,31,46
+805,631,Redditch,United Kingdom,9.3,0,17,23,22.4,0,14,22
+806,521,Slough,United Kingdom,9.4,0,23,29,24.9,0,22,31
+807,534,Göteborg,Sweden,8.5,0,109,148,21.3,0,100,155
+808,780,Oxford,United Kingdom,9.7,0,26,34,20.7,0,17,27
+809,352,Bradford,United Kingdom,8.0,0,88,125,22.6,0,103,155
+810,703,Wycombe,United Kingdom,9.0,0,32,43,20.4,0,24,39
+811,762,Cambridge,United Kingdom,9.0,0,22,30,19.6,0,15,25
+812,426,Tyneside conurbation,United Kingdom,7.8,0,153,225,20.6,0,168,268
+813,659,Dundee City,United Kingdom,7.5,0,28,42,16.9,0,22,41
+814,732,Guildford,United Kingdom,8.8,0,25,34,20.0,0,19,32
+815,596,Crawley,United Kingdom,9.1,0,19,25,23.8,0,18,26
+816,348,Hyndburn,United Kingdom,7.6,0,13,20,21.8,0,17,26
+817,810,Cáceres,Spain,8.8,0,18,24,17.5,0,10,19
+818,501,Northampton,United Kingdom,8.1,0,35,50,21.8,0,38,58
+819,790,Belfast (metropolitan area),United Kingdom,7.7,0,68,101,16.3,0,46,92
+820,467,North Lanarkshire (Airdrie/Bellshill/Coatbridge/Motherwell),United Kingdom,7.0,0,47,77,18.8,0,58,100
+821,632,Edinburgh,United Kingdom,7.6,0,69,103,19.2,0,70,119
+822,827,Carlisle,United Kingdom,7.6,0,19,28,14.2,0,9,22
+823,759,Dublin (metropolitan area),Ireland,7.8,0,138,201,18.2,0,116,206
+824,848,Waterford,Ireland,7.6,0,5,8,11.8,0,1,5
+825,720,Helsinki (metropolitan area),Finland,7.6,0,130,193,18.7,0,123,212
+826,798,Cuenca,Spain,7.8,0,10,14,17.5,0,7,13
+827,837,Derry & Strabane Local Government District,United Kingdom,7.3,0,16,25,13.1,0,7,19
+828,633,Falkirk,United Kingdom,7.0,0,21,34,17.8,0,23,42
+829,459,Glasgow (metropolitan area),United Kingdom,7.5,0,113,171,22.9,0,166,247
+830,791,Turku-Abo,Finland,7.3,0,25,39,16.5,0,20,40
+831,448,Tartu,Estonia,7.2,0,13,20,21.8,0,19,30
+832,122,Tallin,Estonia,6.7,0,43,76,25.2,1,111,156
+833,825,Limerick,Ireland,7.2,0,4,7,14.6,0,3,6
+834,831,Cork,Ireland,7.2,0,10,16,14.3,0,6,15
+835,852,Galway,Ireland,7.0,0,7,11,11.3,0,2,8
+836,643,Aberdeen,United Kingdom,6.7,0,23,41,18.1,0,32,57
+837,833,Stavanger,Norway,7.3,0,12,19,15.2,0,8,18
+838,793,Inverclyde (Greenock),United Kingdom,6.8,0,8,14,15.8,0,8,16
+839,841,Norrköping,Sweden,6.9,0,15,26,13.1,0,8,22
+840,855,Kristiansand,Norway,6.9,0,7,11,11.8,0,2,8
+841,853,Linköping,Sweden,6.5,0,14,26,11.2,0,5,20
+842,796,Ávila,Spain,7.0,0,6,10,18.9,0,8,13
+843,781,Stockholm (metropolitan area),Sweden,6.5,0,116,213,18.0,0,173,309
+844,839,Västerås,Sweden,6.2,0,11,22,13.4,0,10,25
+845,843,Borås,Sweden,6.2,0,8,16,12.5,0,6,16
+846,851,Jönköping,Sweden,6.2,0,10,21,11.4,0,5,19
+847,845,Kuopio,Finland,6.1,0,8,17,11.9,0,6,17
+848,832,Bergen,Norway,6.4,0,17,32,15.0,0,18,40
+849,836,Tampere,Finland,6.2,0,14,29,14.3,0,15,36
+850,840,Örebro,Sweden,5.9,0,9,20,12.9,0,9,25
+851,842,Lahti,Finland,5.8,0,7,16,12.2,0,6,20
+852,849,Trondheim,Norway,6.0,0,9,20,12.4,0,6,22
+853,846,Uppsala,Sweden,6.0,0,11,24,12.5,0,10,27
+854,847,Jyväskylä,Finland,5.9,0,6,13,13.1,0,6,17
+855,856,Oulu,Finland,5.8,0,7,16,11.8,0,6,18
+856,857,Umeå,Sweden,5.0,0,2,10,9.5,0,2,13
+857,858,Tromsø,Norway,3.6,0,0,0,3.4,0,0,0
+858,819,Reykjavík,Iceland,3.3,0,0,0,15.9,0,14,29
